@@ -10,7 +10,7 @@ categories:
 - minecraft
 ---
 
-[![Minecraft Dirt](http://phymata.files.wordpress.com/2013/06/minecraft-grass.png)](http://phymata.files.wordpress.com/2013/06/minecraft-grass.png)I had an intermittent problem where Minecraft would freeze up on my Mac and just stop working. I would take anywhere from five to thirty seconds to unfreeze before I could start playing again. Some of the longer pauses would seem like a crash but it always eventually resumed. It was a nasty bug and extremely frustrating.
+[![Minecraft Dirt](/img/posts/minecraft-grass.png)](/img/posts/minecraft-grass.png)I had an intermittent problem where Minecraft would freeze up on my Mac and just stop working. I would take anywhere from five to thirty seconds to unfreeze before I could start playing again. Some of the longer pauses would seem like a crash but it always eventually resumed. It was a nasty bug and extremely frustrating.
 
 The root cause seems to be [this bug](http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7180557) in the JVM by Oracle for Mac OS X. The workaround is relatively simple. You need to add your hostname to the /etc/hosts file. This requires using the Terminal but it's really pretty easy.
 

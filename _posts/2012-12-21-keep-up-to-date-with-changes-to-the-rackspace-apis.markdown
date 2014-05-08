@@ -10,7 +10,7 @@ categories:
 - rackspace
 ---
 
-![RSS](http://phymata.files.wordpress.com/2012/12/rss.png)One of the trickiest parts of developing on top of an external service exposed via an HTTP API, like the [Rackspace Open Cloud API](docs.rackspace.com/api/), is keeping up to up-to-date with changes to the API. Since it's delivered as a web service it can change without you necessarily being aware of it. If a new feature is released, how would you know? If a change to an existing service is made and you could benefit from it by making an update to your code, how would you discover that?
+![RSS](/img/posts/rss.png)One of the trickiest parts of developing on top of an external service exposed via an HTTP API, like the [Rackspace Open Cloud API](docs.rackspace.com/api/), is keeping up to up-to-date with changes to the API. Since it's delivered as a web service it can change without you necessarily being aware of it. If a new feature is released, how would you know? If a change to an existing service is made and you could benefit from it by making an update to your code, how would you discover that?
 
 
 ## How To Subscribe To The Changes
@@ -30,34 +30,34 @@ Here are the links to the feeds for each Rackspace Open Cloud API as culled from
 
 
 
-	
+
   * Servers: [Feed](http://docs.rackspace.com/servers/api/v2/cs-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/servers/api/v2/cs-releasenotes/content/ch_preface.html))
 
-	
+
   * Files: [Feed](http://docs.rackspace.com/files/api/v1/cf-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/files/api/v1/cf-releasenotes/content/Dec05.html))
 
-	
+
   * Block Storage - No Feed and Release Notes yet
 
-	
+
   * Load Balancers: [Feed](http://docs.rackspace.com/loadbalancers/api/v1.0/clb-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/loadbalancers/api/v1.0/clb-releasenotes/content/doc_change_history.html))
 
-	
+
   * Databases: [Feed](http://docs.rackspace.com/cdb/api/v1.0/cdb-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/cdb/api/v1.0/cdb-releasenotes/content/doc_change_history.html))
 
-	
+
   * Networks: [Feed](http://docs.rackspace.com/servers/api/v2/cn-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/servers/api/v2/cn-releasenotes/content/ch_preface.html))
 
-	
+
   * DNS: [Feed](http://docs.rackspace.com/cdns/api/v1.0/cdns-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/cdns/api/v1.0/cdns-releasenotes/content/doc_change_history.html))
 
-	
+
   * Monitoring: [Feed](http://docs.rackspace.com/cm/api/v1.0/cm-releasenotes/atom.xml) ([Release Notes](http://docs.rackspace.com/cm/api/v1.0/cm-releasenotes/content/cmv1.0.a.html))
 
-	
+
   * Identity: [Feed](http://docs.rackspace.com/auth/api/v2.0/auth-client-devguide/atom.xml) ([Release Notes](http://docs.rackspace.com/auth/api/v2.0/auth-client-devguide/content/Release_Notes-d1e140.html))
 
-	
+
   * Service Registry: No Feed yet ([Release Notes](http://docs.rackspace.com/rsr/api/v1.0/sr-devguide/content/release-notes.html))
 
 
@@ -73,13 +73,13 @@ That's great for the APIs but what about the [Rackspace Open Cloud SDKs](http://
 
 
 
-	
+
   * Java: [Release Notes](http://www.jclouds.org/documentation/releasenotes/)
 
-	
+
   * PHP: [Release Notes](https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md)
 
-	
+
   * Python: [Release Notes](https://github.com/rackspace/pyrax/blob/master/RELEASENOTES.md)
 
 

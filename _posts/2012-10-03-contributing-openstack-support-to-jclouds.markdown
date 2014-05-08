@@ -13,7 +13,7 @@ categories:
 - openstack
 ---
 
-[![Guava](http://phymata.files.wordpress.com/2012/10/guava1.jpeg)](http://phymata.files.wordpress.com/2012/10/guava1.jpeg)
+[![Guava](/img/posts/guava1.jpeg)](/img/posts/guava1.jpeg)
 
 **Update**: Folsom instructions
 
@@ -23,13 +23,13 @@ A number of times on the jclouds-dev mailing list and IRC I've seen developers w
 
 
 
-	
+
   1. A jclouds development environment
 
-	
+
   2. Some background on jclouds development
 
-	
+
   3. An OpenStack test environment
 
 
@@ -56,49 +56,49 @@ My OpenStack test env consists of [VirtualBox](https://www.virtualbox.org/) run
 
 
 
-	
+
   1. [Download](https://www.virtualbox.org/wiki/Downloads) and install VirtualBox
 
-	
+
   2. The networking can be a bit tricky and I've already addressed this in the ServerFault question [What is the correct network configuration for a devStack VM (virtualbox)?](http://serverfault.com/questions/409216/what-is-the-correct-network-configuration-for-a-devstack-vm-virtualbox/409331#409331)
 
-	
+
   3. [Download](http://releases.ubuntu.com/12.04/) the 64-bit PC (AMD64) server install CD of Ubuntu 12.04 and create a VirtualBox VM with it
 
-	
+
   4. Once it's ready to go you should be able to login to it from your terminal
 
-	
+
     1. `ssh myusername@172.16.0.1`
 
 
 
 
-	
+
   5. Once logged in, take a break, and have a look at the instructions for [devstack](http://devstack.org/)
 
-	
+
   6. If you want a release branch of OpenStack (e.g. Essex, Folsom, etc.), you need to do things a little differently
 
-	
+
     1. **Essex**:
 
-	
+
     2. `git clone https://github.com/openstack-dev/devstack.git -b stable/essex devstack/`
 
-	
+
     3. **Folsom**:
 
-	
+
     4. `git clone https://github.com/openstack-dev/devstack.git -b stable/folsom devstack/`
 
-	
+
     5. In the devstack/ directory create a localrc file that only uses release branches only
 
-	
+
       1. [Essex example](https://gist.github.com/3827714)
 
-	
+
       2. [Folsom example](https://gist.github.com/3887022)
 
 
@@ -107,52 +107,52 @@ My OpenStack test env consists of [VirtualBox](https://www.virtualbox.org/) run
 
 
 
-	
+
   7. If you want the latest and greatest master branch of OpenStack, in the devstack/ directory, create a [localrc file like this](https://gist.github.com/3827855)
 
-	
+
   8. In both cases
 
-	
+
     1. Change to your devstack directory
 
-	
+
     2. Run stack.sh
 
-	
+
     3. When it completes, configure Keystone to return the VM's "public" IP
 
-	
+
       1. **Essex**:
 
-	
+
       2. `sed -i "s#publicURL = http://10.0.2.15#publicURL = http://172.16.0.1#g" /etc/keystone/default_catalog.templates`
 
-	
+
       3. **Folsom**:
 
-	
+
       4. `mysql -uroot -pdevstack keystone`
 
-	
+
       5. `update endpoint set extra = replace(extra, '"publicurl": "[http://10.0.2.15](http://10.0.2.15/)', '"publicurl": "[http://172.16.0.1](http://172.16.0.1/)') where instr(extra, '"publicurl": "[http://10.0.2.15](http://10.0.2.15/)') > 0;`
 
 
 
 
-	
+
     4. Kill the existing screen session (that contains all of the OpenStack services)
 
-	
+
       1. `screen -X -S stack quit`
 
 
 
 
-	
+
     5. Restart screen (with all of the OpenStack services)
 
-	
+
       1. `screen -c stack-screenrc`
 
 
@@ -161,11 +161,11 @@ My OpenStack test env consists of [VirtualBox](https://www.virtualbox.org/) run
 
 
 
-	
-  9. Outside of the VM, back on your local machine, you should now be able to follow the instructions in my post [jclouds and OpenStack](http://blog.phymata.com/2012/09/04/jclouds-and-openstack/) to verify that everything is working as expected
 
-	
-  10. Once you've verified it's working, then port the [jclouds and OpenStack example](http://blog.phymata.com/2012/09/04/jclouds-and-openstack/) into your jclouds dev env and go from there
+  9. Outside of the VM, back on your local machine, you should now be able to follow the instructions in my post [jclouds and OpenStack](http://blog./img/posts.com/2012/09/04/jclouds-and-openstack/) to verify that everything is working as expected
+
+
+  10. Once you've verified it's working, then port the [jclouds and OpenStack example](http://blog./img/posts.com/2012/09/04/jclouds-and-openstack/) into your jclouds dev env and go from there
 
 
 

@@ -18,31 +18,31 @@ I spent the past week in Hong Kong at the OpenStack Summit. It was by far the fu
 
 
 
-	
+
   1. The People at Rackspace HK
 
-	
+
   2. jclouds Became an Apache Top Level Project
 
-	
+
   3. Hong Kong Java User Group
 
-	
+
   4. OpenStack Hoodies and Blazers Unite!
 
-	
+
   5. Documenting Application Developer Resources
 
-	
+
   6. The OpenStack Community Welcomes Developers in All Languages
 
-	
+
   7. NetflixOSS on OpenStack
 
-	
+
   8. Panel on Application Portability
 
-	
+
   9. OpenStack Operations Guide Will Be Published by O'Reilly
 
 
@@ -51,13 +51,13 @@ I spent the past week in Hong Kong at the OpenStack Summit. It was by far the fu
 ## The People at Rackspace HK
 
 
-[![Rackspace HK](http://phymata.files.wordpress.com/2013/11/p1100830b.jpg)](http://phymata.files.wordpress.com/2013/11/p1100830b.jpg)I decided to stop by the Rackspace HK office to meet the team there. Their success at getting the [Rackspace Cloud up and running in HK](http://www.rackspace.com.hk/) in time for the Summit was an impressive feat. But I know how they did it. It was the great people they have combined with some help from Rackers across the globe. I even got to celebrate with them as they kindly invited me out to a BBQ at Shek O beach to commemorate the the occasion.
+[![Rackspace HK](/img/posts/p1100830b.jpg)](/img/posts/p1100830b.jpg)I decided to stop by the Rackspace HK office to meet the team there. Their success at getting the [Rackspace Cloud up and running in HK](http://www.rackspace.com.hk/) in time for the Summit was an impressive feat. But I know how they did it. It was the great people they have combined with some help from Rackers across the globe. I even got to celebrate with them as they kindly invited me out to a BBQ at Shek O beach to commemorate the the occasion.
 
 
 ## jclouds Became an Apache Top Level Project
 
 
-By fortunate coincidence jclouds became an Apache Software Foundation TLP at the start of the week. I wrote a post about it [here](http://blog.phymata.com/2013/11/02/jclouds-is-an-apache-tlp/).
+By fortunate coincidence jclouds became an Apache Software Foundation TLP at the start of the week. I wrote a post about it [here](http://blog./img/posts.com/2013/11/02/jclouds-is-an-apache-tlp/).
 
 
 ## Hong Kong Java User Group
@@ -85,31 +85,31 @@ Many a decision was made:
 
 
 
-	
+
   * developer.openstack.org should be a 'thing'
 
-	
+
   * developer.openstack.org code lives in separate repo
 
-	
+
   * api.openstack.org stays where it is for the next cycle, but needs an intro for clarification
 
-	
+
   * python client "SDK" documents need work, which needs to come from "OpenStack Developers"
 
-	
+
   * fixing the python-*client guides (need to find a resource - Lorin was willing) -- create a blueprint for this (action: Tom)
 
-	
+
   * for non-python SDK docs, we don't write them, but may patch upstream code/doc if there's a problem
 
-	
+
   * python SDK guide (https://review.openstack.org/#/c/52857/) lives in openstack-manuals -- this should really have a blueprint too
 
-	
+
   * use ask.openstack.org for support of Python "SDK"
 
-	
+
   * make a (HTML) mock-up to see what this is going to look like before putting it all in the tool
 
 
@@ -149,7 +149,7 @@ http://www.youtube.com/watch?v=ZeciW11lU18
 ## OpenStack Operations Guide Will Be Published by O'Reilly
 
 
-[![oreilly-openstack-ops-guide-early-release](http://phymata.files.wordpress.com/2013/11/oreilly-openstack-ops-guide-early-release.png)](http://phymata.files.wordpress.com/2013/11/oreilly-openstack-ops-guide-early-release.png)My favourite surprise from the Summit was the announcement that the OpenStack Operations Guide that I co-authored with Anne Gentle, Jonathan Proulx, Joe Topjian, Tom Fifield, Diane Fleming, and Lorin Hochstein will be published by O'Reilly! It will be added to their stable of quality technical books. At this point it remains uneditted but the way has been cleared for it to be published. I'm looking forward to updating it for the OpenStack Havana release. Anne wrote a blog post on it [here](http://www.openstack.org/blog/2013/11/openstack-operations-guide-now-an-oreilly-early-edition/).
+[![oreilly-openstack-ops-guide-early-release](/img/posts/oreilly-openstack-ops-guide-early-release.png)](/img/posts/oreilly-openstack-ops-guide-early-release.png)My favourite surprise from the Summit was the announcement that the OpenStack Operations Guide that I co-authored with Anne Gentle, Jonathan Proulx, Joe Topjian, Tom Fifield, Diane Fleming, and Lorin Hochstein will be published by O'Reilly! It will be added to their stable of quality technical books. At this point it remains uneditted but the way has been cleared for it to be published. I'm looking forward to updating it for the OpenStack Havana release. Anne wrote a blog post on it [here](http://www.openstack.org/blog/2013/11/openstack-operations-guide-now-an-oreilly-early-edition/).
 
 
 ## Coda

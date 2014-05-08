@@ -12,47 +12,47 @@ categories:
 - sdk
 ---
 
-[![Grizzly](http://phymata.files.wordpress.com/2012/10/grizzly.jpeg)](http://phymata.files.wordpress.com/2012/10/grizzly.jpeg)SDKs are a vital resource for any ecosystem and SDKs for OpenStack are proliferating. The [OpenStack Grizzly Summit](http://www.openstack.org/summit/san-diego-2012/) has a few sessions dedicated to SDKs that I wanted to highlight.
+[![Grizzly](/img/posts/grizzly.jpeg)](/img/posts/grizzly.jpeg)SDKs are a vital resource for any ecosystem and SDKs for OpenStack are proliferating. The [OpenStack Grizzly Summit](http://www.openstack.org/summit/san-diego-2012/) has a few sessions dedicated to SDKs that I wanted to highlight.
 
 
 
-	
+
   1. On Monday @ 11:00 am I'll be leading the session [SDK Documentation Discussion](http://openstacksummitfall2012.sched.org/event/2215363b1716a519e786e126b493e3a3#.UHWUMvk-vjZ). Some of the topics/questions we're going to address are:
 
-	
+
     1. What SDKs are you using and why?
 
-	
+
     2. How do we track SDKs that support OpenStack?
 
-	
+
     3. Where do we track SDKs that support OpenStack?
 
-	
+
     4. What criteria do we use to allow an SDK to claim OpenStack support?
 
-	
+
     5. When documenting the SDK API at the function level, do you duplicate info from api.openstack.org or do you just link to it? Are there other options?
 
-	
+
     6. What's missing from the documentation of the SDKs you're using?
 
 
 
 
-	
+
   2. On Tuesday @ 11:50 am Rob Hirschfeld from Dell will be leading the session [Quantum Fog! Networking for Programmatic Overlays](http://openstacksummitfall2012.sched.org/event/7eb454e75464fc05519ff24510fae512#.UGx37_k-sp8)
 
-	
+
     1. [Fog](http://fog.io/) is the leading Ruby abstraction library for the OpenStack API and it's embedded in several ecosystem products.  With the addition of Quantum, there is a need to extend Fog's models to comprehend cloud networking.
 
 
 
 
-	
+
   3. On Thursday @ 3:20 pm I'll be leading the workshop [Control the Clouds: Developer Experience with jclouds](http://openstacksummitfall2012.sched.org/event/7f8cd9808c0375e95002cdcbcde03caf#.UGx3Q_k-sp9)
 
-	
+
     1. [jclouds](http://www.jclouds.org/) is the leading Java cross-cloud toolkit for the OpenStack API and already has a broad adoption base. In this workshop, you will learn how to write code that can control any cloud with jclouds.
 
 

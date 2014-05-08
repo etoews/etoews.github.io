@@ -11,23 +11,23 @@ categories:
 - rackspace
 ---
 
-[![apache](http://phymata.files.wordpress.com/2013/05/apache.png)](http://phymata.files.wordpress.com/2013/05/apache.png)jclouds 1.6.0 has been released! Since 1.5.0 I'm both proud and (antonymically) humbled to have become a committer. We've done a lot of work since then, including adding new features and an extensive refactoring aimed at simplifying the code base and removing cruft. I'm pleased to announce that full support for Rackspace Cloud Load Balancers and Cloud DNS has been added. That brings the list of supported APIs to:
+[![apache](/img/posts/apache.png)](/img/posts/apache.png)jclouds 1.6.0 has been released! Since 1.5.0 I'm both proud and (antonymically) humbled to have become a committer. We've done a lot of work since then, including adding new features and an extensive refactoring aimed at simplifying the code base and removing cruft. I'm pleased to announce that full support for Rackspace Cloud Load Balancers and Cloud DNS has been added. That brings the list of supported APIs to:
 
 
 
-	
+
   * Cloud Servers
 
-	
+
   * Cloud Files
 
-	
+
   * Cloud Block Storage
 
-	
+
   * Cloud Load Balancers
 
-	
+
   * Cloud DNS
 
 

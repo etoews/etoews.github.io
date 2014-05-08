@@ -12,7 +12,7 @@ categories:
 - rackspace
 ---
 
-[![OpenStack Grizzly Summit](http://phymata.files.wordpress.com/2012/10/openstack-summit-homepage-splash.png)](http://phymata.files.wordpress.com/2012/10/openstack-summit-homepage-splash.png)The OpenStack Grizzly Summit has wrapped up and it was another huge success. The new format of having the Summit and Conference at the same time worked well. Good venue, the wifi held up, the organizers accommodated the overflow people (i.e. 200-300 unregistered attendees) with amazing aplomb, there were always healthy food choices, and coffee/water was present at all times. All in all, great organization by the OpenStack Foundation that allowed everyone to stay focused on the task at hand, improving OpenStack in every way possible.
+[![OpenStack Grizzly Summit](/img/posts/openstack-summit-homepage-splash.png)](/img/posts/openstack-summit-homepage-splash.png)The OpenStack Grizzly Summit has wrapped up and it was another huge success. The new format of having the Summit and Conference at the same time worked well. Good venue, the wifi held up, the organizers accommodated the overflow people (i.e. 200-300 unregistered attendees) with amazing aplomb, there were always healthy food choices, and coffee/water was present at all times. All in all, great organization by the OpenStack Foundation that allowed everyone to stay focused on the task at hand, improving OpenStack in every way possible.
 
 I wanted to highlight some of the progress made on the Software Development Kit (SDK) front during the Summit.
 
@@ -54,19 +54,19 @@ By this point in the Summit the tech press were well aware of the new [Rackspace
 
 
 
-	
+
   * [Rackspace Opens SDKs for Java and PHP](http://www.drdobbs.com/jvm/rackspace-opens-sdks-for-java-and-php/240009274)
 
-	
+
   * [Rackspace Launches Open PHP, Java SDKs for OpenStack](http://www.zdnet.com/rackspace-launches-open-php-java-sdks-for-openstack-7000005812/)
 
-	
+
   * [Rackspace Creates SDKs for Java, PHP](http://www.sdtimes.com/RACKSPACE_CREATES_SDKS_FOR_JAVA_PHP/By_David_Rubinstein/About_CLOUD_and_JAVA_and_PHP_and_RACKSPACE/37075)
 
-	
+
   * [OpenStack Summit: Open Cloud Platform Gets Big Push](http://forwardthinking.pcmag.com/none/303965-openstack-summit-open-cloud-platform-gets-big-push)
 
-	
+
   * [Rackspace Gives Java and PHP Developers Power to Leverage OpenStack Services](http://it.tmcnet.com/topics/it/articles/2012/10/16/312235-rackspace-gives-java-php-developers-power-leverage-openstack.htm)
 
 

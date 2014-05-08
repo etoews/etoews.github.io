@@ -13,7 +13,7 @@ categories:
 - rackspace
 ---
 
-[![jclouds](http://phymata.files.wordpress.com/2013/01/jclouds.jpg)](http://phymata.files.wordpress.com/2013/01/jclouds.jpg)Apache jclouds version 1.7.0 has been released into the wild. This is jclouds' first minor point version release as an Apache top level project. Community development on the project is continuing to accelerate and there are some major additions I'd like to highlight.
+[![jclouds](/img/posts/jclouds.jpg)](/img/posts/jclouds.jpg)Apache jclouds version 1.7.0 has been released into the wild. This is jclouds' first minor point version release as an Apache top level project. Community development on the project is continuing to accelerate and there are some major additions I'd like to highlight.
 
 ## OpenStack
 

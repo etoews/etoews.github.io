@@ -11,7 +11,7 @@ categories:
 - open source
 ---
 
-[![NetflixOSS](http://phymata.files.wordpress.com/2013/02/netflixoss-e1360792045763.jpeg)](http://phymata.files.wordpress.com/2013/02/netflixoss.jpeg)Netflix has been open sourcing the software that makes up their platform at a torrential pace. On February 6th, 2013 I attended their first ever open house where they gave developers a bit more insight into their motivation for going open source. The whole event was very professionally run and could be used as a template for how to run a meetup with that much content.
+[![NetflixOSS](/img/posts/netflixoss-e1360792045763.jpeg)](/img/posts/netflixoss.jpeg)Netflix has been open sourcing the software that makes up their platform at a torrential pace. On February 6th, 2013 I attended their first ever open house where they gave developers a bit more insight into their motivation for going open source. The whole event was very professionally run and could be used as a template for how to run a meetup with that much content.
 
 
 ## The Meetup
@@ -23,13 +23,13 @@ The meetup itself was broken down into 3 sections.
 
 
 
-	
+
   1. Overview (30 min.)
 
-	
+
   2. Lightning talks (30 min.)
 
-	
+
   3. Project walkthroughs/demos (30 min. + however long you wanted to stay)
 
 
@@ -47,43 +47,43 @@ Adrian then went on talk about the strategy and motivation behind Netflix's open
 
 
 
-	
+
   1. Establish [Netflix's] solutions as Best Practices / Standards
 
-	
+
   2. Hire, Retain and Engage Top Engineers
 
-	
+
   3. Build up Netflix Technology Brand
 
-	
+
   4. Benefit from a shared ecosystem
 
 
-[![Netflix Goals](http://phymata.files.wordpress.com/2013/02/img_2144.jpg)](http://phymata.files.wordpress.com/2013/02/img_2144.jpg)
+[![Netflix Goals](/img/posts/img_2144.jpg)](/img/posts/img_2144.jpg)
 
 At a very abstract level, Adrian talked about the single points of failure facing the Netflix platform. He felt that Netflix had achieved a Functional and Scalable platform but they had yet to be Portable. Given some of the high profile outages Netflix has suffered on AWS this is understandable. However, the fact of the matter is that competitors haven't yet reached the same level of functionality and scalability that AWS has but that day is not far off. So Netflix has chosen to get a head start on portability.
 
-[![Functional, Scalable, and Portable](http://phymata.files.wordpress.com/2013/02/img_2153.jpg)](http://phymata.files.wordpress.com/2013/02/img_2153.jpg)
+[![Functional, Scalable, and Portable](/img/posts/img_2153.jpg)](/img/posts/img_2153.jpg)
 
 Finally, he wrapped things up with some concluding statements on the future of the Netflix platform. These were summed up as:
 
 
 
-	
+
   1. Functionality and scale now, portability coming
 
-	
+
   2. Moving from parts to a platform in 2013
 
-	
+
   3. Netflix is fostering an ecosystem
 
-	
+
   4. Rapid Evolution - Low MTBIAMSH (Mean Time Between Idea And Making Stuff Happen)
 
 
-[![Wrap up](http://phymata.files.wordpress.com/2013/02/img_2158.jpg)](http://phymata.files.wordpress.com/2013/02/img_2158.jpg)
+[![Wrap up](/img/posts/img_2158.jpg)](/img/posts/img_2158.jpg)
 
 You can find more detail on his talk at the [First NetflixOSS Meetup](http://techblog.netflix.com/2013/02/first-netflixoss-meetup.html). After the overview was complete, it was time for the lightning talks. In general these were well done and served as a great introduction to some of the open source projects. They also enticed developers to take a deeper dive into the projects during the next section of the meetup where the project leads were offering demos and walk-throughs. That was were I headed next to get more detail on one specific project.
 
@@ -93,7 +93,7 @@ You can find more detail on his talk at the [First NetflixOSS Meetup](http://tec
 
 Denominator is a Java library for controlling DNS, being built to be as portable as possible, with few dependencies. Adrian Cockroft introduced Denominator as the latest addition to Netflix's open source stable during his overview.
 
-[![Denominator](http://phymata.files.wordpress.com/2013/02/img_2156.jpg)](http://phymata.files.wordpress.com/2013/02/img_2156.jpg)
+[![Denominator](/img/posts/img_2156.jpg)](/img/posts/img_2156.jpg)
 
 I was particularly interested in this as it's being led by Adrian Cole, the founder of [jclouds](http://www.jclouds.org/). I've been working with Cole for the past 6 months on jclouds, ever since it was adopted by Rackspace as our official [Java SDK](http://docs.rackspace.com/sdks/guide/content/java.html).
 
@@ -107,4 +107,4 @@ All in all it was a interesting evening discussing open source software. The con
 
 Bon Appétit.
 
-[![Eats!](http://phymata.files.wordpress.com/2013/02/img_2164.jpg)](http://phymata.files.wordpress.com/2013/02/img_2164.jpg)
+[![Eats!](/img/posts/img_2164.jpg)](/img/posts/img_2164.jpg)

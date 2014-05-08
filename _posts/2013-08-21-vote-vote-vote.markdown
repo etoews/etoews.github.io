@@ -11,7 +11,7 @@ categories:
 - openstack
 ---
 
-[![Star](http://phymata.files.wordpress.com/2013/08/newsupermariobros-star.png)](http://phymata.files.wordpress.com/2013/08/newsupermariobros-star.png)It's that time of year again to vote for sessions at the OpenStack Summit in Hong Kong. First of all I encourage you to vote for any and all of the sessions using the new [OpenStack Presentation Voting](http://www.openstack.org/rate) web app. It's a great app and it drops you into the action right away by presenting you with a random session to vote on. The ability to use keyboard shortcuts to vote is really handy too. I've got a couple of sessions proposed to the Summit focused on the application developers building solutions on top of OpenStack.
+[![Star](/img/posts/newsupermariobros-star.png)](/img/posts/newsupermariobros-star.png)It's that time of year again to vote for sessions at the OpenStack Summit in Hong Kong. First of all I encourage you to vote for any and all of the sessions using the new [OpenStack Presentation Voting](http://www.openstack.org/rate) web app. It's a great app and it drops you into the action right away by presenting you with a random session to vote on. The ability to use keyboard shortcuts to vote is really handy too. I've got a couple of sessions proposed to the Summit focused on the application developers building solutions on top of OpenStack.
 
 **The OpenStack Community Welcomes Developers in All Languages**
 
@@ -33,7 +33,7 @@ jclouds is an open source library that helps you get started in the cloud and ut
 ## SXSWi
 
 
-[![PanelPicker](http://phymata.files.wordpress.com/2013/08/panelpicker_vote_14-blog.jpg)](http://phymata.files.wordpress.com/2013/08/panelpicker_vote_14-blog.jpg)While we're on the subject of voting, I've also proposed a session to South by Southwest Interactive (SXSWi). The focus of the session is on cloud and I'm hoping to garner enough votes to present there in 2014.
+[![PanelPicker](/img/posts/panelpicker_vote_14-blog.jpg)](/img/posts/panelpicker_vote_14-blog.jpg)While we're on the subject of voting, I've also proposed a session to South by Southwest Interactive (SXSWi). The focus of the session is on cloud and I'm hoping to garner enough votes to present there in 2014.
 
 **Cloud Portability With Multi-Cloud Toolkits**
 

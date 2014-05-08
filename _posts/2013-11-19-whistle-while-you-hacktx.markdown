@@ -12,7 +12,7 @@ categories:
 - rackspace
 ---
 
-[![HackTX](http://phymata.files.wordpress.com/2013/11/hacktx.jpg)](http://phymata.files.wordpress.com/2013/11/hacktx.jpg)
+[![HackTX](/img/posts/hacktx.jpg)](/img/posts/hacktx.jpg)
 
 [HackTX](http://hacktx.com/) is the biggest hackathon in Texas. It's a 24 hour annual hackathon hosted by the Hacker Lounge and Technology Entrepreneurship Society student organizations at The University of Texas at Austin. It's made up of 500 hackers with $10,000 in prizes. By far, it's the biggest hackathon that I've personally attended and I was pretty damn excited to represent Rackspace as a sponsor.
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=H05ljouBtzY
 
 It was great to be surrounded by so many developers (mostly students) all geared up and ready to go.
 
-[![HackTX Hackers](http://phymata.files.wordpress.com/2013/11/hacktx-hackers.jpg)](http://phymata.files.wordpress.com/2013/11/hacktx-hackers.jpg)
+[![HackTX Hackers](/img/posts/hacktx-hackers.jpg)](/img/posts/hacktx-hackers.jpg)
 
 There was no shortage of passion for coding and getting something cool built. When it came time to go heads down and really start hacking away, I happened to be sitting by a group that was constantly whistling. Sitting there in front of their laptops, coding away, and whistling at their screens. I didn't think too much of it at the time except for occasionally cringing at an off key whistle.
 

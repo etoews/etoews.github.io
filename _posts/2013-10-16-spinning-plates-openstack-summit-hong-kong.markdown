@@ -12,7 +12,7 @@ categories:
 - openstack
 ---
 
-[![Spinning Plates](http://phymata.files.wordpress.com/2013/10/spinning-plates.png)](http://phymata.files.wordpress.com/2013/10/spinning-plates.png)The [OpenStack Summit in Hong Kong](http://www.openstack.org/summit/hk/) is less than a month away now. Leading up to the Summit I was a track chair for the [Apps On OpenStack track](http://openstacksummitnovember2013.sched.org/type/apps+on+openstack). We had many excellent proposals that we're voted up by the community. Selecting the finalists wasn't easy. I think we found a good mix of sessions about applications built on top of OpenStack, the tools that enable developers to build those applications effectively, and the design decisions that developers will need to consider when building apps on OpenStack.
+[![Spinning Plates](/img/posts/spinning-plates.png)](/img/posts/spinning-plates.png)The [OpenStack Summit in Hong Kong](http://www.openstack.org/summit/hk/) is less than a month away now. Leading up to the Summit I was a track chair for the [Apps On OpenStack track](http://openstacksummitnovember2013.sched.org/type/apps+on+openstack). We had many excellent proposals that we're voted up by the community. Selecting the finalists wasn't easy. I think we found a good mix of sessions about applications built on top of OpenStack, the tools that enable developers to build those applications effectively, and the design decisions that developers will need to consider when building apps on OpenStack.
 
 Beyond that I'll be spinning plates at Summit! I've got a schedule packed full of demos, presentations, panel moderation, and design. In summary, here's where you can find me before and during the Summit.
 
@@ -119,7 +119,7 @@ Here's everything in more detail.
 ## [HKJUG meeting: Application Development in the Cloud with jclouds](http://hkjug.org/2013-11-04-application-development-in-the-cloud-with-jclouds)
 
 
-[![HKJUG](http://phymata.files.wordpress.com/2013/10/hkjug.jpeg)](http://phymata.files.wordpress.com/2013/10/hkjug.jpeg)The cloud has emerged as the next major platform. So where do developers turn for the toolkits that will make them productive and effective in the cloud?
+[![HKJUG](/img/posts/hkjug.jpeg)](/img/posts/hkjug.jpeg)The cloud has emerged as the next major platform. So where do developers turn for the toolkits that will make them productive and effective in the cloud?
 
 For Java, the answer is jclouds.
 
@@ -131,19 +131,19 @@ In this meeting, you will learn how to write Java that can control multiple clou
 
 
 
-	
+
   1. Overview of jclouds, its terminology and its community.
 
-	
+
   2. Purpose and benefits of using jclouds.
 
-	
+
   3. Install jclouds for use on the command line.
 
-	
+
   4. Work through an example of using jclouds to start virtual machines in the cloud.
 
-	
+
   5. Work through an example of using jclouds to store files in the cloud.
 
 
@@ -161,23 +161,23 @@ Speakers: Joshua McKenty and Everett Toews
 ## [Lightning Talk](http://openstacksummitnovember2013.sched.org/event/5751d553a42196f1a0c1d11f780a336f): [NetflixOSS](http://netflix.github.io/) on OpenStack
 
 
-[![NetflixOSS](http://phymata.files.wordpress.com/2013/02/netflixoss-e1360792045763.jpeg)](http://phymata.files.wordpress.com/2013/02/netflixoss-e1360792045763.jpeg)Here I plan on doing a lightning talk or breakout session on porting the NetflixOSS suite to OpenStack. I want to discuss:
+[![NetflixOSS](/img/posts/netflixoss-e1360792045763.jpeg)](/img/posts/netflixoss-e1360792045763.jpeg)Here I plan on doing a lightning talk or breakout session on porting the NetflixOSS suite to OpenStack. I want to discuss:
 
 
 
-	
+
   1. Why are people interested in porting NetflixOSS to OpenStack?
 
-	
+
   2. What pieces have already ported.
 
-	
+
   3. Who is interested in porting.
 
-	
+
   4. What are the priorities.
 
-	
+
   5. How to bring people together to make sure we're working effectively.
 
 
@@ -189,7 +189,7 @@ Speakers: Everett Toews and anyone else who wants to join
 ## [The OpenStack Community Welcomes Developers in All Languages](http://openstacksummitnovember2013.sched.org/event/41b333a6736a92f4056246719deec1fc)
 
 
-[![OpenStack Nation](http://phymata.files.wordpress.com/2013/06/openstack_nation1-lrg.png)](http://phymata.files.wordpress.com/2013/06/openstack_nation1-lrg.png)
+[![OpenStack Nation](/img/posts/openstack_nation1-lrg.png)](/img/posts/openstack_nation1-lrg.png)
 
 The OpenStack application programming interface (API) is accessible via web services. However, the application developers who are building solutions on top of OpenStack do not want to talk to that API directly. They want to talk to OpenStack in the programming language of their choice. That means using software development kits (SDK) written in a variety of programming languages. These SDKs allow the developers to be more efficient and productive when using OpenStack.
 
@@ -197,22 +197,22 @@ In this session you will learn the following about software development kits:
 
 
 
-	
+
   1. Why they are necessary.
 
-	
+
   2. What they can do for developers.
 
-	
+
   3. Which ones are available.
 
-	
+
   4. How to use them.
 
-	
+
   5. Who is developing them.
 
-	
+
   6. What comes next.
 
 
@@ -249,16 +249,16 @@ The site would be a portal containing links to other areas:
 
 
 
-	
+
   * All of the SDKs
 
-	
+
   * CLI docs for scripting e.g. in bash
 
-	
+
   * API documentation (acknowledging that the majority of developers will use SDKs, not the API directly)
 
-	
+
   * Where to get help
 
 
@@ -271,22 +271,22 @@ From the wiki (https://wiki.openstack.org/wiki/SDKs):
 
 
 
-	
+
   * A set of language bindings that provide a language-level API for accessing OpenStack in a manner consistent with language standards.
 
-	
+
   * A Getting Started document that shows how to use the API to access OpenStack powered clouds.
 
-	
+
   * Detailed API reference documentation.
 
-	
+
   * Tested sample code that you can use as a "starter kit" for your own OpenStack applications.
 
-	
+
   * SDKs treat OpenStack as a blackbox and only interact with the REST/HTTP API.
 
-	
+
   * License must be compatible with Apache License v2.
 
 
@@ -294,10 +294,10 @@ If an SDK does not meet these criteria, it's not considered an SDK for OpenStack
 
 Additional criteria could be discussed, such as:
 
-	
+
   * Does the SDK have an active community?
 
-	
+
   * Is it promptly updated for new API releases?
 
 

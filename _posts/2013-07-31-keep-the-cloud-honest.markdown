@@ -10,23 +10,23 @@ categories:
 - cloud
 ---
 
-[![Cloud Providers](http://phymata.files.wordpress.com/2013/07/cloud-providers1.png)](http://phymata.files.wordpress.com/2013/07/cloud-providers1.png) Last week at OSCON 2013 I gave a presentation entitled Cloud Portability With Multi-Cloud Toolkits. Not exactly a flashy title but you had a good idea of what you were going to get. I did a full write-up of it [over here](http://www.rackspace.com/blog/cloud-portability-value-of-the-multi-cloud-toolkit/) so I won't regurgitate that post. However, I will summarize why cloud portability is important and why you always want to be in a position to be able to switch cloud providers.
+[![Cloud Providers](/img/posts/cloud-providers1.png)](/img/posts/cloud-providers1.png) Last week at OSCON 2013 I gave a presentation entitled Cloud Portability With Multi-Cloud Toolkits. Not exactly a flashy title but you had a good idea of what you were going to get. I did a full write-up of it [over here](http://www.rackspace.com/blog/cloud-portability-value-of-the-multi-cloud-toolkit/) so I won't regurgitate that post. However, I will summarize why cloud portability is important and why you always want to be in a position to be able to switch cloud providers.
 
 
 
-	
+
   * If your performance requirements are not being met.
 
-	
+
   * If the privacy and compliance policies are not up to snuff.
 
-	
+
   * If the monthly bills have become eye popping.
 
-	
+
   * If you're not getting the service and support you need.
 
-	
+
   * If a strictly public cloud environment doesn't meet your requirements (you might need private cloud or dedicated hardware).
 
 
@@ -58,16 +58,16 @@ Code is really only one aspect of cloud portability. The other major aspects are
 
 
 
-	
+
   * [jclouds](http://jclouds.incubator.apache.org/) for Java
 
-	
+
   * [pkgcloud](https://github.com/nodejitsu/pkgcloud) for node.js
 
-	
+
   * [libcloud](http://libcloud.apache.org/) for Python
 
-	
+
   * [fog](http://fog.io/) for Ruby
 
 
