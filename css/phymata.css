@@ -1,7 +1,11 @@
+.blog-aside {
+  padding-top: 36px;
+}
+
 a {
-    color: #428bca;
+  color: #428bca;
 }
 
 code {
-    white-space: normal;
+  white-space: normal;
 }
