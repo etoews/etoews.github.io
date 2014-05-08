@@ -19,7 +19,7 @@ It's time to hit the road, get some hands on keyboards, and really teach develop
 ## Gluecon
 
 
-[![Gluecon](http://phymata.files.wordpress.com/2013/05/gluecon.png)](http://phymata.files.wordpress.com/2013/05/gluecon.png)What is Gluecon? In their own words, "Cloud, Mobile, APIs, Big Data — all of the converging, important trends in technology today share one thing in common: developers. Developers are the vanguard. Developers are building in the cloud, building mobile applications, utilizing and building APIs, and working with big data. At the end of the day, developers are the core."
+[![Gluecon](/img/posts/gluecon.png)](/img/posts/gluecon.png)What is Gluecon? In their own words, "Cloud, Mobile, APIs, Big Data — all of the converging, important trends in technology today share one thing in common: developers. Developers are the vanguard. Developers are building in the cloud, building mobile applications, utilizing and building APIs, and working with big data. At the end of the day, developers are the core."
 
 I firmly believe that to be true. Developers are [the new kingmakers](http://thenewkingmakers.com/) because [software is eating the world](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html).
 

@@ -17,7 +17,7 @@ I'm going to be in San Francisco the first week of February and it's going to be
 ## jclouds
 
 
-![jclouds](http://phymata.files.wordpress.com/2013/01/jclouds.jpg)The [Rackspace Java SDK](http://docs.rackspace.com/sdks/guide/content/java.html) is powered by the open source project jclouds. I've been working with the jclouds community since day one of my start at Rackspace but I have yet to meet many of the core developers face to face. The majority of the community is based in San Francisco so I decided to take the opportunity to initiate a couple of meetups. We'll be hosting two separate meetups at the Rackspace office that week. Here are the details.
+![jclouds](/img/posts/jclouds.jpg)The [Rackspace Java SDK](http://docs.rackspace.com/sdks/guide/content/java.html) is powered by the open source project jclouds. I've been working with the jclouds community since day one of my start at Rackspace but I have yet to meet many of the core developers face to face. The majority of the community is based in San Francisco so I decided to take the opportunity to initiate a couple of meetups. We'll be hosting two separate meetups at the Rackspace office that week. Here are the details.
 
 [jclouds meetup](http://www.meetup.com/jclouds/events/99094612/)
 Date: Feb. 4th
@@ -35,13 +35,13 @@ Audience: Developers who develop jclouds itself
 ## NetflixOSS
 
 
-[![Netflix](http://phymata.files.wordpress.com/2013/01/netflix.jpg)](http://phymata.files.wordpress.com/2013/01/netflix.jpg)Netflix has done an amazing job open sourcing many of their components. They're a group of top notch engineers working to make resilient applications on the cloud. To herald their commitment to open source they're hosting the first [NetflixOSS Open House](http://techblog.netflix.com/2013/01/netflixoss-open-house.html) on Feb 6th. I'm glad the timing worked out for me to be able to attend this (once I find my way out to Los Gatos). It promises to be a fun and interesting evening, right up until they unleash their simian army on us.
+[![Netflix](/img/posts/netflix.jpg)](/img/posts/netflix.jpg)Netflix has done an amazing job open sourcing many of their components. They're a group of top notch engineers working to make resilient applications on the cloud. To herald their commitment to open source they're hosting the first [NetflixOSS Open House](http://techblog.netflix.com/2013/01/netflixoss-open-house.html) on Feb 6th. I'm glad the timing worked out for me to be able to attend this (once I find my way out to Los Gatos). It promises to be a fun and interesting evening, right up until they unleash their simian army on us.
 
 
 ## appsworld
 
 
-[![appsworld](http://phymata.files.wordpress.com/2013/01/appsworld.png)](http://phymata.files.wordpress.com/2013/01/appsworld.png)appsworld is a conference relatively new to North America and is focused on mobile apps. The whole conference is geared towards developers and includes four free to attend developer workshop tracks and a free exhibition with over 150 exhibitors. Rackspace is going to have an important presence there and will be hosting a [series of workshops](http://www.apps-world.net/northamerica/agenda/rackspace-workshops).
+[![appsworld](/img/posts/appsworld.png)](/img/posts/appsworld.png)appsworld is a conference relatively new to North America and is focused on mobile apps. The whole conference is geared towards developers and includes four free to attend developer workshop tracks and a free exhibition with over 150 exhibitors. Rackspace is going to have an important presence there and will be hosting a [series of workshops](http://www.apps-world.net/northamerica/agenda/rackspace-workshops).
 
 I'll be presenting the Rackspace SDKs on Friday morning in the Developer Zone. Here are the details.
 
@@ -53,22 +53,22 @@ Agenda:
 
 
 
-	
+
   1. Introduction to the Rackspace Developer Relations Group
 
-	
+
   2. Introduction to the SDKs
 
-	
+
   3. Benefits of using the SDKs
 
-	
+
   4. Interoperability with OpenStack
 
-	
+
   5. Overview of the SDKs
 
-	
+
   6. Demo of the Rackspace SDK for Java
 
 

@@ -13,7 +13,7 @@ categories:
 - rackspace
 ---
 
-[![milestone](http://phymata.files.wordpress.com/2012/09/milestone.jpeg)](http://phymata.files.wordpress.com/2012/09/milestone.jpeg)Two open source projects that I'm proud to be a part of have just had major releases within days of each other.
+[![milestone](/img/posts/milestone.jpeg)](/img/posts/milestone.jpeg)Two open source projects that I'm proud to be a part of have just had major releases within days of each other.
 
 There's OpenStack, which powers the Rackspace open cloud, with its eagerly anticipated [Folsom release](http://wiki.openstack.org/ReleaseNotes/Folsom). This release sees the introduction of the Network Service (Quantum) and Block Storage Service (Cinder) among many other additions and improvements. For an overview of all of the components and projects it's tough to beat Ken Pepple's [OpenStack Folsom Architecture](http://ken.pepple.info/openstack/2012/09/25/openstack-folsom-architecture/) post. I made it onto the contributor list this time around for fixing a minor bug and it's an honor to be on that list with so many great developers. To get an idea of the scope of contributions to OpenStack just spend some time [Looking at the Numbers](http://devops.rackspace.com/372/openstack-folsom-looking-at-the-numbers).
 

@@ -11,7 +11,7 @@ categories:
 - operations
 ---
 
-[![OpenStack Operations Guide](http://phymata.files.wordpress.com/2013/03/openstackopsguide-231x3001.jpg)](http://phymata.files.wordpress.com/2013/03/openstackopsguide-231x3001.jpg)And here it is...the [OpenStack Operations Guide](http://docs.openstack.org/ops/). You can read it in EPUB, MOBI, PDF, or [print](http://www.lulu.com/content/paperback-book/openstack-operations-guide/13692962). The electronic formats are free to download so click away. The print version costs $29.90 and all proceeds go to the OpenStack Foundation to support more book sprints like the one that produced this book.
+[![OpenStack Operations Guide](/img/posts/openstackopsguide-231x3001.jpg)](/img/posts/openstackopsguide-231x3001.jpg)And here it is...the [OpenStack Operations Guide](http://docs.openstack.org/ops/). You can read it in EPUB, MOBI, PDF, or [print](http://www.lulu.com/content/paperback-book/openstack-operations-guide/13692962). The electronic formats are free to download so click away. The print version costs $29.90 and all proceeds go to the OpenStack Foundation to support more book sprints like the one that produced this book.
 
 To be honest it was an exhausting and sometimes stressful week. The stress was purely a product of trying to produce a book in 5 days. The co-authors of the book were professional, knowledgable, and just plain fun to work with at all times. There was lots of discussion and the occasional disagreement but nothing that we couldn't resolve amongst ourselves amicably. Probably the biggest disagreements were over hyphenation and em dashes.
 
@@ -23,25 +23,25 @@ It was a genuine privilege to work with these people.
 
 
 
-	
+
   * Diane Fleming: OpenStack Docs Writer at Rackspace
 
-	
+
   * Tom Fifield: Cloud Architect and Operator at NeCTAR
 
-	
+
   * Anne Gentle: OpenStack Doc Lead at Rackspace
 
-	
+
   * Lorin Hochstein: Cloud Architect and Operator at Nimbis Services
 
-	
+
   * Adam Hyde: Book Sprint Facilitator at FLOSS Manuals (founder)
 
-	
+
   * Jonathan Proulx: Cloud Architect and Operator at MIT
 
-	
+
   * Joe Topjian: Cloud Architect and Operator at Cybera
 
 

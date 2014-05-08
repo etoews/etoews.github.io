@@ -10,7 +10,7 @@ categories:
 - problem solving
 ---
 
-![Rubber Duck](http://phymata.files.wordpress.com/2012/12/rubber-duck.jpg)Recently I was writing some code and ran into a problem. Same old story. It happens all the time to developers everywhere. I began decomposing the problem, tried to isolate it, Googled error messages, explored different approaches to do the same thing, etc. All of the usual stuff I do when I run up against a nasty bug. But the bug persisted and I began to run out of thing to try.
+![Rubber Duck](/img/posts/rubber-duck.jpg)Recently I was writing some code and ran into a problem. Same old story. It happens all the time to developers everywhere. I began decomposing the problem, tried to isolate it, Googled error messages, explored different approaches to do the same thing, etc. All of the usual stuff I do when I run up against a nasty bug. But the bug persisted and I began to run out of thing to try.
 
 
 ## Help!

@@ -13,7 +13,7 @@ categories:
 - sdk
 ---
 
-[![Toolkit](http://phymata.files.wordpress.com/2012/10/toolkit.jpg)](http://phymata.files.wordpress.com/2012/10/toolkit.jpg)I'm proud to help announce and to be a part of the Rackspace Developer Relations Group as a Developer Advocate. The group has been around for a little while now and I only joined them a few of months ago but we've had our heads down building [Software Development Kits (SDKs)](http://docs.rackspace.com/sdks/guide/content/intro.html). Well now we've got a killer [Java SDK](http://docs.rackspace.com/sdks/guide/content/java.html) and [PHP SDK](http://docs.rackspace.com/sdks/guide/content/php.html) for the Rackspace open cloud ready to go and we'd like to let the world know. We've been introduced on the official Rackspace blog but I wanted to throw my 2 cents in here too.
+[![Toolkit](/img/posts/toolkit.jpg)](/img/posts/toolkit.jpg)I'm proud to help announce and to be a part of the Rackspace Developer Relations Group as a Developer Advocate. The group has been around for a little while now and I only joined them a few of months ago but we've had our heads down building [Software Development Kits (SDKs)](http://docs.rackspace.com/sdks/guide/content/intro.html). Well now we've got a killer [Java SDK](http://docs.rackspace.com/sdks/guide/content/java.html) and [PHP SDK](http://docs.rackspace.com/sdks/guide/content/php.html) for the Rackspace open cloud ready to go and we'd like to let the world know. We've been introduced on the official Rackspace blog but I wanted to throw my 2 cents in here too.
 
 
 ## What is an SDK?
@@ -23,16 +23,16 @@ The documentation for our SDKs begins with this [Introduction](http://docs.rack
 
 
 
-	
+
   * A set of language bindings that provide a language-level API for accessing cloud services (as opposed to forcing developers to use the REST/HTTP APIs directly) in a manner consistent with language standards
 
-	
+
   * A Getting Started document that shows how to use the API to access the Rackspace public cloud
 
-	
+
   * A detailed API reference document
 
-	
+
   * Tested sample code that you can use as a "starter kit" for your own cloud applications
 
 
@@ -56,31 +56,31 @@ I love both the breadth and depth of this job. It covers a lot of ground. Here's
 
 
 
-	
+
   * design work
 
-	
+
   * writing code
 
-	
+
   * debugging HTTP layer issues
 
-	
+
   * documenting
 
-	
+
   * blogging
 
-	
+
   * presenting at conferences
 
-	
+
   * promoting our ecosystem
 
-	
+
   * talking with developers
 
-	
+
   * and the list goes on.
 
 
@@ -94,13 +94,13 @@ The [introduction on the Rackspace blog](http://www.rackspace.com/blog/introduc
 
 
 
-	
+
   * Lower developers’ barriers to entry
 
-	
+
   * Help developers succeed
 
-	
+
   * Increase developers’ ROI
 
 

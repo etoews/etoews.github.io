@@ -13,7 +13,7 @@ categories:
 - rackspace
 ---
 
-[![San Diego](http://phymata.files.wordpress.com/2012/09/openstack-san-diego-conference.jpeg)](http://phymata.files.wordpress.com/2012/09/openstack-san-diego-conference.jpeg)
+[![San Diego](/img/posts/openstack-san-diego-conference.jpeg)](/img/posts/openstack-san-diego-conference.jpeg)
 
 I'm attending the [OpenStack Summit](https://www.openstack.org/summit/san-diego-2012) from Oct. 15-18 in San Diego. I've submitted a session titled Control the Clouds: Developer Experience with jclouds. Sessions are voted in so, if you're inclined, please vote for my session. [You'll need to do a Find in Page for "jclouds" on the voting page](https://www.openstack.org/summit/san-diego-2012/vote-for-speakers/). The deadline for voting is Sept. 13 and here's a description of the session.
 

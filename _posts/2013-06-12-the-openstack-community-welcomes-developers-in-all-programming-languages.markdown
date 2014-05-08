@@ -12,7 +12,7 @@ categories:
 
 The OpenStack community has been and needs to continue to be a welcoming community for developers in all programming languages. Naturally I'm referring to developers who are building systems on top of OpenStack and not the developers of OpenStack itself.
 
-[![OpenStack Nation](http://phymata.files.wordpress.com/2013/06/openstack_nation1-lrg.png)](http://phymata.files.wordpress.com/2013/06/openstack_nation1-lrg.png)
+[![OpenStack Nation](/img/posts/openstack_nation1-lrg.png)](/img/posts/openstack_nation1-lrg.png)
 
 This post is prompted by a minor incident in the #openstack IRC channel. I'm not looking to single people out so I'll use a pretty generic description so it can't so easily be found in the IRC logs.
 

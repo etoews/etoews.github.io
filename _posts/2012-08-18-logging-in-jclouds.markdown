@@ -12,7 +12,7 @@ categories:
 - openstack
 ---
 
-**[![](http://phymata.files.wordpress.com/2012/08/log.jpeg)](http://phymata.files.wordpress.com/2012/08/log.jpeg)**
+**[![](/img/posts/log.jpeg)](/img/posts/log.jpeg)**
 
 **Update**: The info in this post has been superseded by the [jclouds logging reference page](http://jclouds.apache.org/reference/logging/).
 
@@ -20,25 +20,25 @@ categories:
 
 
 
-	
+
   1. [Download logback](http://logback.qos.ch/download.html)
 
-	
+
   2. Put the JARs on your classpath
 
-	
+
   3. Put this [logback.xml](https://gist.github.com/raw/3389176/2d40b811bb11020e36a49ecf563ab30d3495dd85/logback.xml) on your classpath
 
-	
+
   4. Use the SLF4JLoggingModule()
 
-	
+
   5. Run
 
 
 I'm still learning jclouds and one thing that helps me out a lot is if I can get some insight into what's going on under the hood. Specifically, since what we're really doing is talking to an HTTP API, I like to be able to see what's going over the wire. Fortunately jclouds allows for some pretty fine grained logging out-of-the-box and it's relatively easy to configure too...once you know where everything goes. ;)
 
-jclouds itself uses SLF4J Logging in its [examples](https://github.com/jclouds/jclouds-examples) so let's try that. I'm building off of my previous post [Getting started with jclouds](http://blog.phymata.com/2012/08/15/getting-started-with-jclouds/) so the directory structure is the same as that. Here's the Java app I'm using to try this out. You can see the use of SLF4J Logging from line 43 where I add the SLF4JLoggingModule to a list of modules to be injected into the ComputeServiceContext.
+jclouds itself uses SLF4J Logging in its [examples](https://github.com/jclouds/jclouds-examples) so let's try that. I'm building off of my previous post [Getting started with jclouds](http://blog./img/posts.com/2012/08/15/getting-started-with-jclouds/) so the directory structure is the same as that. Here's the Java app I'm using to try this out. You can see the use of SLF4J Logging from line 43 where I add the SLF4JLoggingModule to a list of modules to be injected into the ComputeServiceContext.
 
 https://gist.github.com/3388897
 
@@ -68,28 +68,28 @@ Here's basically what jclouds does when listing servers (aka "Nodes" in jclouds 
 
 
 
-	
+
   1. Authenticate to get a token
 
-	
+
   2. List all servers in detail in the "ORD" zone
 
-	
+
   3. List all servers in detail in the "DFW" zone
 
-	
+
   4. List all images in detail in the "ORD" zone
 
-	
+
   5. List all images in detail in the "DFW" zone
 
-	
+
   6. List all flavors in detail in the "ORD" zone
 
-	
+
   7. List all flavors in detail in the "DFW" zone
 
-	
+
   8. Mash all of the relevant details together into ComputeMetadata objects and return the results
 
 

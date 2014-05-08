@@ -10,7 +10,7 @@ categories:
 - openstack
 ---
 
-![Ambush Bug](http://phymata.files.wordpress.com/2012/12/ambush_bug.jpg)I wanted to somehow contribute to the [OpenStack Bug Squashing](http://wiki.openstack.org/BugDays/20121213BugSquashing) today but I wasn't sure what bug to squash. I didn't have much time to participate so it had to be something I could complete within a couple of hours from scratch. I personally know several members of the OpenStack doc team so I checked out the [OpenStack Manuals bug list](https://bugs.launchpad.net/openstack-manuals) to see where I could help. Anne helpfully suggested taking a look at this [bug](https://bugs.launchpad.net/openstack-manuals/+bug/1057059).
+![Ambush Bug](/img/posts/ambush_bug.jpg)I wanted to somehow contribute to the [OpenStack Bug Squashing](http://wiki.openstack.org/BugDays/20121213BugSquashing) today but I wasn't sure what bug to squash. I didn't have much time to participate so it had to be something I could complete within a couple of hours from scratch. I personally know several members of the OpenStack doc team so I checked out the [OpenStack Manuals bug list](https://bugs.launchpad.net/openstack-manuals) to see where I could help. Anne helpfully suggested taking a look at this [bug](https://bugs.launchpad.net/openstack-manuals/+bug/1057059).
 
 Documentation is an important (and often neglected) part of any technology. Many are quick to append "...but the docs suck." to any sentence about a technology, especially open source. So let's try to do something about it. Raise a bug, fix a bug, review a bug...everything helps.
 

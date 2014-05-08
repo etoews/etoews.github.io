@@ -12,7 +12,7 @@ categories:
 - rackspace
 ---
 
-[![cumulusklein](http://phymata.files.wordpress.com/2012/08/cumulusklein.jpeg)](http://phymata.files.wordpress.com/2012/08/cumulusklein.jpeg)
+[![cumulusklein](/img/posts/cumulusklein.jpeg)](/img/posts/cumulusklein.jpeg)
 
 **Update**: Using jclouds 1.5.1
 
