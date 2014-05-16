@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-12-28 18:06:42+00:00
 layout: post
 slug: what-is-a-developer-advocate
 title: What is a Developer Advocate?
-wordpress_id: 205
 categories:
 - jclouds
 - rackspace

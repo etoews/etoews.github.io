@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-10-15 20:36:22+00:00
 layout: post
 slug: introducing-the-rackspace-drg-and-sdks
 title: Introducing the Rackspace Developer Relations Group and open cloud SDKs
-wordpress_id: 117
 categories:
 - jclouds
 - openstack

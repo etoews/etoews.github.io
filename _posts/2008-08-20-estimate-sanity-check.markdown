@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2008-08-20 07:31:00+00:00
 layout: post
 slug: estimate-sanity-check
 title: Estimate Sanity Check
-wordpress_id: 6
 categories:
 - software estimation
 ---

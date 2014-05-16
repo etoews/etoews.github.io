@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-03-08 01:55:02+00:00
 layout: post
 slug: we-wrote-openstack-ops-guide-5-days
 title: We Wrote an OpenStack Operations Guide in 5 Days!
-wordpress_id: 337
 categories:
 - openstack
 - operations

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-02-21 14:58:23+00:00
 layout: post
 slug: were-writing-an-openstack-operations-manual-in-5-days
 title: We're Writing an OpenStack Operations Manual in 5 Days!
-wordpress_id: 330
 categories:
 - openstack
 ---

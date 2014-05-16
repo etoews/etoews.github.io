@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-06-23 21:54:00+00:00
 layout: post
 slug: fix-minecraft-freeze-on-mac-os-x
 title: Fix Minecraft Freeze on Mac OS X
-wordpress_id: 393
 categories:
 - minecraft
 ---

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-12-10 21:44:13+00:00
 layout: post
 slug: write-that-request-for-help-but-dont-send-it-yet
 title: Write That Request For Help, But Don't Send It...Yet
-wordpress_id: 178
 categories:
 - problem solving
 ---

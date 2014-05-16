@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-11-08 16:47:41+00:00
 layout: post
 slug: openstack-devstack-on-the-rackspace-open-cloud
 title: OpenStack devstack on the Rackspace open cloud
-wordpress_id: 146
 categories:
 - devstack
 - jclouds

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-05-08 20:10:54+00:00
 layout: post
 slug: jclouds-gluecon-2013
 title: jclouds at Gluecon 2013
-wordpress_id: 368
 categories:
 - developer advocacy
 - java

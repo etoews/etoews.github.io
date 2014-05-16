@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-12-21 22:41:16+00:00
 layout: post
 slug: keep-up-to-date-with-changes-to-the-rackspace-apis
 title: Keep Up-To-Date With Changes To The Rackspace APIs
-wordpress_id: 195
 categories:
 - rackspace
 ---

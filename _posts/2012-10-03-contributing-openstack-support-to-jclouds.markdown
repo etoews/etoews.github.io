@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-10-03 16:51:29+00:00
 layout: post
 slug: contributing-openstack-support-to-jclouds
 title: Contributing OpenStack Support to jclouds
-wordpress_id: 101
 categories:
 - devstack
 - java

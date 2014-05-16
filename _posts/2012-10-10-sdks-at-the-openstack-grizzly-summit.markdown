@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-10-10 16:13:48+00:00
 layout: post
 slug: sdks-at-the-openstack-grizzly-summit
 title: SDKs at the OpenStack Grizzly Summit
-wordpress_id: 113
 categories:
 - jclouds
 - openstack

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-06-17 17:40:20+00:00
 layout: post
 slug: jclouds-manual-authentication-with-openstack
 title: jclouds Manual Authentication with OpenStack
-wordpress_id: 382
 categories:
 - jclouds
 - openstack

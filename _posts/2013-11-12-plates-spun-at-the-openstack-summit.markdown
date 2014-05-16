@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-11-12 23:31:03+00:00
 layout: post
 slug: plates-spun-at-the-openstack-summit
 title: Plates Spun at the OpenStack Summit
-wordpress_id: 438
 categories:
 - jclouds
 - openstack

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-01-14 20:27:02+00:00
 layout: post
 slug: jclouds-netflix-and-appsworld-in-san-francisco
 title: jclouds, Netflix, and appsworld in San Francisco
-wordpress_id: 230
 categories:
 - jclouds
 - rackspace

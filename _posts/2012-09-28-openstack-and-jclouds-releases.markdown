@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-09-28 18:14:05+00:00
 layout: post
 slug: openstack-and-jclouds-releases
 title: OpenStack and jclouds Releases Within Days of Each Other...Coincidence?
-wordpress_id: 89
 categories:
 - java
 - jclouds

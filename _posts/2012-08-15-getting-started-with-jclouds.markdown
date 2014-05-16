@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-08-15 15:51:10+00:00
 layout: post
 slug: getting-started-with-jclouds
 title: Getting started with jclouds
-wordpress_id: 39
 categories:
 - jclouds
 - openstack

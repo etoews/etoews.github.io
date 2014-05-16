@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-02-14 02:41:51+00:00
 layout: post
 slug: netflix-aims-to-be-scalable-functional-and-portable-or-how-to-run-a-meetup
 title: Netflix Aims to be Scalable, Functional, and Portable (or How to Run a Meetup)
-wordpress_id: 310
 categories:
 - jclouds
 - open source

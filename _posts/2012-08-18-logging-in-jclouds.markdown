@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-08-18 20:01:19+00:00
 layout: post
 slug: logging-in-jclouds
 title: Logging in jclouds
-wordpress_id: 60
 categories:
 - java
 - jclouds

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2008-08-19 18:39:00+00:00
 layout: post
 slug: software-estimation-checklist
 title: Software Estimation Checklist
-wordpress_id: 5
 categories:
 - software estimation
 ---

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-12-13 22:23:02+00:00
 layout: post
 slug: my-very-minor-contribution-to-openstack-bug-squashing-day
 title: My (Very) Minor Contribution to OpenStack Bug Squashing Day
-wordpress_id: 187
 categories:
 - openstack
 ---

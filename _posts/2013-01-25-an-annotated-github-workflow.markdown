@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-01-25 15:11:56+00:00
 layout: post
 slug: an-annotated-github-workflow
 title: An Annotated GitHub Workflow
-wordpress_id: 242
 categories:
 - git
 - jclouds

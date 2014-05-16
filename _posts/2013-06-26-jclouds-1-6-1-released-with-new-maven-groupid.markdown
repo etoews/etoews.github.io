@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-06-26 02:35:57+00:00
 layout: post
 slug: jclouds-1-6-1-released-with-new-maven-groupid
 title: jclouds 1.6.1 Released With New Maven groupId
-wordpress_id: 396
 ---
 
 [![jclouds](/img/posts/jclouds.jpg)](/img/posts/jclouds.jpg)jclouds 1.6.1 has been released! Here's the [official announcement](http://www.mail-archive.com/user@jclouds.incubator.apache.org/msg00112.html). This marks our first release as an incubated Apache project. We've fixed a number of issues and we've updated a lot of license headers :P but the biggest change is to our Maven groupId. It's gone from org.jclouds to org.apache.jclouds. The version also includes a "`-incubating`" to indicate our current incubation status in Apache. This is a big update as we've effectively changed the address where you download jclouds.

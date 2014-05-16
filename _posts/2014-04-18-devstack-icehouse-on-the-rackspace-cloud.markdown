@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2014-04-18 14:01:05+00:00
 layout: post
 slug: devstack-icehouse-on-the-rackspace-cloud
 title: DevStack Icehouse on the Rackspace Cloud
-wordpress_id: 543
 categories:
 - devstack
 - openstack

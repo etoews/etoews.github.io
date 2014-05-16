@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-04-04 00:15:08+00:00
 layout: post
 slug: presentation-patterns
 title: Presentation Patterns
-wordpress_id: 351
 categories:
 - developer advocacy
 ---

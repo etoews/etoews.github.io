@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-07-31 14:44:14+00:00
 layout: post
 slug: keep-the-cloud-honest
 title: Keep the Cloud Honest
-wordpress_id: 408
 categories:
 - cloud
 ---

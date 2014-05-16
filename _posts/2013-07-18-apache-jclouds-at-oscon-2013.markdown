@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-07-18 19:03:38+00:00
 layout: post
 slug: apache-jclouds-at-oscon-2013
 title: Apache jclouds at OSCON 2013
-wordpress_id: 402
 categories:
 - jclouds
 ---
