@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-02-11 20:53:36+00:00
 layout: post
 slug: innovation-in-the-jclouds-community
 title: Innovation in the jclouds Community
-wordpress_id: 286
 categories:
 - jclouds
 ---

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-10-16 16:51:16+00:00
 layout: post
 slug: spinning-plates-openstack-summit-hong-kong
 title: Spinning Plates at the OpenStack Summit in Hong Kong
-wordpress_id: 429
 categories:
 - developer advocacy
 - jclouds

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-11-19 18:18:17+00:00
 layout: post
 slug: whistle-while-you-hacktx
 title: Whistle While You HackTX
-wordpress_id: 469
 categories:
 - developer advocacy
 - jclouds

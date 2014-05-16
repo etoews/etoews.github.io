@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-06-04 18:42:41+00:00
 layout: post
 slug: swift-cloud-files-cross-origin-resource-sharing-container-with-jclouds
 title: Swift/Cloud Files Cross Origin Resource Sharing Container with jclouds
-wordpress_id: 373
 categories:
 - jclouds
 - openstack

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-09-08 21:55:04+00:00
 layout: post
 slug: jclouds-at-the-openstack-summit
 title: jclouds @ the OpenStack Summit
-wordpress_id: 75
 categories:
 - java
 - jclouds

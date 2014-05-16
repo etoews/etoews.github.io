@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-04-04 23:15:00+00:00
 layout: post
 slug: total-bottom-time
 title: Total Bottom Time
-wordpress_id: 9
 categories:
 - django
 - python

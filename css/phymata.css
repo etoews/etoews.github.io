@@ -1,7 +1,3 @@
-.blog-aside {
-  padding-top: 36px;
-}
-
 a {
   color: #428bca;
 }
@@ -9,3 +5,20 @@ a {
 code {
   white-space: normal;
 }
+
+img {
+  padding: 4px;
+}
+
+.img-right {
+  float: right;
+}
+
+.img-center {
+  text-align: center;
+}
+
+.blog-aside {
+  padding-top: 36px;
+}
+

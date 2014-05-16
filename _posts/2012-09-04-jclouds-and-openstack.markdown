@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-09-04 02:13:41+00:00
 layout: post
 slug: jclouds-and-openstack
 title: jclouds and OpenStack
-wordpress_id: 68
 categories:
 - jclouds
 - openstack

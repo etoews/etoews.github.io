@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-10-10 16:31:54+00:00
 layout: post
 slug: jclouds-1-6-2-released-with-support-for-openstack-trove
 title: jclouds 1.6.2 released with support for OpenStack Trove
-wordpress_id: 427
 categories:
 - jclouds
 - openstack
@@ -24,16 +23,16 @@ As it stands right now, Trove isn't part of DevStack. The only place I know of w
 
 
 
-	
+
   1. Once you've got your Rackspace username and API key, [install jclouds](http://jclouds.incubator.apache.org/documentation/quickstart/rackspace/#install).
 
-	
+
   2. Run through an example of [creating an instance](http://jclouds.incubator.apache.org/documentation/quickstart/rackspace/#databases).
 
-	
+
   3. Check out the all of the [examples](https://github.com/jclouds/jclouds-examples/tree/master/rackspace) and specifically the [Cloud Databases examples](https://github.com/jclouds/jclouds-examples/tree/master/rackspace/src/main/java/org/jclouds/examples/rackspace/clouddatabases).
 
-	
+
   4. Compare the action you take using jclouds with what you see in the [Cloud Control Panel](https://mycloud.rackspace.com).
 
 

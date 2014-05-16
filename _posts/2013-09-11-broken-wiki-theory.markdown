@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-09-11 02:41:21+00:00
 layout: post
 slug: broken-wiki-theory
 title: Broken Wiki Theory
-wordpress_id: 424
 categories:
 - documentation
 ---

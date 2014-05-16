@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-12-18 15:57:14+00:00
 layout: post
 slug: devstack-havana-on-the-rackspace-cloud
 title: DevStack Havana on the Rackspace Cloud
-wordpress_id: 479
 categories:
 - devstack
 - openstack

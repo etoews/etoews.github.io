@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-11-03 02:35:48+00:00
 layout: post
 slug: jclouds-is-an-apache-tlp
 title: jclouds is an Apache Top Level Project
-wordpress_id: 441
 categories:
 - jclouds
 - openstack

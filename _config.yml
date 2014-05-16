@@ -1,6 +1,9 @@
-name: Blog | Phymata
+url: http://blog.phymata.com
+title: Blog | Phymata
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title/
 paginate: 8
 paginate_path: "page:num"
+#gems:
+#  - jekyll-sitemap

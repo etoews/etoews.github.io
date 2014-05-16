@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-05-02 20:36:39+00:00
 layout: post
 slug: jclouds-1-6-0-and-the-move-to-the-asf
 title: jclouds 1.6.0 and the move to the ASF
-wordpress_id: 363
 categories:
 - jclouds
 - rackspace

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2014-02-12 15:50:58+00:00
 layout: post
 slug: fixing-my-openstack-gerrit-problem
 title: Fixing my OpenStack Gerrit Permission denied (publickey) problem
-wordpress_id: 516
 categories:
 - git
 - openstack

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-02-18 23:10:16+00:00
 layout: post
 slug: swift-only-with-openstack-devstack-on-the-rackspace-cloud
 title: Swift Only with OpenStack DevStack on the Rackspace Cloud
-wordpress_id: 325
 categories:
 - devstack
 - openstack

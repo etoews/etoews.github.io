@@ -1,12 +1,11 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2014-01-09 17:08:55+00:00
 layout: post
 slug: jclouds-1-7-0-released
 title: jclouds 1.7.0 Released With Support for OpenStack Queuing, Networks, and Rackspace
   Auto Scale
-wordpress_id: 499
 categories:
 - jclouds
 - openstack

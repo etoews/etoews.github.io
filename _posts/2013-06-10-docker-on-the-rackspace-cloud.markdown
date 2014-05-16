@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-06-10 18:20:23+00:00
 layout: post
 slug: docker-on-the-rackspace-cloud
 title: Docker on the Rackspace Cloud
-wordpress_id: 377
 categories:
 - rackspace
 ---

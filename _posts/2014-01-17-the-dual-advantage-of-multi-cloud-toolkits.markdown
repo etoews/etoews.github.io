@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2014-01-17 05:40:17+00:00
 layout: post
 slug: the-dual-advantage-of-multi-cloud-toolkits
 title: The Dual Advantage of Multi-Cloud Toolkits
-wordpress_id: 503
 categories:
 - cloud
 - jclouds
@@ -17,9 +16,7 @@ Exactly how the toolkits achieve this matters a great deal. Most people think it
 
 Those interfaces are sometimes called abstraction layers or portable APIs. First let's look at the portable APIs. I'm most familiar with jclouds so I'll use examples from our community.
 
-
 ## Portable APIs
-
 
 These are the APIs that allow you to write code that can run with multiple clouds.
 
@@ -31,9 +28,7 @@ The portable APIs do this by supporting features that are common across many clo
 
 No problem. All of the multi-cloud toolkits allow you write code to specific APIs for each cloud so you can use those particular features. But then you're seemingly headed down the path of vendor lock-in. Not so.
 
-
 ## Easing The Transition to Another Cloud
-
 
 Without multi-cloud toolkits, the normal course of action for a developer working with a cloud is to download the toolkit for that cloud only and write their code using it. For example, a developer downloads the AWS Java toolkit and uses it throughout their application with AWS.
 
@@ -43,8 +38,6 @@ With multi-cloud toolkits, a developer will download the multi-cloud toolkit and
 
 To switch to another cloud, a lot of code will have to be replaced and refactored but they do not have to download another toolkit. All of the cloud providers in jclouds are architected and written in a similar style so there is a lot of consistency between them. Developers already understand how it works, and are comfortable and efficient with it. They can use their intuition when transitioning their code to a new cloud provider. This is a lower cost proposition and a lower barrier to leaving Rackspace. No lock-in. You can choose the cloud provider that works the best for you.
 
-
 ## Coda
-
 
 The value of multi-cloud toolkits is not only in their portable APIs but also in how they can ease the transition from one cloud to another by allowing the developer to reuse all of the knowledge and experience they have gained with the multi-cloud toolkit. Don't get locked into a cloud provider because it's too expensive to change your code. Choose a multi-cloud toolkit.

@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-08-21 16:06:12+00:00
 layout: post
 slug: vote-vote-vote
 title: Vote Vote Vote
-wordpress_id: 418
 categories:
 - jclouds
 - openstack

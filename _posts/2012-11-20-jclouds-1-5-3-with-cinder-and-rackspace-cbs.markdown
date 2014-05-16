@@ -1,12 +1,11 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2012-11-20 21:28:47+00:00
 layout: post
 slug: jclouds-1-5-3-with-cinder-and-rackspace-cbs
 title: jclouds 1.5.3 Released With OpenStack Cinder and Rackspace Cloud Block Storage
   Support
-wordpress_id: 166
 categories:
 - openstack
 - rackspace

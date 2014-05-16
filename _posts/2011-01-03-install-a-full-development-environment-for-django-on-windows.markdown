@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2011-01-03 00:27:00+00:00
 layout: post
 slug: install-a-full-development-environment-for-django-on-windows
 title: Install a full development environment for Django on Windows
-wordpress_id: 8
 categories:
 - django
 - intellij idea

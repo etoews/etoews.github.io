@@ -1,11 +1,10 @@
 ---
-author: evtoews
+author: Everett Toews
 comments: true
 date: 2013-06-12 14:06:11+00:00
 layout: post
 slug: the-openstack-community-welcomes-developers-in-all-programming-languages
 title: The OpenStack Community Welcomes Developers in All Programming Languages
-wordpress_id: 379
 categories:
 - openstack
 ---
