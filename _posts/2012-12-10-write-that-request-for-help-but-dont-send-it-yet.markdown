@@ -9,19 +9,15 @@ categories:
 - problem solving
 ---
 
-![Rubber Duck](/img/posts/rubber-duck.jpg)Recently I was writing some code and ran into a problem. Same old story. It happens all the time to developers everywhere. I began decomposing the problem, tried to isolate it, Googled error messages, explored different approaches to do the same thing, etc. All of the usual stuff I do when I run up against a nasty bug. But the bug persisted and I began to run out of thing to try.
-
+<img class="img-right" src="/img/posts/rubber-duck.jpg"/>Recently I was writing some code and ran into a problem. Same old story. It happens all the time to developers everywhere. I began decomposing the problem, tried to isolate it, Googled error messages, explored different approaches to do the same thing, etc. All of the usual stuff I do when I run up against a nasty bug. But the bug persisted and I began to run out of thing to try.
 
 ## Help!
 
-
 When I hit that point I know it's time to reach out for help. There are usually a number of avenues to choose from when deciding how to get help. If you can find one, you can jump on an IRC channel related to the problem you're having. There are general purpose developer Q&A sites like [Stack Overfow](http://stackoverflow.com/) or forums that you can post to. Then there are mailing lists and groups specific to the project/product that you can join.
 
-My personal preference is for sites like Stack Overflow but if the community around the technology involved isn't using that for their primary support mechanism then it's off to a mailing list or forum. Either way the most important aspect is writing the request for help itself.
-
+My personal preference is for sites like StackOverflow but if the community around the technology involved isn't using that for their primary support mechanism then it's off to a mailing list or forum. Either way the most important aspect is writing the request for help itself.
 
 ## Writing
-
 
 There are a lot of recommendations for [writing good bug reports](https://www.google.com/search?q=writing%20good%20bug%20reports). They're almost indistinguishable from guides on how to ask for help so there's a lot to learn from them. Pick one or roll your own and go with it. I find it doesn't really matter which format you use. But using a format will structure your thoughts and help your analysis of the problem. I usually don't write the request for help in a linear manner either. I'll jump from section to section depending on what's most relevant at the moment.
 
@@ -29,9 +25,7 @@ Once you've got the problem out of your head and in front of you, you can disse
 
 The later seems to be the case I run into most often. I'll be reviewing my request for help to see if it makes sense. I'll imagine what it would be like to explain the problem to some one and what kinds of questions they would ask ("Well why didn't you try X?") . The questions send me down a different path that often leads to an answer.
 
-
 ## Coda
-
 
 How many requests for help have I written and never needed to send because the answer came to me in the process of writing the request? Dozens? Hundreds?
 
