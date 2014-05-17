@@ -7,11 +7,7 @@ slug: install-a-full-development-environment-for-django-on-windows
 title: Install a full development environment for Django on Windows
 categories:
 - django
-- intellij idea
-- pip
-- postgres
 - python
-- windows
 ---
 
 I recently installed a full development environment for Django on Windows 7 and found that it took longer than expected.  The path to getting everything working together wasn't immediately apparent.  I made a few missteps along the way and hopefully this post will make it a bit easier for the next developer.
@@ -80,5 +76,3 @@ To get IDEA working with an existing Django project (for instance, the Django tu
 ## Conclusion
 
 It's a lot to do and a lot to configure but in the end it's worth it.  Python/Django development is fast, effective and the end result can be some easily maintainable code.
-
-![](https://blogger.googleusercontent.com/tracker/8724979895766578389-7123272223327949300?l=phymata.blogspot.com)

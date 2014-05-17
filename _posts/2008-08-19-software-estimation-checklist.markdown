@@ -5,8 +5,6 @@ date: 2008-08-19 18:39:00+00:00
 layout: post
 slug: software-estimation-checklist
 title: Software Estimation Checklist
-categories:
-- software estimation
 ---
 
 Does the software estimate take into account the following aspects:
