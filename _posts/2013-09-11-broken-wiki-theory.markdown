@@ -9,7 +9,7 @@ categories:
 - documentation
 ---
 
-[![Broken Window](/img/posts/broken-window.jpg)](/img/posts/broken-window.jpg)Wikis always start off with the best of intentions. Sharing knowledge in a centralized place that everyone can edit. Wikis are useful but they can be difficult beasts to wrangle. Out of date information, broken links, bad formatting left unfixed, etc. The list is endless.
+<img class="img-right" src="/img/posts/broken-window.jpg"/>"Wikis always start off with the best of intentions. Sharing knowledge in a centralized place that everyone can edit. Wikis are useful but they can be difficult beasts to wrangle. Out of date information, broken links, bad formatting left unfixed, etc. The list is endless.
 
 Keeping them in working order requires vigilance. It can all start with one crappy page. I liken it to the [Broken Windows theory](http://en.wikipedia.org/wiki/Broken_windows_theory).
 

@@ -14,11 +14,9 @@ categories:
 
 It's time to hit the road, get some hands on keyboards, and really teach developers how to use jclouds. I'll be giving a workshop titled "Solve the Cross-Cloud Conundrum with jclouds" at [Gluecon](http://www.gluecon.com/2013/) this year. The session is on May 22 from 10:30 to 11:30 am in Breakout 2.
 
-
 ## Gluecon
 
-
-[![Gluecon](/img/posts/gluecon.png)](/img/posts/gluecon.png)What is Gluecon? In their own words, "Cloud, Mobile, APIs, Big Data — all of the converging, important trends in technology today share one thing in common: developers. Developers are the vanguard. Developers are building in the cloud, building mobile applications, utilizing and building APIs, and working with big data. At the end of the day, developers are the core."
+<img class="img-right" src="/img/posts/gluecon.png"/>What is Gluecon? In their own words, "Cloud, Mobile, APIs, Big Data — all of the converging, important trends in technology today share one thing in common: developers. Developers are the vanguard. Developers are building in the cloud, building mobile applications, utilizing and building APIs, and working with big data. At the end of the day, developers are the core."
 
 I firmly believe that to be true. Developers are [the new kingmakers](http://thenewkingmakers.com/) because [software is eating the world](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html).
 
@@ -26,8 +24,6 @@ My preference for these kinds of sessions is to get developers doing what they d
 
 Rackspace will be offering free cloud trial accounts to the attendees of this session. It's our way of helping you get started in the cloud and say thanks for coming out.
 
-
 ## Coda
-
 
 The reason to use [jclouds](http://www.jclouds.org/) is to control your cloud infrastructure with Java. In this workshop I'll be showing you exactly how to do that.

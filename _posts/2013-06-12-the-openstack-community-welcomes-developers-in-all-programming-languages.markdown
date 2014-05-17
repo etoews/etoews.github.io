@@ -11,7 +11,7 @@ categories:
 
 The OpenStack community has been and needs to continue to be a welcoming community for developers in all programming languages. Naturally I'm referring to developers who are building systems on top of OpenStack and not the developers of OpenStack itself.
 
-[![OpenStack Nation](/img/posts/openstack_nation1-lrg.png)](/img/posts/openstack_nation1-lrg.png)
+<div class="img-center"><img src="/img/posts/openstack_nation1-lrg.png"/></div>
 
 This post is prompted by a minor incident in the #openstack IRC channel. I'm not looking to single people out so I'll use a pretty generic description so it can't so easily be found in the IRC logs.
 
@@ -23,9 +23,7 @@ Like I said, a minor incident. I don't want to blow this out of proportion but i
 
 I'm sure we've all been part of such chats about languages. When you're face-to-face or online but know the people personally, it usually goes without saying that it's good natured. However, when you're new to a community, it's not so clear. Of course the OpenStack community is Python-centric but the OpenStack API is not. We need developers from all of the other languages building on top of OpenStack in whatever language they need to work with. Remember, it might not even be their choice!
 
-
 ## Coda
-
 
 Let's continue to be good stewards of the OpenStack API and encourage it's use by all programming languages by being an inclusive and welcoming community.
 
