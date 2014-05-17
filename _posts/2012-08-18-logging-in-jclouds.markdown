@@ -6,7 +6,6 @@ layout: post
 slug: logging-in-jclouds
 title: Logging in jclouds
 categories:
-- java
 - jclouds
 - openstack
 ---

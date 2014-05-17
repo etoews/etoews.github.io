@@ -7,7 +7,6 @@ slug: contributing-openstack-support-to-jclouds
 title: Contributing OpenStack Support to jclouds
 categories:
 - devstack
-- java
 - jclouds
 - openstack
 ---
