@@ -25,3 +25,7 @@ img {
 .aside-widget {
   margin-bottom: 30px;
 }
+
+.aside-widget .body {
+  margin-right: 20px;
+}
