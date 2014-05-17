@@ -10,7 +10,7 @@ categories:
 - openstack
 ---
 
-[![Star](/img/posts/newsupermariobros-star.png)](/img/posts/newsupermariobros-star.png)It's that time of year again to vote for sessions at the OpenStack Summit in Hong Kong. First of all I encourage you to vote for any and all of the sessions using the new [OpenStack Presentation Voting](http://www.openstack.org/rate) web app. It's a great app and it drops you into the action right away by presenting you with a random session to vote on. The ability to use keyboard shortcuts to vote is really handy too. I've got a couple of sessions proposed to the Summit focused on the application developers building solutions on top of OpenStack.
+<img class="img-right" src="/img/posts/newsupermariobros-star.png"/>It's that time of year again to vote for sessions at the OpenStack Summit in Hong Kong. First of all I encourage you to vote for any and all of the sessions using the new [OpenStack Presentation Voting](http://www.openstack.org/rate) web app. It's a great app and it drops you into the action right away by presenting you with a random session to vote on. The ability to use keyboard shortcuts to vote is really handy too. I've got a couple of sessions proposed to the Summit focused on the application developers building solutions on top of OpenStack.
 
 **The OpenStack Community Welcomes Developers in All Languages**
 
@@ -28,11 +28,9 @@ If you want to build a Java application on OpenStack, you need a toolkit. A very
 
 jclouds is an open source library that helps you get started in the cloud and utilizes your Java development skills. The jclouds toolkit gives you the freedom to use portable abstractions or OpenStack specific features. It works with both public and private clouds, enabling hybrid cloud workloads. There is a great community behind this toolkit working together to provide a better experience for developers in the cloud.
 
-
 ## SXSWi
 
-
-[![PanelPicker](/img/posts/panelpicker_vote_14-blog.jpg)](/img/posts/panelpicker_vote_14-blog.jpg)While we're on the subject of voting, I've also proposed a session to South by Southwest Interactive (SXSWi). The focus of the session is on cloud and I'm hoping to garner enough votes to present there in 2014.
+<img class="img-right" src="/img/posts/panelpicker_vote_14-blog.jpg"/>While we're on the subject of voting, I've also proposed a session to South by Southwest Interactive (SXSWi). The focus of the session is on cloud and I'm hoping to garner enough votes to present there in 2014.
 
 **Cloud Portability With Multi-Cloud Toolkits**
 
@@ -43,8 +41,6 @@ Considering cloud portability upfront can be crucial in avoiding lock-in. The to
 
 In this session you'll learn how to effectively use software development toolkits that operate across multiple clouds. Find out how to distinguish between the layers of abstraction to achieve maximum portability or utilize cloud specific features. I'll show examples of multi-cloud toolkit code for Java (jclouds), Node.js (pkgcloud), Python (libcloud), and Ruby (fog).
 
-
 ## Coda
-
 
 Vote Vote Vote! :)

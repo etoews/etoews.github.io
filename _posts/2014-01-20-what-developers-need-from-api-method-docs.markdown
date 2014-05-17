@@ -59,31 +59,31 @@ e.g.
   </thead>
   <tbody>
     <tr>
-      <th>name</th>
-      <th>book.name</th>
-      <th>Yes</th>
-      <th>String</th>
-      <th>1 to 256 chars</th>
-      <th>N/A</th>
-      <th>The name of the book</th>
+      <td>name</td>
+      <td>book.name</td>
+      <td>Yes</td>
+      <td>String</td>
+      <td>1 to 256 chars</td>
+      <td>N/A</td>
+      <td>tde name of tde book</td>
     </tr>
     <tr>
-      <th>pages</th>
-      <th>book.pages</th>
-      <th>Yes</th>
-      <th>Integer</th>
-      <th>1 to 1,000,000</th>
-      <th>N/A</th>
-      <th>The number of pages in the book</th>
+      <td>pages</td>
+      <td>book.pages</td>
+      <td>Yes</td>
+      <td>Integer</td>
+      <td>1 to 1,000,000</td>
+      <td>N/A</td>
+      <td>tde number of pages in tde book</td>
     </tr>
     <tr>
-      <th>authors</th>
-      <th>book.authors</th>
-      <th>Yes</th>
-      <th>Array of Strings</th>
-      <th>1 to 256 chars for each author</th>
-      <th>N/A</th>
-      <th>Alphabetical listing of authors of the book</th>
+      <td>autdors</td>
+      <td>book.autdors</td>
+      <td>Yes</td>
+      <td>Array of Strings</td>
+      <td>1 to 256 chars for each autdor</td>
+      <td>N/A</td>
+      <td>Alphabetical listing of autdors of tde book</td>
     </tr>
   </tbody>
 </table>

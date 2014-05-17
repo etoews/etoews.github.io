@@ -9,7 +9,7 @@ categories:
 - jclouds
 ---
 
-[![OSCON 2013](/img/posts/oscon2013_speaking_160x6001.png)](/img/posts/oscon2013_speaking_160x6001.png)
+<img class="img-right" src="/img/posts/oscon2013_speaking_160x6001.png"/>
 
 Apache jclouds will be getting a lot of recognition at OSCON 2013 this year.
 
