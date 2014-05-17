@@ -6,7 +6,6 @@ layout: post
 slug: openstack-and-jclouds-releases
 title: OpenStack and jclouds Releases Within Days of Each Other...Coincidence?
 categories:
-- java
 - jclouds
 - openstack
 - rackspace

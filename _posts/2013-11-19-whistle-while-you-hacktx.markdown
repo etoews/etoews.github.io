@@ -6,7 +6,7 @@ layout: post
 slug: whistle-while-you-hacktx
 title: Whistle While You HackTX
 categories:
-- developer advocacy
+- advocacy
 - jclouds
 - rackspace
 ---

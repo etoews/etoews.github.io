@@ -6,7 +6,6 @@ layout: post
 slug: jclouds-at-the-openstack-summit
 title: jclouds @ the OpenStack Summit
 categories:
-- java
 - jclouds
 - openstack
 - rackspace

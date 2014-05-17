@@ -6,7 +6,7 @@ layout: post
 slug: spinning-plates-openstack-summit-hong-kong
 title: Spinning Plates at the OpenStack Summit in Hong Kong
 categories:
-- developer advocacy
+- advocacy
 - jclouds
 - openstack
 ---

@@ -6,8 +6,7 @@ layout: post
 slug: jclouds-gluecon-2013
 title: jclouds at Gluecon 2013
 categories:
-- developer advocacy
-- java
+- advocacy
 - jclouds
 - rackspace
 ---
