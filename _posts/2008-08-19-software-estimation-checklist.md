@@ -9,6 +9,7 @@ title: Software Estimation Checklist
 
 Does the software estimate take into account the following aspects:
 
+<!--more-->
 
   1. Are the assumptions embedded in the estimate to be presented?
   2. Does the estimate include a clause that reads, "If any of these assumptions change, this estimate will need to be revised."?

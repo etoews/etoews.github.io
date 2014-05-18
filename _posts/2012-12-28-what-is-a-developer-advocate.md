@@ -5,6 +5,7 @@ date: 2012-12-28 18:06:42+00:00
 layout: post
 slug: what-is-a-developer-advocate
 title: What is a Developer Advocate?
+image: /img/posts/git1.png
 categories:
 - jclouds
 - rackspace
@@ -12,6 +13,8 @@ categories:
 ---
 
 I wrote a bit about "What is a Developer Advocate?" back in October in the article [Introducing the Rackspace Developer Relations Group and open cloud SDKs](/2012/10/15/introducing-the-rackspace-drg-and-sdks/). Not a whole lot of time has passed since then but my thinking on it has evolved and I missed a number of things in that first pass. I'd like to take another crack at it and I still get asked this question often enough that it's always fresh in my mind.
+
+<!--more-->
 
 ## Definition
 

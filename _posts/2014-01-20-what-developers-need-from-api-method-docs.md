@@ -11,6 +11,8 @@ categories:
 
 **TL;DR** Developers need zero ambiguity from API documentation.
 
+<!--more-->
+
 I am looking for 6 sections when I'm reading API method documentation: the call, prose, parameters, status codes, error codes and examples.
 
 ## The Call

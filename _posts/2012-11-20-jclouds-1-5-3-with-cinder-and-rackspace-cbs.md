@@ -4,14 +4,16 @@ comments: true
 date: 2012-11-20 21:28:47+00:00
 layout: post
 slug: jclouds-1-5-3-with-cinder-and-rackspace-cbs
-title: jclouds 1.5.3 Released With OpenStack Cinder and Rackspace Cloud Block Storage
-  Support
+title: jclouds 1.5.3 Released With OpenStack Cinder and Rackspace Cloud Block Storage Support
+image: /img/posts/cinder-block.jpg
 categories:
 - openstack
 - rackspace
 ---
 
 [jclouds 1.5.3](http://blog.jclouds.org/post/35922275965/jclouds-1-5-3-out-the-door) was officially released over the weekend. Another solid release from the jclouds community. Among a number of new features was the support I added for OpenStack Cinder and Rackspace Cloud Block Storage.
+
+<!--more-->
 
 ## OpenStack Cinder
 

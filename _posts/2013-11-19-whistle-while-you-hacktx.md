@@ -11,9 +11,11 @@ categories:
 - rackspace
 ---
 
+[HackTX](http://hacktx.com/) is the biggest hackathon in Texas. It's a 24 hour annual hackathon hosted by the Hacker Lounge and Technology Entrepreneurship Society student organizations at The University of Texas at Austin. It's made up of 500 hackers with $10,000 in prizes. By far, it's the biggest hackathon that I've personally attended and I was pretty damn excited to represent Rackspace as a sponsor.
+
 <div class="img-center"><img src="/img/posts/hacktx.jpg"/></div>
 
-[HackTX](http://hacktx.com/) is the biggest hackathon in Texas. It's a 24 hour annual hackathon hosted by the Hacker Lounge and Technology Entrepreneurship Society student organizations at The University of Texas at Austin. It's made up of 500 hackers with $10,000 in prizes. By far, it's the biggest hackathon that I've personally attended and I was pretty damn excited to represent Rackspace as a sponsor.
+<!--more-->
 
 ## Kick Off
 

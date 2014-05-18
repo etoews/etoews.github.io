@@ -5,6 +5,7 @@ date: 2013-12-18 15:57:14+00:00
 layout: post
 slug: devstack-havana-on-the-rackspace-cloud
 title: DevStack Havana on the Rackspace Cloud
+image: /img/posts/cloud-inception.png
 categories:
 - devstack
 - openstack
@@ -12,6 +13,8 @@ categories:
 ---
 
 <img style="float:right" src="/img/posts/cloud-inception.png"/>Here's how to deploy DevStack for OpenStack Havana including Neutron (Network) and Swift (Object Storage) on the Rackspace Cloud. You can use DevStack for testing/development of OpenStack or just learning a bit more about OpenStack and how all of the pieces fit together.
+
+<!--more-->
 
 If you don't have a Rackspace Cloud account, I recommend using the [Developer Discount](http://developer.rackspace.com/devtrial/) to try this out.
 

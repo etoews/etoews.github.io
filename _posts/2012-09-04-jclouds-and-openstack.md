@@ -5,16 +5,19 @@ date: 2012-09-04 02:13:41+00:00
 layout: post
 slug: jclouds-and-openstack
 title: jclouds and OpenStack
+image: /img/posts/openstack.png
 categories:
 - jclouds
 - openstack
 ---
 
-<img class="img-right" src="/img/posts/openstack.png"/>
+
 
 **Update**: This post is out of date. Use the [Apache jclouds OpenStack Quick Start Guide](http://jclouds.apache.org/guides/openstack/) instead.
 
-Getting jclouds and your own OpenStack deployment working together can be just a bit tricky as there are a couple of special configurations you need to make.
+<img class="img-right" src="/img/posts/openstack.png"/>Getting jclouds and your own OpenStack deployment working together can be just a bit tricky as there are a couple of special configurations you need to make.
+
+<!--more-->
 
 I've described how to [get started with jclouds](/2012/08/15/getting-started-with-jclouds/) before but the other piece of this puzzle is your own OpenStack deployment. For easy and reliable testing I just run my own [devstack](http://devstack.org/) install of OpenStack. Setting up devstack has been written about many times elsewhere so the only thing that I'll say about it here is that I use an Ubuntu 12.04 Server VM running in VirtualBox. The trickiest part of that setup is the networking so I posted my VirtualBox settings on [this question on ServerFault](http://serverfault.com/questions/409216/what-is-the-correct-network-configuration-for-a-devstack-vm-virtualbox). After that it's just a matter of following the devstack instructions.
 

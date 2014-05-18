@@ -9,6 +9,8 @@ title: Estimate Sanity Check
 
 For each Yes answer, give the estimate one point.
 
+<!--more-->
+
   1. Was a standardized procedure used to create the estimate?
   2. Was the estimation process free from pressure that would bias the results?
   3. If the estimate was negotiated, were only the inputs to the estimate negotiated, not the outputs or the estimation process itself?

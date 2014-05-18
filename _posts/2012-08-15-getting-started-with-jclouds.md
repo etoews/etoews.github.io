@@ -5,17 +5,18 @@ date: 2012-08-15 15:51:10+00:00
 layout: post
 slug: getting-started-with-jclouds
 title: Getting started with jclouds
+image: /img/posts/cumulusklein.jpeg
 categories:
 - jclouds
 - openstack
 - rackspace
 ---
 
-<img class="img-right" src="/img/posts/cumulusklein.jpeg"/>
-
 **Update**: Using jclouds 1.5.1
 
-I'm just starting to get familiar with the open source [jclouds](http://www.jclouds.org/) cross-cloud toolkit. Whenever I get started with something new like this I like to start out with the most simple application possible that still does something sort of useful. And when starting out, I prefer to work from the command line so I can get a feel for how something is really put together. After that, when I move to using a build tool like Maven or Ant or putting everything into Eclipse or another IDE, I have a better understanding of its dependecies and config.
+<img class="img-right" src="/img/posts/cumulusklein.jpeg"/>I'm just starting to get familiar with the open source [jclouds](http://www.jclouds.org/) cross-cloud toolkit. Whenever I get started with something new like this I like to start out with the most simple application possible that still does something sort of useful. And when starting out, I prefer to work from the command line so I can get a feel for how something is really put together. After that, when I move to using a build tool like Maven or Ant or putting everything into Eclipse or another IDE, I have a better understanding of its dependecies and config.
+
+<!--more-->
 
 With that in mind I headed over to the [jclouds installation page](http://www.jclouds.org/documentation/userguide/installation-guide/) to download the JARs for it. Okay...what is lein???
 

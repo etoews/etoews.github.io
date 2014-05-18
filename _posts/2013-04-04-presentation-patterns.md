@@ -5,11 +5,14 @@ date: 2013-04-04 00:15:08+00:00
 layout: post
 slug: presentation-patterns
 title: Presentation Patterns
+image: /img/posts/presentation-patterns.jpg
 categories:
 - advocacy
 ---
 
 [Presentation Patterns](http://presentationpatterns.com/) is a book that takes the concept of software design patterns (and anti-patterns) and applies it to presentations and public speaking. This book is a must read for Developer Advocates and Software Developers who need to deliver a presentation to any size group of people. I would also recommend it to anyone in a technical position or even those in other roles as it's filled with practical advice and actionable steps accessible by anyone. After reading the book through once and giving a presentation based on a handful of the patterns therein, I'm convinced this book can help improve or kick start your presentation skills.
+
+<!--more-->
 
 ## The Book
 

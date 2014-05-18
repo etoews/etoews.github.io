@@ -11,6 +11,8 @@ categories:
 
 Last week I had the pleasure of hosting the first [jclouds meetup](http://www.meetup.com/jclouds/events/99094612/) of 2013 at the Rackspace offices in San Francisco. The number one thing that struck me during the meetup was the amount of innovation going on and the commitment of the community. We had a great turn out and 4 presentations were given by members. Without further ado, here they are in the order they were presented.
 
+<!--more-->
+
 ## The Rackspace Java SDK Powered by jclouds
 
 What with hosting the meetup and all, I took the opportunity to let the community know about the Rackspace SDKs and how our Java SDK is powered by jclouds. No fork, no separate "distribution", just committing code, examples, and documentation to the upstream jclouds repos. I kept it short and sweet, followed by a brief demo of jclouds in action working with different OpenStack providers. It also gave me a chance to let everyone know that [developer.rackspace.com](http://developer.rackspace.com/) is now the destination for developers building solutions on the Rackspace Cloud. Here's my slide deck.
