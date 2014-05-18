@@ -5,17 +5,18 @@ date: 2012-10-03 16:51:29+00:00
 layout: post
 slug: contributing-openstack-support-to-jclouds
 title: Contributing OpenStack Support to jclouds
+image: /img/posts/guava1.jpeg
 categories:
 - devstack
 - jclouds
 - openstack
 ---
 
-<img class="img-right" src="/img/posts/guava1.jpeg"/>
-
 **Update**: Folsom instructions
 
-[jclouds](http://www.jclouds.org/) is a popular cross-cloud toolkit that covers an impressive number of public and private cloud providers. OpenStack is among these providers and the OpenStack ecosystem benefits from good support in jclouds because it allows developers who are comfortable with Java or jclouds to easily adopt OpenStack and it enables hybrid cloud development. Likewise, jclouds benefits from good OpenStack support because OpenStack is a popular Infrastructure as a Service provider and already has deep roots in the open source community.
+<img class="img-right" src="/img/posts/guava1.jpeg"/>[jclouds](http://www.jclouds.org/) is a popular cross-cloud toolkit that covers an impressive number of public and private cloud providers. OpenStack is among these providers and the OpenStack ecosystem benefits from good support in jclouds because it allows developers who are comfortable with Java or jclouds to easily adopt OpenStack and it enables hybrid cloud development. Likewise, jclouds benefits from good OpenStack support because OpenStack is a popular Infrastructure as a Service provider and already has deep roots in the open source community.
+
+<!--more-->
 
 A number of times on the jclouds-dev mailing list and IRC I've seen developers who want to help contribute OpenStack support to jclouds but aren't entirely sure about how to go about it. There are a number of things you need to get started.
 

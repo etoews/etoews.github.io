@@ -5,16 +5,17 @@ date: 2012-08-18 20:01:19+00:00
 layout: post
 slug: logging-in-jclouds
 title: Logging in jclouds
+image: /img/posts/log.jpeg
 categories:
 - jclouds
 - openstack
 ---
 
-<img class="img-right" src="/img/posts/log.jpeg"/>
-
 **Update**: The info in this post has been superseded by the [jclouds logging reference page](http://jclouds.apache.org/reference/logging/).
 
-**TL;DR** For basic header and wire logging in jclouds:
+<img class="img-right" src="/img/posts/log.jpeg"/>**TL;DR** For basic header and wire logging in jclouds:
+
+<!--more-->
 
   1. [Download logback](http://logback.qos.ch/download.html)
   2. Put the JARs on your classpath

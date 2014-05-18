@@ -4,7 +4,8 @@ comments: true
 date: 2012-10-22 17:54:42+00:00
 layout: post
 slug: sdks-and-an-openstack-grizzly-summit-wrap-up
-title: 'SDKs and an OpenStack Grizzly Summit Wrap Up '
+title: SDKs and an OpenStack Grizzly Summit Wrap Up
+image: /img/posts/openstack-summit-homepage-splash.png
 categories:
 - jclouds
 - openstack
@@ -12,6 +13,8 @@ categories:
 ---
 
 <img class="img-right" src="/img/posts/openstack-summit-homepage-splash.png"/>The OpenStack Grizzly Summit has wrapped up and it was another huge success. The new format of having the Summit and Conference at the same time worked well. Good venue, the wifi held up, the organizers accommodated the overflow people (i.e. 200-300 unregistered attendees) with amazing aplomb, there were always healthy food choices, and coffee/water was present at all times. All in all, great organization by the OpenStack Foundation that allowed everyone to stay focused on the task at hand, improving OpenStack in every way possible.
+
+<!--more-->
 
 I wanted to highlight some of the progress made on the Software Development Kit (SDK) front during the Summit.
 

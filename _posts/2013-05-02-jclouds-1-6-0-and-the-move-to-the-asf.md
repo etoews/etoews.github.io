@@ -5,12 +5,15 @@ date: 2013-05-02 20:36:39+00:00
 layout: post
 slug: jclouds-1-6-0-and-the-move-to-the-asf
 title: jclouds 1.6.0 and the move to the ASF
+image: /img/posts/apache.png
 categories:
 - jclouds
 - rackspace
 ---
 
 <img class="img-right" src="/img/posts/apache.png"/>jclouds 1.6.0 has been released! Since 1.5.0 I'm both proud and (antonymically) humbled to have become a committer. We've done a lot of work since then, including adding new features and an extensive refactoring aimed at simplifying the code base and removing cruft. I'm pleased to announce that full support for Rackspace Cloud Load Balancers and Cloud DNS has been added. That brings the list of supported APIs to:
+
+<!--more-->
 
   * Cloud Servers
   * Cloud Files

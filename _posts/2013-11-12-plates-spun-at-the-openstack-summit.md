@@ -5,15 +5,16 @@ date: 2013-11-12 23:31:03+00:00
 layout: post
 slug: plates-spun-at-the-openstack-summit
 title: Plates Spun at the OpenStack Summit
+image: /img/posts/p1100830b.jpg
 categories:
 - jclouds
 - openstack
 - rackspace
-tags:
-- OpenStack
 ---
 
 I spent the past week in Hong Kong at the OpenStack Summit. It was by far the furthest I've ever travelled for a Summit and by far the busiest I've ever been at a Summit. Here are some of the highlights.
+
+<!--more-->
 
   1. The People at Rackspace HK
   2. jclouds Became an Apache Top Level Project

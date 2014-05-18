@@ -29,3 +29,16 @@ img {
 .aside-widget .body {
   margin-right: 20px;
 }
+
+.blog-teaser .btn {
+  float: left;
+  margin-left: 45px;
+  margin-bottom: 18px;
+}
+
+.blog-teaser .body img {
+  margin-bottom: 20px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+  border-radius: 200px;
+}

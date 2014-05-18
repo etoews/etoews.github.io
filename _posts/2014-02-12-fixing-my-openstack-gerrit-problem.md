@@ -12,6 +12,8 @@ categories:
 
 I was setting up a laptop to contribute some code to OpenStack according to the [Gerrit Workflow Account Setup](https://wiki.openstack.org/wiki/GerritWorkflow#Account_Setup). When I got to the point of doing the `git review -s` I hit the error
 
+<!--more-->
+
     $ git review -s
     Problem running 'git remote update gerrit'
     Fetching gerrit

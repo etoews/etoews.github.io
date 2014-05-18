@@ -5,6 +5,7 @@ date: 2013-10-10 16:31:54+00:00
 layout: post
 slug: jclouds-1-6-2-released-with-support-for-openstack-trove
 title: jclouds 1.6.2 released with support for OpenStack Trove
+image: http://i.imgur.com/2IdQ7zZ.jpg
 categories:
 - jclouds
 - openstack
@@ -12,6 +13,8 @@ categories:
 ---
 
 <img class="img-right" src="http://i.imgur.com/2IdQ7zZ.jpg"/>jclouds 1.6.2 has been released (see [release notes](http://jclouds.incubator.apache.org/documentation/releasenotes/1.6.2/)) with support for OpenStack Trove!
+
+<!--more-->
 
 Trove is Database as a Service (DBaaS) for OpenStack. It's designed to run entirely on OpenStack, with the goal of allowing users to quickly and easily utilize the features of a relational database without the burden of handling complex administrative tasks. Cloud users and database administrators can provision and manage multiple database instances as needed. Initially, the service will focus on providing resource isolation at high performance while automating complex administrative tasks including deployment, configuration, patching, backups, restores, and monitoring.
 

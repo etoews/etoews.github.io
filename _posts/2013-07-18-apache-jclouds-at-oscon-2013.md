@@ -9,9 +9,11 @@ categories:
 - jclouds
 ---
 
+Apache jclouds will be getting a lot of recognition at OSCON 2013 this year.
+
 <img class="img-right" src="/img/posts/oscon2013_speaking_160x6001.png"/>
 
-Apache jclouds will be getting a lot of recognition at OSCON 2013 this year.
+<!--more-->
 
 **jclouds: Control Multi-Cloud Infrastructure With Java**
 

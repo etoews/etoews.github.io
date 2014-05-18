@@ -5,11 +5,14 @@ date: 2013-06-23 21:54:00+00:00
 layout: post
 slug: fix-minecraft-freeze-on-mac-os-x
 title: Fix Minecraft Freeze on Mac OS X
+image: /img/posts/minecraft-grass.png
 categories:
 - minecraft
 ---
 
 <img class="img-right" src="/img/posts/minecraft-grass.png"/>I had an intermittent problem where Minecraft would freeze up on my Mac and just stop working. I would take anywhere from five to thirty seconds to unfreeze before I could start playing again. Some of the longer pauses would seem like a crash but it always eventually resumed. It was a nasty bug and extremely frustrating.
+
+<!--more-->
 
 The root cause seems to be [this bug](http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7180557) in the JVM by Oracle for Mac OS X. The workaround is relatively simple. You need to add your hostname to the /etc/hosts file. This requires using the Terminal but it's really pretty easy.
 

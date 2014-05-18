@@ -5,6 +5,7 @@ date: 2014-01-09 17:08:55+00:00
 layout: post
 slug: jclouds-1-7-0-released
 title: jclouds 1.7.0 Released With Support for OpenStack Queuing, Networks, and Rackspace Auto Scale
+image: /img/posts/jclouds.jpg
 categories:
 - jclouds
 - openstack
@@ -12,6 +13,8 @@ categories:
 ---
 
 <img class="img-right" src="/img/posts/jclouds.jpg"/>Apache jclouds version 1.7.0 has been released into the wild. This is jclouds' first minor point version release as an Apache top level project. Community development on the project is continuing to accelerate and there are some major additions I'd like to highlight.
+
+<!--more-->
 
 ## OpenStack
 

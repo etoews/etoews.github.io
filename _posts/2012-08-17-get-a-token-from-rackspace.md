@@ -13,4 +13,6 @@ categories:
 
 On Mac OS X
 
+<!--more-->
+
 <script src="https://gist.github.com/3380355.js"></script>

@@ -5,11 +5,14 @@ date: 2012-12-10 21:44:13+00:00
 layout: post
 slug: write-that-request-for-help-but-dont-send-it-yet
 title: Write That Request For Help, But Don't Send It...Yet
+image: /img/posts/rubber-duck.jpg
 categories:
 - advocacy
 ---
 
 <img class="img-right" src="/img/posts/rubber-duck.jpg"/>Recently I was writing some code and ran into a problem. Same old story. It happens all the time to developers everywhere. I began decomposing the problem, tried to isolate it, Googled error messages, explored different approaches to do the same thing, etc. All of the usual stuff I do when I run up against a nasty bug. But the bug persisted and I began to run out of thing to try.
+
+<!--more-->
 
 ## Help!
 

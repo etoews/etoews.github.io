@@ -5,11 +5,14 @@ date: 2013-02-14 02:41:51+00:00
 layout: post
 slug: netflix-aims-to-be-scalable-functional-and-portable-or-how-to-run-a-meetup
 title: Netflix Aims to be Scalable, Functional, and Portable (or How to Run a Meetup)
+image: /img/posts/netflixoss-e1360792045763.jpeg
 categories:
 - jclouds
 ---
 
 <img class="img-right" src="/img/posts/netflixoss-e1360792045763.jpeg"/>Netflix has been open sourcing the software that makes up their platform at a torrential pace. On February 6th, 2013 I attended their first ever open house where they gave developers a bit more insight into their motivation for going open source. The whole event was very professionally run and could be used as a template for how to run a meetup with that much content.
+
+<!--more-->
 
 ## The Meetup
 

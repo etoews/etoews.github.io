@@ -5,9 +5,12 @@ date: 2014-03-23 19:33:07+00:00
 layout: post
 slug: south-by-slash-west
 title: South By Slash West
+image: /img/posts/sxsw1.png
 ---
 
 <img class="img-right" src="/img/posts/sxsw1.png"/>Simply put, SXSW 2014 was awesome. This year I had a workshop titled Cloud Portability with Multi-Cloud Toolkits accepted. With that came a Gold badge and full access to SXSW Interactive. It's a pass to insight into the tech industry and I tried to make full use of it.
+
+<!--more-->
 
   1. Friday TechBreakfast
   2. Sunday Workshop and IEEE Party

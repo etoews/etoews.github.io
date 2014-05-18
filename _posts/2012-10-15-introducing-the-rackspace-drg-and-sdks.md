@@ -5,6 +5,7 @@ date: 2012-10-15 20:36:22+00:00
 layout: post
 slug: introducing-the-rackspace-drg-and-sdks
 title: Introducing the Rackspace Developer Relations Group and open cloud SDKs
+image: /img/posts/toolkit.jpg
 categories:
 - jclouds
 - openstack
@@ -13,6 +14,8 @@ categories:
 ---
 
 <img class="img-right" src="/img/posts/toolkit.jpg"/>I'm proud to help announce and to be a part of the Rackspace Developer Relations Group as a Developer Advocate. The group has been around for a little while now and I only joined them a few of months ago but we've had our heads down building [Software Development Kits (SDKs)](http://docs.rackspace.com/sdks/guide/content/intro.html). Well now we've got a killer [Java SDK](http://docs.rackspace.com/sdks/guide/content/java.html) and [PHP SDK](http://docs.rackspace.com/sdks/guide/content/php.html) for the Rackspace open cloud ready to go and we'd like to let the world know. We've been introduced on the official Rackspace blog but I wanted to throw my 2 cents in here too.
+
+<!--more-->
 
 ## What is an SDK?
 
