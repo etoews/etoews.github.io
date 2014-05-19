@@ -11,7 +11,7 @@ categories:
 - advocacy
 ---
 
-<img class="img-right" src="/img/posts/jekyll.png"/>Like many other developers, I've decided to abandon WordPress and used GitHub's Jekyll as a Service for my blogging platform. Most developers focus on the _how_ when they write their "I've switched to Jekyll" post. I'm thankful to all of those developers because their work has made my transition easier. However, I'm going to focus on the _why_ for this post.
+<img class="img-right" src="/img/posts/jekyll.png"/>Like many other developers, I've decided to abandon WordPress and use GitHub's Jekyll as a Service for my blogging platform. Most developers focus on the _how_ when they write their "I've switched to Jekyll" post. I'm thankful to all of those developers because their work has made my transition easier. However, I'm going to focus on the _why_ for this post.
 
 <!--more-->
 
@@ -22,12 +22,13 @@ In no particular order:
   * I use Jekyll/Bootstrap for a number of other projects and using them here helps me get better at them.
   * Bootstrap makes me feel like I can do front-end development. :)
   * I subscribe to a number of Software as a Services and the monthly bills do add up. This is free.
-  * I truly hated the WordPress WYSIWYG editor. Most of the time I spent in the HTML editor anyway.
+  * I truly hated the WordPress WYSIWYG editor. I spent most of the time in the HTML editor anyway.
   * Full control of the look and feel.
   * GitHub is constantly improving the platform.
   * Zero security worries.
   * Blogging in markdown.
   * No need to install anything. Now that I'm setup, I can blog directly from the GitHub editor.
+  * Version control of everything.
 
 ## How
 
