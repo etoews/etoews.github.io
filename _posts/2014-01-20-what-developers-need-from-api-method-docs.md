@@ -23,7 +23,7 @@ e.g. `POST https://api.example.com/book`
 
 ## Prose
 
-Keep it simple and succinct. The less words you use the better. Writing lengthy descriptions about what the API call does has a way of letting ambiguity sneak in.
+Keep it simple and succinct. The less words you use the better. Writing lengthy descriptions about what the API call does have a way of letting ambiguity sneak in.
 
 ## Parameters
 
