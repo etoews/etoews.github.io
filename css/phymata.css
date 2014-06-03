@@ -36,9 +36,17 @@ img {
   margin-bottom: 18px;
 }
 
-.blog-teaser .body img {
+.img-teaser {
   margin-bottom: 20px;
+  margin-left: 10px;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
   border-radius: 200px;
+  border: 2px solid #242b32;
+  padding: 0px;
+  width: 200px;
+  height: 200px;
+  float: right;
+  background-repeat: no-repeat;
+  background-position:center;
 }
