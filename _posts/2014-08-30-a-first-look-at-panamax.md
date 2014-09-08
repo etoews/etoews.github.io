@@ -22,7 +22,7 @@ So on that note, here's some constructive criticism across several aspects.
 
 ## Learning
 
-Panamax has great potential for helping developers learn Docker and its ecosystem tooling. At some point developers will want to automate all the things and if they know the Panamax and Docker API/CLI, it will make it that much easier. But Panamax can do better at teaching Docker to developers by displaying the Docker commands being executed. Vote for the feature at [display the Docker command being executed](http://feedback.panamax.io/forums/260899-general/suggestions/6343899-display-the-docker-command-being-executed).
+Panamax has great potential for helping developers learn Docker and its ecosystem tooling. At some point developers will want to automate all the things and if they know the Panamax and Docker API/CLI, it will make it that much easier. But Panamax can do better at teaching Docker to developers by displaying the Docker commands being executed. Vote for the feature at [display the Docker command being executed](http://feedback.panamax.io/forums/260899-general/suggestions/6343899-display-the-docker-command-being-executed). _Update: This feature has been accepted and work has begun on it!_
 
 Learning Panamax itself is non-trivial and to gain widespread adoption it needs to guide users through how to use it. I'm thinking of exemplars like [Slack](https://slack.com/) and [Activator](https://typesafe.com/activator) and how they hold the hand of the developer until they're proficient with the new technology. I realize this is a tall order for any web application and it takes a lot of user experience design to get it right.
 
