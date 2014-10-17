@@ -5,7 +5,7 @@ date: 2014-10-16 14:00:00+00:00
 layout: post
 slug: openstack-api-working-group
 title: Forming the OpenStack API Working Group
-image: /img/posts/openstack-api.png
+image: /img/posts/openstack.png
 categories:
 - openstack
 ---
