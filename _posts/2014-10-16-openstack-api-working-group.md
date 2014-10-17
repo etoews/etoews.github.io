@@ -18,7 +18,7 @@ A new working group about APIs is forming in the OpenStack community. Its purpos
 
 ## API Working Group Participation
 
-You too can help make the OpenStack APIs better going forward by participating in this group. Many people have already committed to making the APIs better. I invite you to add yourself to the members on the [wiki page](https://wiki.openstack.org/wiki/API_Working_Group) and watch the openstack-dev mailing list for emails prefixed with [api].
+You too can help make the OpenStack APIs better going forward by participating in this group. Many people have already committed to making the APIs better. I invite you to add yourself to the members on the [wiki page](https://wiki.openstack.org/wiki/API_Working_Group) and watch the [openstack-dev mailing list](http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-dev) for emails prefixed with [api]. If you're only interested in this topic on the mailing list then you can only subscribe to the API Working Group topic under the Subscription Options.
 
 It's important that this working group have deliverables. Specific things the group can do so that the member's work has a measurable impact on improving the OpenStack APIs.
 
