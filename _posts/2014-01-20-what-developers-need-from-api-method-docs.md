@@ -67,7 +67,7 @@ e.g.
       <td>String</td>
       <td>1 to 256 chars</td>
       <td>N/A</td>
-      <td>tde name of tde book</td>
+      <td>the name of the book</td>
     </tr>
     <tr>
       <td>pages</td>
@@ -76,7 +76,7 @@ e.g.
       <td>Integer</td>
       <td>1 to 1,000,000</td>
       <td>N/A</td>
-      <td>tde number of pages in tde book</td>
+      <td>the number of pages in the book</td>
     </tr>
     <tr>
       <td>autdors</td>
@@ -85,7 +85,7 @@ e.g.
       <td>Array of Strings</td>
       <td>1 to 256 chars for each autdor</td>
       <td>N/A</td>
-      <td>Alphabetical listing of autdors of tde book</td>
+      <td>Alphabetical listing of autdors of the book</td>
     </tr>
   </tbody>
 </table>
