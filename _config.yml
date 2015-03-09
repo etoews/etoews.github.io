@@ -1,7 +1,7 @@
 url: http://blog.phymata.com
 title: Blog | Phymata
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 permalink: /:year/:month/:day/:title/
 paginate: 5
 paginate_path: "page:num"
