@@ -66,4 +66,4 @@ We'll achieve this through producing SDKs and Developer Advocacy. While doing so
 
 ## Coda
 
-Clearly I'm excited to be a part of this new group at Rackspace. There's still a lot more work to do but I'm looking forward to it and that makes the mountain that much more fun to climb. Please give our [SDKs](http://docs.rackspace.com/sdks/guide/content/intro.html) a try and let us know what you think at [sdk-support@rackspace.com](mailto:sdk-support@rackspace.com).
+Clearly I'm excited to be a part of this new group at Rackspace. There's still a lot more work to do but I'm looking forward to it and that makes the mountain that much more fun to climb. Please give our [SDKs](https://developer.rackspace.com/) a try and let us know what you think at [developer.rackspace.com/support/](https://developer.rackspace.com/support/).
