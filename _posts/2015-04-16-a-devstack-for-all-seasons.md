@@ -79,15 +79,52 @@ In the instructions below you'll need to replace `MY_OPENSTACK_VERSION` with one
 
 7. To work with OpenStack via a programming language in a software development kit (SDK):
 
-    | Language | Guide | SDK Name |
-    | -------- | ----- | -------- |
-    | Go       | [Getting Started Guide](http://gophercloud.io/docs/) | gophercloud |
-    | Java     | [Getting Started Guide](http://jclouds.apache.org/guides/openstack/) | Apache jclouds |
-    | .NET     | [Getting Started Guide](http://openstacknetsdk.org/) | OpenStack.NET |
-    | Node.js  | [Getting Started Guide](https://github.com/pkgcloud/pkgcloud/blob/master/docs/providers/openstack/getting-started-compute.md) | pkgcloud |
-    | PHP      | [Getting Started Guide](http://docs.php-opencloud.com/en/latest/getting-started-with-openstack.html) | php-opencloud |
-    | Python   | [Getting Started Guide](http://python-openstacksdk.readthedocs.org/en/latest/users/index.html) | Python OpenStack SDK |
-    | Ruby     | [Getting Started Guide](https://github.com/fog/fog/blob/master/lib/fog/openstack/docs/getting_started.md) | Fog |
+    <table class="table table-striped table-bordered table-hover">
+      <thead>
+        <tr>
+          <th>Language</th>
+          <th>Guide</th>
+          <th>SDK Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Go</td>
+          <td><a href="http://gophercloud.io/docs/">Getting Started Guide</a></td>
+          <td>gophercloud</td>
+        </tr>
+        <tr>
+          <td>Java</td>
+          <td><a href="http://jclouds.apache.org/guides/openstack/">Getting Started Guide</a></td>
+          <td>Apache jclouds</td>
+        </tr>
+        <tr>
+          <td>.NET</td>
+          <td><a href="http://openstacknetsdk.org/">Getting Started Guide</a></td>
+          <td>OpenStack.NET</td>
+        </tr>
+        <tr>
+          <td>Node.js</td>
+          <td><a href="https://github.com/pkgcloud/pkgcloud/blob/master/docs/providers/openstack/getting-started-compute.md">Getting Started Guide</a></td>
+          <td>pkgcloud</td>
+        </tr>
+        <tr>
+          <td>PHP</td>
+          <td><a href="http://docs.php-opencloud.com/en/latest/getting-started-with-openstack.html">Getting Started Guide</a></td>
+          <td>php-opencloud</td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td><a href="http://python-openstacksdk.readthedocs.org/en/latest/users/index.html">Getting Started Guide</a></td>
+          <td>Python OpenStack SDK</td>
+        </tr>
+        <tr>
+          <td>Ruby</td>
+          <td><a href="https://github.com/fog/fog/blob/master/lib/fog/openstack/docs/getting_started.md">Getting Started Guide</a></td>
+          <td>Fog</td>
+        </tr>
+      </tbody>
+    </table>
 
 8. To work with OpenStack via the API:
 
