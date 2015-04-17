@@ -1,6 +1,8 @@
 url: http://blog.phymata.com
 title: Blog | Phymata
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: pygments
 permalink: /:year/:month/:day/:title/
 paginate: 5
