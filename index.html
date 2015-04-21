@@ -3,7 +3,7 @@ layout: default
 title: Blog | Phymata
 ---
 
-<ul>
+<ul class="no-left-margin">
 {% for post in paginator.posts %}
   <div class="row">
     <div class="col-md-12 col-sm-12">
@@ -17,7 +17,7 @@ title: Blog | Phymata
                 {% if post.image %}
                   <img class="img-teaser" style="background-image: url({{ post.image }});" width="200" height="200">
                 {% endif %}
-                {{ post.excerpt | strip_html }} ...
+                {{ post.excerpt | strip_html }}
             </div>
             <div class="clearfix">
                 <a href="{{ post.url }}" class="btn btn-tales-one">Read More</a>
@@ -41,4 +41,3 @@ title: Blog | Phymata
   {% endif %}
 </div>
 {% endif %}
-
