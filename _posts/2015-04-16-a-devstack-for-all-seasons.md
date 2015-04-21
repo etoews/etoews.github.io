@@ -5,14 +5,14 @@ date: 2015-04-16 14:00:00+00:00
 layout: post
 slug: a-devstack-for-all-seasons
 title: A DevStack For All Seasons
-image: /img/posts/cloud-inception.png
+image: /img/posts/seasons.jpeg
 categories:
 - devstack
 - openstack
 - rackspace
 ---
 
-<img class="img-right" src="/img/posts/cloud-inception.png"/>Here's how to deploy DevStack for OpenStack on the Rackspace Cloud. You can use DevStack for testing/development of OpenStack or just learning a bit more about OpenStack and how all of the pieces fit together.
+<img class="img-right" src="/img/posts/seasons.jpeg"/>Here's how to deploy DevStack for OpenStack on the Rackspace Cloud. You can use DevStack for testing/development of OpenStack or just learning a bit more about OpenStack and how all of the pieces fit together.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ The services deployed from following the instructions here are:
 
 If you don't have a Rackspace Cloud account, I recommend using the [Developer+](http://developer.rackspace.com/signup/) free credit to try this out.
 
-In the instructions below you'll need to replace `MY_OPENSTACK_VERSION` with one of these [branch names]() (minus the `stable/` prefix). The branch names are the code names for a particular version of OpenStack. e.g. `stable/MY_OPENSTACK_VERSION` becomes `stable/juno`. You'll also need to replace `MY_DEVSTACK_PASSWORD` with one of your choosing.
+<img class="img-right" src="/img/posts/cloud-inception.png"/>In the instructions below you'll need to replace `MY_OPENSTACK_VERSION` with one of these [branch names]() (minus the `stable/` prefix). The branch names are the code names for a particular version of OpenStack. e.g. `stable/MY_OPENSTACK_VERSION` becomes `stable/juno`. You'll also need to replace `MY_DEVSTACK_PASSWORD` with one of your choosing.
 
 1. Go to the [Cloud Control Panel](https://mycloud.rackspace.com/)
 
@@ -158,7 +158,7 @@ _Note_: We're creating these resources in the Northern Virgina (IAD) region.
   1. Region: Northern Virgina (IAD)
   1. Public Key: Paste in a public key
     * See how to [Generate a new SSH key pair](http://www.rackspace.com/knowledge_center/article/connecting-to-a-server-using-ssh-on-linux-or-mac-os#SSH_keygen)
-3. [Install python-openstackclient](http://docs.openstack.org/user-guide/content/install_clients.html). For the instructions on that page, replace _`PROJECT`_ with `nova`.
+3. [Install python-novaclient](http://docs.openstack.org/user-guide/content/install_clients.html). For the instructions on that page, replace _`PROJECT`_ with `nova`.
 4. [Install git](http://git-scm.com/downloads).
 5. Set some environment variables:
 
@@ -168,7 +168,7 @@ _Note_: We're creating these resources in the Northern Virgina (IAD) region.
         export OS_USERNAME=MY_RACKSPACE_USERNAME
         export OS_PASSWORD=MY_RACKSPACE_PASSWORD
 
-    `MY_RACKSPACE_ACCOUNT_ID` is found in the top right corner of mycloud.rackspace.com under Account
+    `MY_RACKSPACE_ACCOUNT_ID` is found in the top right corner of the [Cloud Control Panel](https://mycloud.rackspace.com/) under Account
 
 6. Run these commands:
 
