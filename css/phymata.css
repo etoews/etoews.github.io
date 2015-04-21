@@ -10,6 +10,10 @@ img {
   padding: 4px;
 }
 
+ul.no-left-margin {
+  padding: 0;
+}
+
 .img-right {
   float: right;
 }
