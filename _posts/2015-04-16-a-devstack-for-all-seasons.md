@@ -25,6 +25,7 @@ The services deployed from following the instructions here are:
   1. Image (Glance)
   1. Block Storage (Cinder)
   1. Orchestration (Heat)
+  1. Messaging (Zaqar)
   1. Dashboard (Horizon)
 
 If you don't have a Rackspace Cloud account, I recommend using the [Developer+](http://developer.rackspace.com/signup/) free credit to try this out.
@@ -157,7 +158,7 @@ _Note_: We're creating these resources in the Northern Virgina (IAD) region.
   1. Key Name: devstacker
   1. Region: Northern Virgina (IAD)
   1. Public Key: Paste in a public key
-    * See how to [Generate a new SSH key pair](http://www.rackspace.com/knowledge_center/article/connecting-to-a-server-using-ssh-on-linux-or-mac-os#SSH_keygen)
+    * See how to [Generate a new SSH key pair](http://www.rackspace.com/knowledge_center/article/connecting-to-a-server-using-ssh-on-linux-or-mac-os#SSH_keygen) (save the key as `$HOME/.ssh/id_rsa.devstacker`)
 3. [Install python-novaclient](http://docs.openstack.org/user-guide/content/install_clients.html). For the instructions on that page, replace _`PROJECT`_ with `nova`.
 4. [Install git](http://git-scm.com/downloads).
 5. Set some environment variables:
