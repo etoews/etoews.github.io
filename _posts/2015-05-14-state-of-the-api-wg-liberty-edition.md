@@ -57,8 +57,10 @@ There are also many other areas ripe for improvement.
 * Finding more traction
 * Writing more guidelines
 * Publishing the guidelines
+* Formalizing the merge process
 * Getting projects to implement the guidelines
 * Using the guideline template
+* The educational aspect of the API WG
 
 We'll be discussing these areas at the Liberty Summit in Vancouver over the course of 3 design sessions.
 
