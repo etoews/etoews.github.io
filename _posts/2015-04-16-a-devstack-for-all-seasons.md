@@ -30,7 +30,7 @@ The services deployed from following the instructions here are:
 
 If you don't have a Rackspace Cloud account, I recommend using the [Developer+](http://developer.rackspace.com/signup/) free credit to try this out.
 
-<img class="img-right" src="/img/posts/cloud-inception.png"/>In the instructions below you'll need to replace `MY_OPENSTACK_VERSION` with one of these [branch names]() (minus the `stable/` prefix). The branch names are the code names for a particular version of OpenStack. e.g. `stable/MY_OPENSTACK_VERSION` becomes `stable/juno`. You'll also need to replace `MY_DEVSTACK_PASSWORD` with one of your choosing.
+<img class="img-right" src="/img/posts/cloud-inception.png"/>In the instructions below you'll need to replace `MY_OPENSTACK_VERSION` with one of these [branch names](https://github.com/openstack-dev/devstack/branches) (minus the `stable/` prefix). The branch names are the code names for a particular version of OpenStack. e.g. `stable/MY_OPENSTACK_VERSION` becomes `stable/juno`. You'll also need to replace `MY_DEVSTACK_PASSWORD` with one of your choosing.
 
 1. Go to the [Cloud Control Panel](https://mycloud.rackspace.com/)
 
