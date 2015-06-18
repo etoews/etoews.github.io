@@ -175,9 +175,9 @@ _Note_: We're creating these resources in the Northern Virgina (IAD) region.
 
         git clone https://github.com/everett-toews/devstacker.git
         cd devstacker
-        ./devstacker MY_OPENSTACK_VERSION MY_DEVSTACK_PASSWORD
+        ./devstacker.sh MY_OPENSTACK_VERSION MY_DEVSTACK_PASSWORD
 
-    e.g. ./devstacker juno ajbk4389iuKjknab1
+    e.g. ./devstacker.sh kilo ajbk4389iuKjknab1
 
 ## Coda
 
