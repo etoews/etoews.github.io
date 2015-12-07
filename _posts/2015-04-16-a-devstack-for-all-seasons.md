@@ -151,12 +151,12 @@ There are many ways you can automate starting a VM in the cloud and running DevS
 
 There are a few extras steps before you automate everything.
 
-_Note_: We're creating these resources in the Northern Virgina (IAD) region.
+_Note_: We're creating these resources in the Northern Virginia (IAD) region.
 
 1. Go to the [Cloud Control Panel](https://mycloud.rackspace.com/)
 2. Click Server > SSH Keys
   1. Key Name: devstacker
-  1. Region: Northern Virgina (IAD)
+  1. Region: Northern Virginia (IAD)
   1. Public Key: Paste in a public key
     * See how to [Generate a new SSH key pair](http://www.rackspace.com/knowledge_center/article/connecting-to-a-server-using-ssh-on-linux-or-mac-os#SSH_keygen) (save the key as `$HOME/.ssh/id_rsa.devstacker`)
 3. [Install python-novaclient](http://docs.openstack.org/user-guide/content/install_clients.html). For the instructions on that page, replace _`PROJECT`_ with `nova`.
