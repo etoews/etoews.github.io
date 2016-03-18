@@ -17,7 +17,7 @@ title: Blog | Phymata
                 {% if post.image %}
                   <img class="img-teaser" style="background-image: url({{ post.image }});" width="200" height="200">
                 {% endif %}
-                {{ post.excerpt | strip_html }}
+                {{ post.excerpt }}
             </div>
             <div class="clearfix">
                 <a href="{{ post.url }}" class="btn btn-tales-one">Read More</a>
