@@ -3,8 +3,8 @@ author: Everett Toews
 comments: true
 date: 2015-06-15 14:00:00+00:00
 layout: post
-slug: email-at-a-large-company
-title: Email at a Large Company
+slug: surviving-email-at-large-company
+title: Surviving Email at Large Company
 image: /img/posts/mailbox.jpg
 categories:
 ---

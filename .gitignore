@@ -1,6 +1,2 @@
-.idea/
+.jekyll-metadata
 _site/
-
-Gemfile.lock
-*.iml
-.DS_Store
