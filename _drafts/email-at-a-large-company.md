@@ -13,6 +13,8 @@ categories:
 
 <!--more-->
 
+Send links. It's the HT in HTTP and HTML.
+
 ## The Kilo Release Cycle
 
 ## Coda

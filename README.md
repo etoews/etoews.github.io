@@ -5,6 +5,8 @@ Preview
 ```
 unset ${!DOCKER_*}
 
+docker pull grahamc/jekyll
+
 docker run --rm -it \
   --name jekyll \
   --volume=$(pwd):/src \
@@ -12,5 +14,7 @@ docker run --rm -it \
   grahamc/jekyll \
   serve --watch --drafts --host 0.0.0.0
 
-open http://docker.local:4000
+open http://localhost:4000
 ```
+
+***REMOVED***
