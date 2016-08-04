@@ -87,7 +87,7 @@ $ curl -X POST --unix-socket /run/docker/plugins/authz.sock http:/Plugin.Activat
 Try to run a container before you say "hello" to see how the plugin denies a request. Once you say "hello", that request is approved and then all subsequent requests are immediately approved. All of the source code is in [authz.py](https://github.com/everett-toews/docker-authz-plugin/blob/master/authz.py).
 
 ```bash
-$ docker run --rm alpine /bin/sh -c 'echo "Running an alpine image"'
+$ docker run alpine /bin/sh -c 'echo "Running an alpine image"'
 docker: Error response from daemon: authorization denied by plugin authz: The request authorization failed. You must say hello first.
 See 'docker run --help'.
 
@@ -96,7 +96,7 @@ $ docker run hello-world
 Hello from Docker!
 ...
 
-$ docker run --rm alpine /bin/sh -c 'echo "Running an alpine image"'
+$ docker run alpine /bin/sh -c 'echo "Running an alpine image"'
 ...
 Running an alpine image
 ```
