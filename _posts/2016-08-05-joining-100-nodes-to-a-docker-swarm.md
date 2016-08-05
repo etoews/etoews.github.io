@@ -11,7 +11,7 @@ categories:
 - python
 ---
 
-<img class="img-right" src="{{ page.image }}"/>Before the final release of Docker 1.12, [Chanwit Kaewkasi](https://twitter.com/chanwit) proposed forming a 2000 node Docker Swarm mode cluster. He wanted to test Swarm at scale, find its limitations, and live upgrade each cluster manager. To do so he reached out to the Docker community to contribute 2000 nodes to the effort he called [#DockerSwarm2k](https://twitter.com/search?q=%23dockerswarm2k). Here's how I was able to help out by joining 100 nodes to the Swarm from my Rackspace account.
+<img class="img-right" src="{{ page.image }}"/>Before the final release of Docker 1.12, [Chanwit Kaewkasi](https://twitter.com/chanwit) proposed forming a 2000 node Docker Swarm mode cluster. He wanted to test Swarm at scale, find its limitations, and live upgrade each cluster manager. To do so he reached out to the Docker community to contribute 2000 nodes to the effort he called [#DockerSwarm2000](https://twitter.com/search?q=%23dockerswarm2000). Here's how I was able to help out by joining 100 nodes to the Swarm from my Rackspace account.
 
 <!--more-->
 
@@ -47,4 +47,4 @@ The whole test went remarkably smoothly. I was pleasantly surprised to see how m
 
 ## Coda
 
-Overall I'd say DockerSwarm2k was a success. There were certainly some interesting results but the community coming together and collaborating on this was a feat in itself. I genuinely hope this becomes a Docker release candidate tradition. I'll always be at the ready to launch 100 nodes to for it!
+Overall I'd say DockerSwarm2000 was a success. There were certainly some interesting results but the community coming together and collaborating on this was a feat in itself. I genuinely hope this becomes a Docker release candidate tradition. I'll always be at the ready to launch 100 nodes to for it!
