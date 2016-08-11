@@ -16,5 +16,3 @@ docker run --rm -it \
 
 open http://localhost:4000
 ```
-
-***REMOVED***
