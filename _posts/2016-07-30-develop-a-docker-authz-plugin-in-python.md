@@ -15,6 +15,12 @@ categories:
 
 <!--more-->
 
+_Update_: I presented this post at the [Docker Austin meetup](http://www.meetup.com/Docker-Austin/) on August 4, 2016.
+
+<div class="img-center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NQ401_LPQd4?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 The example in this post shows you how to deny a request based on a ridiculous rule that the first thing you have to do is say "hello" to the Docker daemon. To do this you'll use a combination of Python for the programming language, Flask for the web framework, and uWSGI for the WSGI server. You'll develop the plugin directly on the host so the Docker daemon can communicate with it via a Unix socket.
 
 The versions used in this post are:
