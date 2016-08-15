@@ -41,7 +41,7 @@ I created the VMs the night before the test with `dockerswarm100.sh create`. The
 
 The time of the test rolled around and all I had to do was run `dockerswarm100.sh join {swarm-secret} {swarm-manager-ip}` with the Swarm secret and manager IP that Chanwit provided to us. I know some contributors had some issues joining the Swarm but I was fortunate and all of my hosts joined without any issues. I followed up with `dockerswarm100.sh info` to check on the relevant Swarm info. Finally, after the test was over I deleted all of the VMs with `dockerswarm100.sh delete`
 
-The whole test went remarkably smoothly. I was pleasantly surprised to see how many contributors were able to coordinate and run a fairly large scale test with release candidate software. I snagged a screen shot, from the Graphite dashboard that Chanwit put together, near the peak number of nodes that had joined the Swarm.
+The whole test went remarkably smoothly. I was pleasantly surprised to see how many contributors were able to coordinate and run a fairly large scale test with release candidate software. I snagged a screen shot, from the Grafana dashboard that Chanwit put together, near the peak number of nodes that had joined the Swarm.
 
 ![DockerSwarm2k](/img/posts/dockerswarm2k.png)
 
