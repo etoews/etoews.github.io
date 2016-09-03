@@ -1,8 +1,13 @@
 url: http://blog.phymata.com
-title: Blog | Phymata
+author: Everett Toews
+description: Helping you shave narwhals
+title: Phymata
 permalink: /:year/:month/:day/:title/
 paginate: 5
 paginate_path: "page:num"
+twitter:
+  username: everett-toews
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 #  - jekyll-sitemap
