@@ -7,9 +7,9 @@ slug: a-devstack-for-all-seasons
 title: A DevStack For All Seasons
 image: /img/posts/seasons.jpeg
 categories:
-- devstack
-- openstack
-- rackspace
+  - devstack
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/seasons.jpeg"/>Here's how to deploy DevStack for OpenStack on the Rackspace Cloud. You can use DevStack for testing/development of OpenStack or just learning a bit more about OpenStack and how all of the pieces fit together.

@@ -7,10 +7,10 @@ slug: openstack-devstack-on-the-rackspace-open-cloud
 title: OpenStack devstack on the Rackspace open cloud
 image: /img/posts/devstack.png
 categories:
-- devstack
-- jclouds
-- openstack
-- rackspace
+  - devstack
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/devstack.png"/>I've written about deploying devstack before in [Contributing OpenStack Support to jclouds](/2012/10/03/contributing-openstack-support-to-jclouds/). That post covered running devstack locally in VirtualBox. I've been using that method for a while now but with a devstack env in VirtualBox, a jclouds dev env, browser, chat client, mail client, etc. etc. etc. all running on the same laptop it gets bogged down. I'm pretty sure I heard gears grinding and smoke was pouring out of the laptop at one point. I just don't have the cores, RAM, and RPMs to run everything smoothly and you need smoothly or development starts to suck.

@@ -7,9 +7,8 @@ slug: spinning-plates-openstack-summit-hong-kong
 title: Spinning Plates at the OpenStack Summit in Hong Kong
 image: /img/posts/spinning-plates.png
 categories:
-- advocacy
-- jclouds
-- openstack
+  - jclouds
+  - openstack
 ---
 
 <img class="img-right" src="/img/posts/spinning-plates.png"/>The [OpenStack Summit in Hong Kong](http://www.openstack.org/summit/hk/) is less than a month away now. Leading up to the Summit I was a track chair for the [Apps On OpenStack track](http://openstacksummitnovember2013.sched.org/type/apps+on+openstack). We had many excellent proposals that we're voted up by the community. Selecting the finalists wasn't easy. I think we found a good mix of sessions about applications built on top of OpenStack, the tools that enable developers to build those applications effectively, and the design decisions that developers will need to consider when building apps on OpenStack.

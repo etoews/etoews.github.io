@@ -7,7 +7,7 @@ slug: the-openstack-community-welcomes-developers-in-all-programming-languages
 title: The OpenStack Community Welcomes Developers in All Programming Languages
 image: /img/posts/openstack_nation1-lrg.png
 categories:
-- openstack
+  - openstack
 ---
 
 The OpenStack community has been and needs to continue to be a welcoming community for developers in all programming languages. Naturally I'm referring to developers who are building systems on top of OpenStack and not the developers of OpenStack itself.

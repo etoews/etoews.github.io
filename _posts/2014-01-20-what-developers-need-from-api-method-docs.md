@@ -6,7 +6,7 @@ layout: post
 slug: what-developers-need-from-api-method-docs
 title: What Developers Need From API Method Docs
 categories:
-- documentation
+  - documentation
 ---
 
 **TL;DR** Developers need zero ambiguity from API documentation.

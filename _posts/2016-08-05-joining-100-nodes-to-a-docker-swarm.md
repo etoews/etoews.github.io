@@ -7,8 +7,7 @@ slug: joining-100-nodes-to-a-docker-swarm
 title: Joining 100 nodes to a Docker Swarm
 image: /img/posts/bees.jpg
 categories:
-- docker
-- python
+  - docker
 ---
 
 <img class="img-right" src="{{ page.image }}"/>Before the final release of Docker 1.12, [Chanwit Kaewkasi](https://twitter.com/chanwit) proposed forming a 2000 node Docker Swarm mode cluster. He wanted to test Swarm at scale, find its limitations, and live upgrade each cluster manager. To do so he reached out to the Docker community to contribute 2000 nodes to the effort he called [#DockerSwarm2000](https://twitter.com/search?q=%23dockerswarm2000). Here's how I was able to help out by joining 100 nodes to the Swarm from my Rackspace account.

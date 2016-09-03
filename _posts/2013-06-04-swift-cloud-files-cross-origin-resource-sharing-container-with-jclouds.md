@@ -6,9 +6,9 @@ layout: post
 slug: swift-cloud-files-cross-origin-resource-sharing-container-with-jclouds
 title: Swift/Cloud Files Cross Origin Resource Sharing Container with jclouds
 categories:
-- jclouds
-- openstack
-- rackspace
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 Cross-origin resource sharing (CORS) is a mechanism that allows Javascript on a web page to make XMLHttpRequests to another domain, not the domain the Javascript originated from. Such "cross-domain" requests would otherwise be forbidden by web browsers, per the same origin security policy. CORS defines a way in which the browser and the server can interact to determine whether or not to allow the cross-origin request. It is more powerful than only allowing same-origin requests, but it is more secure than simply allowing all such [cross-origin requests](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing).

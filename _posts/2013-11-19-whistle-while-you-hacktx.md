@@ -6,9 +6,9 @@ layout: post
 slug: whistle-while-you-hacktx
 title: Whistle While You HackTX
 categories:
-- advocacy
-- jclouds
-- rackspace
+  - jclouds
+  - rackspace
+  - hackathon
 ---
 
 [HackTX](http://hacktx.com/) is the biggest hackathon in Texas. It's a 24 hour annual hackathon hosted by the Hacker Lounge and Technology Entrepreneurship Society student organizations at The University of Texas at Austin. It's made up of 500 hackers with $10,000 in prizes. By far, it's the biggest hackathon that I've personally attended and I was pretty damn excited to represent Rackspace as a sponsor.

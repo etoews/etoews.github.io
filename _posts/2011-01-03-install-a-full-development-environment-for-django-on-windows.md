@@ -6,8 +6,8 @@ layout: post
 slug: install-a-full-development-environment-for-django-on-windows
 title: Install a full development environment for Django on Windows
 categories:
-- django
-- python
+  - django
+  - python
 ---
 
 I recently installed a full development environment for Django on Windows 7 and found that it took longer than expected.  The path to getting everything working together wasn't immediately apparent.  I made a few missteps along the way and hopefully this post will make it a bit easier for the next developer.

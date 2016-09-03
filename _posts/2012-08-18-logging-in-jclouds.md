@@ -7,8 +7,8 @@ slug: logging-in-jclouds
 title: Logging in jclouds
 image: /img/posts/log.jpeg
 categories:
-- jclouds
-- openstack
+  - jclouds
+  - openstack
 ---
 
 **Update**: The info in this post has been superseded by the [jclouds logging reference page](http://jclouds.apache.org/reference/logging/).

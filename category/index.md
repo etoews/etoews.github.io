@@ -3,7 +3,8 @@ layout: default
 ---
 
 <ul>
-{% for category in site.categories %}
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
   <li>{{ category[0] }}</li>
     <ul>
     {% for post in category[1] %}

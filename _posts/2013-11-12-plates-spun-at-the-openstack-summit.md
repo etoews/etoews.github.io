@@ -7,9 +7,9 @@ slug: plates-spun-at-the-openstack-summit
 title: Plates Spun at the OpenStack Summit
 image: /img/posts/p1100830b.jpg
 categories:
-- jclouds
-- openstack
-- rackspace
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 I spent the past week in Hong Kong at the OpenStack Summit. It was by far the furthest I've ever travelled for a Summit and by far the busiest I've ever been at a Summit. Here are some of the highlights.

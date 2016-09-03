@@ -6,7 +6,7 @@ layout: post
 slug: innovation-in-the-jclouds-community
 title: Innovation in the jclouds Community
 categories:
-- jclouds
+  - jclouds
 ---
 
 Last week I had the pleasure of hosting the first [jclouds meetup](http://www.meetup.com/jclouds/events/99094612/) of 2013 at the Rackspace offices in San Francisco. The number one thing that struck me during the meetup was the amount of innovation going on and the commitment of the community. We had a great turn out and 4 presentations were given by members. Without further ado, here they are in the order they were presented.

@@ -7,8 +7,8 @@ slug: develop-a-docker-authz-plugin-in-python
 title: Develop a Docker Authorization Plugin in Python
 image: /img/posts/outlet.png
 categories:
-- docker
-- python
+  - docker
+  - python
 ---
 
 <img class="img-right" src="{{ page.image }}"/>Docker Engine has a great [plugin framework](https://docs.docker.com/engine/extend/plugin_api/) that allows you to write code that integrates cleanly with the Docker daemon. There are 3 different kinds of plugins you can create: authorization (authz), network, or volume. This post shows you how to develop a Docker [authorization plugin](https://docs.docker.com/engine/extend/plugins_authorization/) in Python. An authorization plugin can control access to access to the Docker daemon based on both the current authentication context and the command context in order to approve or deny requests.

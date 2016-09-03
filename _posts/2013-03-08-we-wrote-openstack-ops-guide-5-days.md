@@ -7,8 +7,8 @@ slug: we-wrote-openstack-ops-guide-5-days
 title: We Wrote an OpenStack Operations Guide in 5 Days!
 image: /img/posts/openstackopsguide-231x3001.jpg
 categories:
-- openstack
-- operations
+  - openstack
+  - ops
 ---
 
 <img class="img-right" src="/img/posts/openstackopsguide-231x3001.jpg"/>And here it is...the [OpenStack Operations Guide](http://docs.openstack.org/ops/). You can read it in EPUB, MOBI, PDF, or [print](http://www.lulu.com/content/paperback-book/openstack-operations-guide/13692962). The electronic formats are free to download so click away. The print version costs $29.90 and all proceeds go to the OpenStack Foundation to support more book sprints like the one that produced this book.

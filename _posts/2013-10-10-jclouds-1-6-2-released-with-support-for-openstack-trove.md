@@ -7,9 +7,9 @@ slug: jclouds-1-6-2-released-with-support-for-openstack-trove
 title: jclouds 1.6.2 released with support for OpenStack Trove
 image: http://i.imgur.com/2IdQ7zZ.jpg
 categories:
-- jclouds
-- openstack
-- rackspace
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="http://i.imgur.com/2IdQ7zZ.jpg"/>jclouds 1.6.2 has been released (see [release notes](http://jclouds.incubator.apache.org/documentation/releasenotes/1.6.2/)) with support for OpenStack Trove!

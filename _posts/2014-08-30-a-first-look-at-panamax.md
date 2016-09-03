@@ -7,7 +7,7 @@ slug: a-first-look-at-panamax
 title: A First Look at Panamax
 image: /img/posts/panamax.png
 categories:
-- docker
+  - docker
 ---
 
 <img class="img-right" src="/img/posts/panamax.png"/>Panamax is billed as Docker management for humans. In its current form it's basically a web application (both with a UI and API) running on a CoreOS host where you can stitch containers together using a GUI to create a working application architecture. Then you're able to save Panamax templates that represent that architecture. It seems the idea is that you should be able to use Docker and its ecosystem tooling via this GUI rather than via the Docker CLI/API. It's still early days for Panamax and it has a ways to go before delivering on its "Docker management for humans" billing.

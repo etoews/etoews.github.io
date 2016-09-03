@@ -6,7 +6,7 @@ layout: post
 slug: docker-on-the-rackspace-cloud
 title: Docker on the Rackspace Cloud
 categories:
-- rackspace
+  - rackspace
 ---
 
 I was at Gluecon 2013 a few weeks ago and caught a great session from Jeff Lindsay & Solomon Hykes about [Docker](http://www.docker.io/). Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient containers which are independent of hardware, language, framework, packaging system and hosting provider.

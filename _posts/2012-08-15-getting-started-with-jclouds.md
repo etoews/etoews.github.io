@@ -7,9 +7,9 @@ slug: getting-started-with-jclouds
 title: Getting started with jclouds
 image: /img/posts/cumulusklein.jpeg
 categories:
-- jclouds
-- openstack
-- rackspace
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 **Update**: Using jclouds 1.5.1

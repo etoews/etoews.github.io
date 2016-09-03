@@ -7,8 +7,8 @@ slug: jekyll-as-a-service
 title: Jekyll as a Service
 image: /img/posts/jekyll.png
 categories:
-- git
-- advocacy
+  - git
+  - documentation
 ---
 
 <img class="img-right" src="/img/posts/jekyll.png"/>Like many other developers, I've decided to abandon WordPress and use GitHub's Jekyll as a Service for my blogging platform. Most developers focus on the _how_ when they write their "I've switched to Jekyll" post. I'm thankful to all of those developers because their work has made my transition easier. However, I'm going to focus on the _why_ for this post.

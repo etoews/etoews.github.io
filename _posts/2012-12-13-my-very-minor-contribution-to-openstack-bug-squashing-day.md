@@ -7,7 +7,7 @@ slug: my-very-minor-contribution-to-openstack-bug-squashing-day
 title: My (Very) Minor Contribution to OpenStack Bug Squashing Day
 image: /img/posts/ambush_bug.jpg
 categories:
-- openstack
+  - openstack
 ---
 
 <img class="img-right" src="/img/posts/ambush_bug.jpg"/>I wanted to somehow contribute to the [OpenStack Bug Squashing](http://wiki.openstack.org/BugDays/20121213BugSquashing) today but I wasn't sure what bug to squash. I didn't have much time to participate so it had to be something I could complete within a couple of hours from scratch. I personally know several members of the OpenStack doc team so I checked out the [OpenStack Manuals bug list](https://bugs.launchpad.net/openstack-manuals) to see where I could help. Anne helpfully suggested taking a look at this [bug](https://bugs.launchpad.net/openstack-manuals/+bug/1057059).

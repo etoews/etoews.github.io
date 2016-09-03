@@ -7,7 +7,7 @@ slug: keep-the-cloud-honest
 title: Keep the Cloud Honest
 image: /img/posts/cloud-providers1.png
 categories:
-- cloud
+  - jclouds
 ---
 
 <img class="img-right" src="/img/posts/cloud-providers1.png"/>Last week at OSCON 2013 I gave a presentation entitled Cloud Portability With Multi-Cloud Toolkits. Not exactly a flashy title but you had a good idea of what you were going to get. I did a full write-up of it [over here](http://www.rackspace.com/blog/cloud-portability-value-of-the-multi-cloud-toolkit/) so I won't regurgitate that post. However, I will summarize why cloud portability is important and why you always want to be in a position to be able to switch cloud providers.
