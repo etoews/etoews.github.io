@@ -7,7 +7,7 @@ slug: were-writing-an-openstack-operations-manual-in-5-days
 title: We're Writing an OpenStack Operations Manual in 5 Days!
 image: /img/posts/openstack.png
 categories:
-- openstack
+  - openstack
 ---
 
 <img class="img-right" src="/img/posts/openstack.png"/>Anne Gentle, the OpenStack Doc Lead and Technical Committee member, must be crazy. She's proposed that a group of us write an OpenStack Operations Manual in 5 days. But there's a method to her madness. She's assembled a group of long-time OpenStack operators and people known for their documentation skill. She's handled the logistics of getting all of these people from across the world together in the same room for 5 days. She's recruited an experienced mediator and open source manual maker to assist us during the book sprint. And it all happens next week. She may be crazy but we believe in her and we can make this happen.

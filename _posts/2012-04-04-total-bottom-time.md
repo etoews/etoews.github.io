@@ -7,8 +7,8 @@ slug: total-bottom-time
 title: Total Bottom Time
 image: /img/posts/profile.jpg
 categories:
-- django
-- python
+  - django
+  - python
 ---
 
 I've updated my [totalbottomtime.com](http://totalbottomtime.com/) website (total bottom time is the amount of time a diver has spent at depth). The vision for it is to be an online dive community where scuba divers from around the world can log their dives and share them with family, friends and other divers. For now I'm the only member of the "community" and so it's serving as my personal dive log. I plan to continue adding features to it and eventually hope to open it for registration to the public.

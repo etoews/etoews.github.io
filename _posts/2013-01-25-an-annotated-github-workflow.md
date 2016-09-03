@@ -7,8 +7,8 @@ slug: an-annotated-github-workflow
 title: An Annotated GitHub Workflow
 image: /img/posts/tinker-toys-e1359124105270.jpg
 categories:
-- git
-- jclouds
+  - git
+  - jclouds
 ---
 
 <img class="img-right" src="/img/posts/tinker-toys-e1359124105270.jpg"/>After you've worked with any open source project hosted on GitHub for a while, you get used to its particular workflow. Well here's mine for [jclouds](http://www.jclouds.org/) but it's applicable to many projects. This guide will show you how to commit code to a project hosted on GitHub. The guide assumes you're as least somewhat familiar with git and already have a GitHub account.

@@ -6,7 +6,7 @@ layout: post
 slug: apache-jclouds-at-oscon-2013
 title: Apache jclouds at OSCON 2013
 categories:
-- jclouds
+  - jclouds
 ---
 
 Apache jclouds will be getting a lot of recognition at OSCON 2013 this year.

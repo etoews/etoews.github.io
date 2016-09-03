@@ -7,9 +7,8 @@ slug: sdks-at-the-openstack-grizzly-summit
 title: SDKs at the OpenStack Grizzly Summit
 image: /img/posts/grizzly.jpeg
 categories:
-- jclouds
-- openstack
-- advocacy
+  - jclouds
+  - openstack
 ---
 
 <img class="img-right" src="/img/posts/grizzly.jpeg"/>SDKs are a vital resource for any ecosystem and SDKs for OpenStack are proliferating. The [OpenStack Grizzly Summit](http://www.openstack.org/summit/san-diego-2012/) has a few sessions dedicated to SDKs that I wanted to highlight.

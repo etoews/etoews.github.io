@@ -7,9 +7,9 @@ slug: openstack-and-jclouds-releases
 title: OpenStack and jclouds Releases Within Days of Each Other...Coincidence?
 image: /img/posts/milestone.jpeg
 categories:
-- jclouds
-- openstack
-- rackspace
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/milestone.jpeg"/>Two open source projects that I'm proud to be a part of have just had major releases within days of each other.

@@ -7,7 +7,8 @@ slug: openstack-api-working-group
 title: Forming the OpenStack API Working Group
 image: /img/posts/openstack.png
 categories:
-- openstack
+  - openstack
+  - api
 ---
 
 <img class="img-right" src="{{ page.image }}"/>Have you ever been flummoxed by the inconsistencies and odd design decisions of the OpenStack APIs?

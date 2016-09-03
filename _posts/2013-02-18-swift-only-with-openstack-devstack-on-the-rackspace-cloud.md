@@ -7,9 +7,9 @@ slug: swift-only-with-openstack-devstack-on-the-rackspace-cloud
 title: Swift Only with OpenStack DevStack on the Rackspace Cloud
 image: /img/posts/devstack.png
 categories:
-- devstack
-- openstack
-- rackspace
+  - devstack
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/devstack.png"/>Swift is not installed by default when using OpenStack [DevStack](http://devstack.org/). Sometimes you want to install Swift only for some testing without all of the other services getting in the way. Here's how to setup Swift (and Keystone for authentication) with DevStack on the Rackspace Cloud.

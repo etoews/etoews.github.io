@@ -7,8 +7,8 @@ slug: jclouds-netflix-and-appsworld-in-san-francisco
 title: jclouds, Netflix, and appsworld in San Francisco
 image: /img/posts/jclouds.jpg
 categories:
-- jclouds
-- rackspace
+  - jclouds
+  - rackspace
 ---
 
 I'm going to be in San Francisco the first week of February and it's going to be a packed week talking about and hacking on open source software. In addition to spending some time at the [Rackspace San Francisco office](http://rackertalent.com/sanfrancisco/), I'll be doing a mix of hosting/attending meetups and presenting at the appsworld conference in SF.

@@ -7,7 +7,7 @@ slug: clojurebridge
 title: ClojureBridge
 image: /img/posts/clojurebridge.png
 categories:
-- clojure
+  - clojure
 ---
 
 <img class="img-right" src="{{ page.image }}"/>[ClojureBridge](http://www.clojurebridge.org/) aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women. On March 13-14, 2015 we held a ClojureBridge event at the Rackspace office in Austin, TX. It was put on by an amazing group of organizers to foster the adoption of Clojure by women in technology.

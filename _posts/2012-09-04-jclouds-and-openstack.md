@@ -7,8 +7,8 @@ slug: jclouds-and-openstack
 title: jclouds and OpenStack
 image: /img/posts/openstack.png
 categories:
-- jclouds
-- openstack
+  - jclouds
+  - openstack
 ---
 
 

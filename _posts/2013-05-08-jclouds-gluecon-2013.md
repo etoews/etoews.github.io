@@ -7,9 +7,8 @@ slug: jclouds-gluecon-2013
 title: jclouds at Gluecon 2013
 image: /img/posts/gluecon.png
 categories:
-- advocacy
-- jclouds
-- rackspace
+  - jclouds
+  - rackspace
 ---
 
 It's time to hit the road, get some hands on keyboards, and really teach developers how to use jclouds. I'll be giving a workshop titled "Solve the Cross-Cloud Conundrum with jclouds" at [Gluecon](http://www.gluecon.com/2013/) this year. The session is on May 22 from 10:30 to 11:30 am in Breakout 2.

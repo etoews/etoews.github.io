@@ -7,9 +7,9 @@ slug: jclouds-manual-authentication-with-openstack
 title: jclouds Manual Authentication with OpenStack
 image: /img/posts/old-lock.jpg
 categories:
-- jclouds
-- openstack
-- rackspace
+  - jclouds
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/old-lock.jpg"/>I got [a comment](http://blog./img/posts.com/2012/09/04/jclouds-and-openstack/comment-page-1/#comment-1657) on my [jclouds and OpenStack](http://blog.phmyata.com/2012/09/04/jclouds-and-openstack) post about how to get the Tenant ID via jclouds. The first solution that popped to my mind was to get the Tenant ID out of the access data structure that gets returned upon authentication. This turned out to be a bit trickier than expected as jclouds automatically authenticates on your first actual interaction with a cloud (i.e. the very first time you call a method that needs to talk to the cloud). To get the access data structure I needed to manually authenticate. Here's how to do it.

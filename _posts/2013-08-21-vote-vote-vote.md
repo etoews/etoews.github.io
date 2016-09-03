@@ -7,8 +7,8 @@ slug: vote-vote-vote
 title: Vote Vote Vote
 image: /img/posts/newsupermariobros-star.png
 categories:
-- jclouds
-- openstack
+  - jclouds
+  - openstack
 ---
 
 <img class="img-right" src="/img/posts/newsupermariobros-star.png"/>It's that time of year again to vote for sessions at the OpenStack Summit in Hong Kong. First of all I encourage you to vote for any and all of the sessions using the new [OpenStack Presentation Voting](http://www.openstack.org/rate) web app. It's a great app and it drops you into the action right away by presenting you with a random session to vote on. The ability to use keyboard shortcuts to vote is really handy too. I've got a couple of sessions proposed to the Summit focused on the application developers building solutions on top of OpenStack.

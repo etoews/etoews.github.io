@@ -7,9 +7,9 @@ slug: devstack-icehouse-on-the-rackspace-cloud
 title: DevStack Icehouse on the Rackspace Cloud
 image: /img/posts/cloud-inception.png
 categories:
-- devstack
-- openstack
-- rackspace
+  - devstack
+  - openstack
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/cloud-inception.png"/>Here's how to deploy DevStack for OpenStack Icehouse on the Rackspace Cloud. You can use DevStack for testing/development of OpenStack or just learning a bit more about OpenStack and how all of the pieces fit together.

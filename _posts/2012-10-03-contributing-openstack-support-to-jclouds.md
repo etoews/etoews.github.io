@@ -7,9 +7,9 @@ slug: contributing-openstack-support-to-jclouds
 title: Contributing OpenStack Support to jclouds
 image: /img/posts/guava1.jpeg
 categories:
-- devstack
-- jclouds
-- openstack
+  - devstack
+  - jclouds
+  - openstack
 ---
 
 **Update**: Folsom instructions

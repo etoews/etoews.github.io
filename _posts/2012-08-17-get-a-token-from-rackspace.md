@@ -6,9 +6,9 @@ layout: post
 slug: get-a-token-from-rackspace
 title: How I get a Token from the Rackspace Open Cloud from the Command Line
 categories:
-- openstack
-- python
-- rackspace
+  - openstack
+  - python
+  - rackspace
 ---
 
 On Mac OS X

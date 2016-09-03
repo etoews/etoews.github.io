@@ -7,7 +7,7 @@ slug: broken-wiki-theory
 title: Broken Wiki Theory
 image: /img/posts/broken-window.jpg
 categories:
-- documentation
+  - documentation
 ---
 
 <img class="img-right" src="/img/posts/broken-window.jpg"/>"Wikis always start off with the best of intentions. Sharing knowledge in a centralized place that everyone can edit. Wikis are useful but they can be difficult beasts to wrangle. Out of date information, broken links, bad formatting left unfixed, etc. The list is endless.

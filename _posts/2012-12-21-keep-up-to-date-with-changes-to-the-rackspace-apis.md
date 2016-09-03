@@ -7,7 +7,7 @@ slug: keep-up-to-date-with-changes-to-the-rackspace-apis
 title: Keep Up-To-Date With Changes To The Rackspace APIs
 image: /img/posts/rss.png
 categories:
-- rackspace
+  - rackspace
 ---
 
 <img class="img-right" src="/img/posts/rss.png"/>One of the trickiest parts of developing on top of an external service exposed via an HTTP API, like the [Rackspace Open Cloud API](docs.rackspace.com/api/), is keeping up to up-to-date with changes to the API. Since it's delivered as a web service it can change without you necessarily being aware of it. If a new feature is released, how would you know? If a change to an existing service is made and you could benefit from it by making an update to your code, how would you discover that?

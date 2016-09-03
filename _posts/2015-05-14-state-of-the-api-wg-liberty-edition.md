@@ -7,7 +7,8 @@ slug: state-of-the-api-wg-liberty-edition
 title: State of the OpenStack API Working Group&#58; Liberty Edition
 image: /img/posts/openstack.png
 categories:
-- openstack
+  - openstack
+  - api
 ---
 
 <img class="img-right" src="{{ page.image }}"/>The API is the foundation of all user interaction with OpenStack. It's fundamental to the usability of OpenStack as a platform. A well designed and consistent API across all OpenStack projects is necessary, otherwise all of the layers above the API (SDKs, CLIs, Web Apps, Mobile Apps) suffer. As such, the [OpenStack API Working Group](http://specs.openstack.org/openstack/api-wg/) (WG) has a clear mission.
