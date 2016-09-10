@@ -14,6 +14,12 @@ categories:
 
 <!--more-->
 
+_Update_: I presented this post at the [Docker Austin meetup](http://www.meetup.com/Docker-Austin/) on September 6, 2016.
+
+<div class="img-center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ak_Dw6iJG_o?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Chanwit did a great job of describing [What are we doing?](https://github.com/swarm2k/swarm2k/blob/master/PROPOSAL.md#what-are-we-doing) in his proposal before the event. He also did a great job on the [Analysis Of A Very-Large-Scale Container System](https://blog.online.net/2016/07/29/docker-swarm-an-analysis-of-a-very-large-scale-container-system/) after the event. This blog post is about how I automated joining 100 nodes of a release candidate version of Docker to the Swarm.
 
 The versions used in this post are:
