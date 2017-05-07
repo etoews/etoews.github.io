@@ -12,7 +12,7 @@ docker run --rm -it \
   --volume=$(pwd):/src \
   --publish 4000:4000 \
   grahamc/jekyll \
-  serve --watch --drafts --host 0.0.0.0
+  serve --watch --future --drafts --force_polling --host 0.0.0.0
 
 open http://localhost:4000
 ```
