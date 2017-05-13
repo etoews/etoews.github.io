@@ -43,4 +43,4 @@ To add the session to your schedule, see the [full details](http://www.oscon.co
 ## Coda
 
 
-I'll be at OSCON all week so don't hesitate to reach out and contact me via Twitter [@everett_toews](https://twitter.com/everett_toews) or [LinkedIn](http://www.linkedin.com/in/everetttoews/) if you'd like to meet up and talk jclouds, OpenStack, or Rackspace. See you in Portland!
+I'll be at OSCON all week so don't hesitate to reach out and contact me via Twitter [@etoews](https://twitter.com/etoews) or [LinkedIn](http://www.linkedin.com/in/everetttoews/) if you'd like to meet up and talk jclouds, OpenStack, or Rackspace. See you in Portland!
