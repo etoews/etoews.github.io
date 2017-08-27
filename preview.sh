@@ -24,6 +24,6 @@ echo ""
 
 open http://localhost:4000
 
-read -p "Press any key to quit preview and kill container. "
+read -p "Press Enter to quit preview and kill container. "
 
 docker rm -f jekyll
