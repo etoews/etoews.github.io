@@ -9,7 +9,7 @@ image: /img/posts/map.jpg
 categories:
   - kubernetes
 ---
-<img class="img-right" src="{{ page.image }}"/>Often times you need to inject a configuration file into a container in Kubernetes. This is really easy to do using the [ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) resource. But once in a while you might need to inject an executable script into a container. 
+<img class="img-right" src="{{ page.image }}"/>Often times you need to inject a configuration file into a container in Kubernetes. This is really easy to do using the [ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) resource. But once in a while you might need to inject an executable script into a container.
 
 <!--more-->
 
@@ -50,3 +50,5 @@ It gets the job done but `defaultMode` is a much more elegant and succinct way t
 ## Coda
 
 You can inject any kind of text based file into a container in Kubernetes. Making it an executable script is just one special case of that. I like this approach a lot because you don't have to create and maintain yet another Docker image just to inject one particular file.
+
+P.S. I discovered that this is also _extremely_ useful for [extending the official Postgres image](https://store.docker.com/images/postgres#how-to-extend-this-image) and creating scripts in the /docker-entrypoint-initdb.d/ dir of the Postgres container.
