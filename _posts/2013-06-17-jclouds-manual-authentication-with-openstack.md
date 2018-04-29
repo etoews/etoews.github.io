@@ -27,7 +27,7 @@ First off, get the jclouds JAR files.
   3. Create a directory to try out jclouds.
     * `mkdir jclouds`
     * `cd jclouds`
-  4. Make a local copy of this [pom.xml](https://gist.github.com/everett-toews/5798488) file in the jclouds directory.
+  4. Make a local copy of this [pom.xml](https://gist.github.com/etoews/5798488) file in the jclouds directory.
     * `mvn dependency:copy-dependencies "-DoutputDirectory=./lib"`
   5. You should now have a directory with the following structure:
     * `jclouds/`
@@ -40,7 +40,7 @@ First off, get the jclouds JAR files.
 
 Put this code in your jclouds directory to do manual authentication. An explanation follows.
 
-<script src="https://gist.github.com/everett-toews/5798514.js"></script>
+<script src="https://gist.github.com/etoews/5798514.js"></script>
 
   1. Compile.
     * `javac -cp ".:lib/*" JCloudsManualAuthentication.java`

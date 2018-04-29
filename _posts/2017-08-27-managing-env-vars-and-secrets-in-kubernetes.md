@@ -21,7 +21,7 @@ The versions used in this post at the time of writing are:
 
 ## Create a minikube and get the code
 
-<script src="https://gist.github.com/everett-toews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=minikube-and-code.sh"></script>
+<script src="https://gist.github.com/etoews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=minikube-and-code.sh"></script>
 
 ## Setup the configuration
 
@@ -29,7 +29,7 @@ You need to get env vars into apps running on Kubernetes but, at least in your d
 
 Knowing that you'll have multiple environments, it's good to start with a template for that script. To avoid conflicts, prefix all of your env vars with some shorthand for your app.
 
-<script src="https://gist.github.com/everett-toews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=template.sh"></script>
+<script src="https://gist.github.com/etoews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=template.sh"></script>
 
 Create a directory called envs for all of your config. Include a .gitignore to avoid committing any sensitive info and a README.md to let people (and your-later-self) know how to use the template.
 
@@ -45,26 +45,26 @@ envs/
 
 Ignore everything except the few initial files in the dir.
 
-<script src="https://gist.github.com/everett-toews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=.gitignore"></script>
+<script src="https://gist.github.com/etoews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=.gitignore"></script>
 
 Naturally you'd want to expand on these instructions in the README.md.
 
-<script src="https://gist.github.com/everett-toews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=README.md"></script>
+<script src="https://gist.github.com/etoews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=README.md"></script>
 
 
 ## Setup a development environment
 
-<script src="https://gist.github.com/everett-toews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=terminal.sh"></script>
+<script src="https://gist.github.com/etoews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=terminal.sh"></script>
 
 ## Create the Secrets and a Deployment
 
 You can provide the config as key/value pairs using [process substitution](http://tldp.org/LDP/abs/html/process-sub.html).
 
-<script src="https://gist.github.com/everett-toews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=kubectl.sh"></script>
+<script src="https://gist.github.com/etoews/8d7bcafb5e26e9b96735ade35505f5c5.js?file=kubectl.sh"></script>
 
 ## PS1 Context
 
-If you're working with many different app envs, it can be helpful to include some context in your PS1. Here's one example of including a bit more context on your command line. For a more thorough PS1, checkout my [.bash_profile](https://gist.github.com/everett-toews/e5a51e54ec7355a2d6716bfbf6c08fe2).
+If you're working with many different app envs, it can be helpful to include some context in your PS1. Here's one example of including a bit more context on your command line. For a more thorough PS1, checkout my [.bash_profile](https://gist.github.com/etoews/e5a51e54ec7355a2d6716bfbf6c08fe2).
 
 ```bash
 PS1='(kubernetes:$(kubectl config current-context 2>&1) | foo:$(echo ${FOO_ENV}))\n\W $ '

@@ -141,7 +141,7 @@ If you don't have a Rackspace Cloud account, I recommend using the [Developer+](
     See the [Quick Reference](http://aperiodic.net/screen/quick_reference).
 
 ### local.conf.template
-<script src="http://gist-it.appspot.com/github/everett-toews/devstacker/blob/master/local.conf.template"></script>
+<script src="http://gist-it.appspot.com/github/etoews/devstacker/blob/master/local.conf.template"></script>
 
 ## Automate It
 
@@ -173,7 +173,7 @@ _Note_: We're creating these resources in the Northern Virginia (IAD) region.
 
 6. Run these commands:
 
-        git clone https://github.com/everett-toews/devstacker.git
+        git clone https://github.com/etoews/devstacker.git
         cd devstacker
         ./devstacker.sh MY_OPENSTACK_VERSION MY_DEVSTACK_PASSWORD
 

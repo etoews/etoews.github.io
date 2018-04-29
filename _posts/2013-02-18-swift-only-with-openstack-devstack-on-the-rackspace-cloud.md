@@ -39,7 +39,7 @@ categories:
     3. `sudo apt-get -y install git`
     4. `git clone https://github.com/openstack-dev/devstack.git`
     5. `cd devstack`
-    6. `vim localrc # copy in the contents of [this one](https://gist.github.com/everett-toews/4981513)`
+    6. `vim localrc # copy in the contents of [this one](https://gist.github.com/etoews/4981513)`
     7. `./stack.sh`
     8. `screen -r stack`
   8. When running stack.sh you might see an error message that reads "ERROR: at least one rpc backend must be enabled". Don't worry about it, Swift/Keystone doesn't need an rpc (AMQP) backend. You can also ignore any ImportErrors.

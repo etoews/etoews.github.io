@@ -48,18 +48,18 @@ Now you can install the plugin from my GitHub repo.
 
 ```bash
 $ sudo -i
-$ git clone https://github.com/everett-toews/docker-authz-python-plugin.git
+$ git clone https://github.com/etoews/docker-authz-python-plugin.git
 $ cd docker-authz-python-plugin
 $ scripts/install-authz.sh
 ```
 
 Have a look at the installation script to see where things are installed.
 
-<script src="http://gist-it.appspot.com/github/everett-toews/docker-authz-plugin/blob/master/scripts/install-authz.sh"></script>
+<script src="http://gist-it.appspot.com/github/etoews/docker-authz-plugin/blob/master/scripts/install-authz.sh"></script>
 
 Another important piece of the puzzle for how things are configured is the _uwsgi.ini_ file. This file configures uWSGI on startup and how the Docker daemon communicates with the plugin.
 
-<script src="http://gist-it.appspot.com/github/everett-toews/docker-authz-plugin/blob/master/uwsgi.ini"></script>
+<script src="http://gist-it.appspot.com/github/etoews/docker-authz-plugin/blob/master/uwsgi.ini"></script>
 
 To check that everything is installed correctly you can `tail` the logs.
 
@@ -90,7 +90,7 @@ $ curl -X POST --unix-socket /run/docker/plugins/authz.sock http:/Plugin.Activat
 }
 ```
 
-Try to run a container before you say "hello" to see how the plugin denies a request. Once you say "hello", that request is approved and then all subsequent requests are immediately approved. All of the source code is in [authz.py](https://github.com/everett-toews/docker-authz-plugin/blob/master/authz.py).
+Try to run a container before you say "hello" to see how the plugin denies a request. Once you say "hello", that request is approved and then all subsequent requests are immediately approved. All of the source code is in [authz.py](https://github.com/etoews/docker-authz-plugin/blob/master/authz.py).
 
 ```bash
 $ docker run alpine /bin/sh -c 'echo "Running an alpine image"'
