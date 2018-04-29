@@ -58,17 +58,17 @@ daemonset "cat-etc-hosts" deleted
 
 ## The Run Once DaemonSet
 
-This is a vanilla DaemonSet that mounts the node's /etc/hosts file for the script to read from. 
+This is a vanilla DaemonSet that mounts the node's /etc/hosts file for the script to read from.
 
-<script src="https://gist.github.com/everett-toews/56d1b2a01daebd9691c62cdcadb1574b.js?file=daemonset.yaml"></script>
+<script src="https://gist.github.com/etoews/56d1b2a01daebd9691c62cdcadb1574b.js?file=daemonset.yaml"></script>
 
 ## The Task
 
 This is a simple task implemented as a script that exits when it receives the `TERM` signal (which comes from `kubectl delete`).
 
-<script src="https://gist.github.com/everett-toews/56d1b2a01daebd9691c62cdcadb1574b.js?file=cat-etc-hosts.sh"></script>
+<script src="https://gist.github.com/etoews/56d1b2a01daebd9691c62cdcadb1574b.js?file=cat-etc-hosts.sh"></script>
 
-<script src="https://gist.github.com/everett-toews/56d1b2a01daebd9691c62cdcadb1574b.js?file=Dockerfile"></script>
+<script src="https://gist.github.com/etoews/56d1b2a01daebd9691c62cdcadb1574b.js?file=Dockerfile"></script>
 
 You could also build your own Docker image and substitute its `image` name in the daemonset.yaml file.
 
@@ -84,11 +84,11 @@ $ docker push my-docker-id/cat-etc-hosts
 
 The script ties it all together and waits for the task to complete before deleting the DaemonSet.
 
-<script src="https://gist.github.com/everett-toews/56d1b2a01daebd9691c62cdcadb1574b.js?file=run-once-daemonset.sh"></script>
+<script src="https://gist.github.com/etoews/56d1b2a01daebd9691c62cdcadb1574b.js?file=run-once-daemonset.sh"></script>
 
 ## Coda
 
-There are a bunch of ways to shave this yak. 
+There are a bunch of ways to shave this yak.
 
 * Wait for [CronJob daemonset](https://github.com/kubernetes/kubernetes/issues/36601) to become a reality.
 * Use config management like Ansible to run through your node inventory.

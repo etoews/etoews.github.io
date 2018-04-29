@@ -50,7 +50,7 @@ If you don't have a Rackspace Cloud account, I recommend using the [Developer Di
     2. User Name: demo
     3. Password: devstack
 
-<script src="https://gist.github.com/everett-toews/8013110.js"></script>
+<script src="https://gist.github.com/etoews/8013110.js"></script>
 
 ## Coda
 

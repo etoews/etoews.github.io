@@ -46,12 +46,12 @@ Given that your audience will have a wide variety of skill levels, provide the m
 
 My preferred method for sharing code and the presentation is to put everything in a single GitHub repository. It's important to keep everything in a single repo because the content of the presentation often depends heavily on the code. For the slides I use [reveal.js](https://github.com/hakimel/reveal.js/) and then use [GitHub Pages](https://pages.github.com/) to publish them. A couple of examples are:
 
-* [app-on-openstack](https://github.com/everett-toews/app-on-openstack) ([presentation](http://everett-toews.github.io/app-on-openstack/presentation/))
-* [a-restful-adventure](https://github.com/everett-toews/a-restful-adventure) ([presentation](http://everett-toews.github.io/a-restful-adventure/presentation/))
+* [app-on-openstack](https://github.com/etoews/app-on-openstack) ([presentation](http://etoews.github.io/app-on-openstack/presentation/))
+* [a-restful-adventure](https://github.com/etoews/a-restful-adventure) ([presentation](http://etoews.github.io/a-restful-adventure/presentation/))
 
 Provide a shortened URL to the presentation at the start of the workshop and also write it down on a whiteboard or somewhere for latecomers. _Bonus points_: Since it's a GitHub repo, encourage people to file issues during the workshop as another channel for feedback.
 
-_Caveat_: When you need the quicker people to definitely stop and wait for everyone else to catch up, make it explicit [like this](http://everett-toews.github.io/app-on-openstack/presentation/#/stop) and explain it.
+_Caveat_: When you need the quicker people to definitely stop and wait for everyone else to catch up, make it explicit [like this](http://etoews.github.io/app-on-openstack/presentation/#/stop) and explain it.
 
 ### <a name="help-people-help-themselves"></a>Help People Help Themselves
 

@@ -32,11 +32,11 @@ The versions used in this post are:
 
 This is the bash script I used to loop over 2 regions and create 50 VMs with Docker installed in each region. I chose not to use Docker Machine because I didn't want to wait for Machine to do all of that ssh'ing necessary to configure the instances. Even if I had used background jobs to create the VMs, that's still a lot of outbound ssh connections to go through while I hope my network connection doesn't fail and spoil the work.
 
-Instead I opted to pass this [_dockerize.sh_](https://gist.github.com/everett-toews/599314d5665904a3a3f5a637fa1a9c7b#file-dockerize-sh) script to the VMs via [cloud-init](https://cloudinit.readthedocs.io/en/latest/). That way all I have to do is make the call to create the VM, which only takes a second or three, and let the VM do the work of installing Docker and configuring itself.  All of this happens in the `create()` method.
+Instead I opted to pass this [_dockerize.sh_](https://gist.github.com/etoews/599314d5665904a3a3f5a637fa1a9c7b#file-dockerize-sh) script to the VMs via [cloud-init](https://cloudinit.readthedocs.io/en/latest/). That way all I have to do is make the call to create the VM, which only takes a second or three, and let the VM do the work of installing Docker and configuring itself.  All of this happens in the `create()` method.
 
 The _dockerize.sh_ script basically follows the standard [Docker installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/) but I disable password login, install fail2ban, and install the release candidate of Docker. Naturally there would be much more configuration to do to make this a production worthy Docker host but since this isn't a long lived host, I'm not too worried about all of the bells and whistles.
 
-<script src="https://gist.github.com/everett-toews/599314d5665904a3a3f5a637fa1a9c7b.js?file=dockerswarm100.sh"></script>
+<script src="https://gist.github.com/etoews/599314d5665904a3a3f5a637fa1a9c7b.js?file=dockerswarm100.sh"></script>
 
 The requirements for the script are explicitly stated at the top. You need the Rackspace username and API key that you get with your account, the [rack CLI](https://developer.rackspace.com/docs/rack-cli/configuration/#installation-and-configuration), and a keypair named "swarm" in each region you want to deploy.
 

@@ -70,7 +70,7 @@ If you don't have a Rackspace Cloud account, I recommend using the [Developer Di
     2. `screen -r stack`
     3. See the [Quick Reference](http://aperiodic.net/screen/quick_reference).
 
-<script src="https://gist.github.com/everett-toews/11063431.js"></script>
+<script src="https://gist.github.com/etoews/11063431.js"></script>
 
 ## Coda
 

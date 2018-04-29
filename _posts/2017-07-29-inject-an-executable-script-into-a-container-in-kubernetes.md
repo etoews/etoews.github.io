@@ -25,25 +25,25 @@ The versions used in this post at the time of writing are:
 
 Create a Kubernetes cluster with Minikube, clone the gist with example code, and run it. Note how the source of the ConfigMap is the wrapper.sh file.
 
-<script src="https://gist.github.com/everett-toews/82c039843663de7e7f1e18bf4debe5fa.js?file=terminal.sh"></script>
+<script src="https://gist.github.com/etoews/82c039843663de7e7f1e18bf4debe5fa.js?file=terminal.sh"></script>
 
 ## The Executable Script
 
 In this case, the script is just a wrapper around the regular entrypoint for the ghost image that allows you to do some special initialization beforehand.
 
-<script src="https://gist.github.com/everett-toews/82c039843663de7e7f1e18bf4debe5fa.js?file=wrapper.sh"></script>
+<script src="https://gist.github.com/etoews/82c039843663de7e7f1e18bf4debe5fa.js?file=wrapper.sh"></script>
 
 ## The Deployment
 
 A volume is created from the ConfigMap with `defaultMode: 0744`, that's what makes it executable. It's then mounted to a /scripts dir but it could be mounted anywhere. The `command: ["/scripts/wrapper.sh"]` overrides the Docker image's entrypoint and runs wrapper.sh instead.
 
-<script src="https://gist.github.com/everett-toews/82c039843663de7e7f1e18bf4debe5fa.js?file=deployment.yaml"></script>
+<script src="https://gist.github.com/etoews/82c039843663de7e7f1e18bf4debe5fa.js?file=deployment.yaml"></script>
 
 ## First Crack
 
 Before I found out about `defaultMode`, my first crack at solving this problem was to use an [Init Container](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) like this.
 
-<script src="https://gist.github.com/everett-toews/82c039843663de7e7f1e18bf4debe5fa.js?file=deployment-first-crack.yaml"></script>
+<script src="https://gist.github.com/etoews/82c039843663de7e7f1e18bf4debe5fa.js?file=deployment-first-crack.yaml"></script>
 
 It gets the job done but `defaultMode` is a much more elegant and succinct way to do it.
 

@@ -20,7 +20,7 @@ The important part is using a network alias on the command line or in a compose 
 
 This is a repo with a pretty basic example of DNS round robin in action.
 
-    $ git clone https://github.com/everett-toews/docker-dns-round-robin.git
+    $ git clone https://github.com/etoews/docker-dns-round-robin.git
     $ cd docker-dns-round-robin
 
 I've tested the example with both [Docker Toolbox](https://www.docker.com/products/docker-toolbox) and [Docker for Mac](https://blog.docker.com/2016/03/docker-for-mac-windows-beta/).
@@ -87,7 +87,7 @@ Use `docker-compose` to build an NGINX image that will load balance instance of 
 
 The value between the `<strong>` tag is the hostname of the host serving the request.
 
-Notice how different hosts are serving the requests. You might have to use `curl` several times to see a new host appear. To understand how this works with NGINX, read through the simple [nginx.conf](https://github.com/everett-toews/docker-dns-round-robin/blob/master/lb/nginx.conf) file. The key is using the `apps` network alias as the `proxy_pass`.
+Notice how different hosts are serving the requests. You might have to use `curl` several times to see a new host appear. To understand how this works with NGINX, read through the simple [nginx.conf](https://github.com/etoews/docker-dns-round-robin/blob/master/lb/nginx.conf) file. The key is using the `apps` network alias as the `proxy_pass`.
 
 ## Coda
 
