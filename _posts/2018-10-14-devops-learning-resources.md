@@ -3,8 +3,8 @@ author: Everett Toews
 comments: true
 date: 2018-10-14 10:00:00+00:00
 layout: post
-slug: devops-learning-resoures
-title: DevOp Learning Resources
+slug: devops-learning-resources
+title: DevOps Learning Resources
 image: /img/posts/devops.png
 categories:
   - devops
