@@ -32,7 +32,7 @@ I spent the past week in Hong Kong at the OpenStack Summit. It was by far the fu
 
 ## jclouds Became an Apache Top Level Project
 
-By fortunate coincidence jclouds became an Apache Software Foundation TLP at the start of the week. I wrote a post about it [here](http://blog.phymata.com/2013/11/02/jclouds-is-an-apache-tlp/).
+By fortunate coincidence jclouds became an Apache Software Foundation TLP at the start of the week. I wrote a post about it [here](/blog/2013/11/03/jclouds-is-an-apache-tlp/).
 
 ## Hong Kong Java User Group
 
