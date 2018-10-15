@@ -1,8 +1,8 @@
-url: http://blog.phymata.com
+url: https://etoews.github.io
 author: Everett Toews
 description: Helping you shave narwhals
-title: Phymata
-permalink: /:year/:month/:day/:title/
+title: etoews
+permalink: /blog/:year/:month/:day/:title/
 paginate: 5
 paginate_path: "page:num"
 twitter:
