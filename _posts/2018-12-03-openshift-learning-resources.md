@@ -4,7 +4,7 @@ comments: true
 date: 2018-12-03 10:00:00+00:00
 layout: post
 slug: openshift-learning-resources
-title: DevOps Learning Resources
+title: OpenShift Learning Resources
 image: /img/posts/openshift.png
 categories:
   - openshift
