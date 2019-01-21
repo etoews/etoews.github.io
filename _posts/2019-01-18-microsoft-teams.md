@@ -41,9 +41,9 @@ These details are shamelessly borrowed from the [GitLab Communication Handbook o
 * If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Teams message through a direct message.
 * It's not rude to leave a channel. When you're no longer interested in the conversations happening in a channel, feel free to leave it so it won't distract you anymore.
 
-## Tips n' Tricks
+## Tips 'n Tricks
 
-Like any tool, it's necessary to learn at least some of the tip n' tricks to be effective with it (and have a little more fun too).
+Like any tool, it's necessary to learn at least some of the tip 'n tricks to be effective with it (and have a little more fun too).
 
 * [Brief introduction to Microsoft Teams](https://www.youtube.com/watch?v=FFQszYALS_A)
 * General help can be found in [Chat in Microsoft Teams](https://support.office.com/en-us/article/chat-in-microsoft-teams-f3a917cb-1a83-42b2-a097-0678298703bb).
