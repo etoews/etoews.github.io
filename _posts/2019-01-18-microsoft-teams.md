@@ -51,6 +51,7 @@ Like any tool, it's necessary to learn at least some of the tip 'n tricks to be 
 * Every chat in Teams starts in a thread. Be conscious of where you're typing (especially if you're in the mobile app) to make sure you're responding to the right thread.
 * When writing a message, you can [Use Markdown formatting in Teams](https://support.office.com/en-us/article/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772).
 * To share code, use ``` to start a multi-line code block or ` to start an inline code snippet.
+* Don't just share the output of a command/process, include the command/process that generated the output. Context is crucial to debugging!
 * Sharing code as a screen shot is grounds for mockery.
 * All keyboard shortcuts can be found under Profile > Keyboard shortcuts.
 * Use Shift+Enter to start a new line in a message rather than sending every line as a message (and a notification).
