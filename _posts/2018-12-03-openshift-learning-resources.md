@@ -15,11 +15,9 @@ categories:
 
 ## Experiment
 
-Get your hands dirty in a safe environment by using [installing and using MiniShift](https://docs.openshift.org/latest/minishift/index.html).
+Get your hands dirty in a safe environment by using [installing and using MiniShift](https://docs.openshift.org/latest/minishift/index.html). Or you can skip localhost and use the [Starter plan for OpenShift online](https://www.openshift.com/products/online/). These are good for developers but not as good for learning how to admin an OpenShift cluster.
 
-Or you can skip localhost and use the [Starter plan for OpenShift online](https://www.openshift.com/products/online/).
-
-Good for developers but not as good for learning how to admin an OpenShift cluster.
+If you want to get great idea of what's going on under the hood, there's no better way than learning from [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way). It's an excellent tutorial on building a Kubernetes (the foundation of OpenShift) cluster "by hand" so you understand how all of the components work together.
 
 ## Training
 
