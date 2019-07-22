@@ -3,7 +3,7 @@ author: Everett Toews
 description: Helping you shave narwhals
 title: etoews
 permalink: /blog/:year/:month/:day/:title/
-paginate: 5
+paginate: 6
 paginate_path: "page:num"
 twitter:
   username: etoews
