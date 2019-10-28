@@ -23,7 +23,7 @@ If you want to get great idea of what's going on under the hood, there's no bett
 
 * [Interactive Learning Portal](https://learn.openshift.com/)
 * [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)
-* [Red Hat OpenShift Training](https://www.redhat.com/en/services/training/courses-by-curriculum#OpenShift)
+* [Red Hat OpenShift Training](https://www.redhat.com/en/services/training/all-courses-exams?f%5B0%5D=taxonomy_courses_by_curriculum%3AOpenShift)
 
 ## Docs
 
