@@ -1,7 +1,7 @@
 ---
 author: Everett Toews
 comments: true
-date: 2019-10-28 10:00:00+00:00
+date: 2019-11-07 10:00:00+00:00
 layout: post
 slug: gitops-is-reconciling-a-desired-state-in-git-with-a-runtime-environment
 title: GitOps is Reconciling a Desired State in Git with a Runtime Environment
