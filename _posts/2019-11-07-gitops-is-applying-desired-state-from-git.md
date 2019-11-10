@@ -16,6 +16,7 @@ categories:
 
 * [Definition](#definition)
 * [Use Cases](#use-cases)
+* [Tooling](#tooling)
 * [Barriers](#barriers)
 * [Benefits](#benefits)
 * [Coda](#coda)
@@ -130,6 +131,17 @@ users:
 ```
 
 When a user is added/removed to/from the list, they are added/removed to/from those systems by your reconciliation system.
+
+## Tooling
+
+A lot of tooling already has Git integration so customising tools to do GitOps isn't much of a stretch in many cases.
+
+There is also tooling cropping up that supports the GitOps technique directly:
+
+* [Flux CD](https://fluxcd.io/)
+* [Jenkins X](https://jenkins-x.io/)
+* [Argo CD](https://argoproj.github.io/argo-cd/)
+* [Atlantis](https://www.runatlantis.io/)
 
 ## Barriers
 
