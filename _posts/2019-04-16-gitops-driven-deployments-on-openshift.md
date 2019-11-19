@@ -83,3 +83,5 @@ Because there are a fair number of concepts and components at play, I also did a
 <p class="note"><strong>Note:</strong> Always set <a href="https://docs.okd.io/latest/dev_guide/compute_resources.html#dev-compute-resources">limits on compute resources</a>. Always! We learned this one the hard way when we deployed <a href="https://www.jaegertracing.io/">Jaeger Tracing</a> on OpenShift and it began to cause node instability. My solution was to <a href="https://github.com/jaegertracing/jaeger-openshift/pull/102">add max traces and compute resource parameters</a> to the Jaeger Tracing OpenShift all-in-one template.</p>
 
 The ideas and concepts for a system like this have been rattling around in my head for a long time. It's been great getting the opportunity to build it out. I had assistance from a few people around me at the client that worked hard to bring this to life. Without their help and support this wouldn't have been possible and my thanks go out to them.
+
+Update: I've also written a general definition that [GitOps is Reconciling a Desired State in Git with a Runtime Environment]({% post_url 2019-11-07-gitops-is-applying-desired-state-from-git %}).
