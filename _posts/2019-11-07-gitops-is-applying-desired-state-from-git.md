@@ -25,7 +25,7 @@ categories:
 
 GitOps is reconciling a desired state in Git with a runtime environment.
 
-"But this is what we've always done!" you say. You're right, _application_ code in Git is eventually deployed (reconciled) to a runtime environment. However, _operational_ code is another matter. Operational runtime environments are often not based on code, even if they're in the cloud. Changes are made to those environments by one-time updates via a web interface or command line tool but the desired state is never stored anywhere, only the current state is stored.
+"But this is what we've always done!" you say. You're right, application code in Git is eventually deployed (reconciled) to a runtime environment. However, operational code and _state_ is another matter. Operational runtime environments are often not based on code, even if they're in the cloud. Changes are made to those environments by one-time updates via a web interface or command line tool but the desired state is never stored anywhere, only the current state is stored in the runtime environment.
 
 GitOps is the same general Git workflow we've known for years with one simple additional step.
 
@@ -153,7 +153,7 @@ If you're in a traditional ITIL shop, they likely have very particular processes
 
 ### Git as SPOF
 
-If GitOps is driving your runtime environments, Git uptime is even more critical. Git can become a single point of failure for essential business processes. If you use a cloud based Git service and they have a bad day, you're going to have a bad day. If you run Git on-premise, you'll almost certainly want to configure it to be highly available. Either way, you'll need to seriously consider the impact on your business of Git being down.
+If GitOps is driving your runtime environments, Git uptime is even more critical. Git can become a single point of failure (SPOF) for essential business processes. If you use a cloud based Git service and they have a bad day, you're going to have a bad day. If you run Git on-premise, you'll almost certainly want to configure it to be highly available. Either way, you'll need to seriously consider the impact on your business of Git being down.
 
 ### Secrets Management
 
