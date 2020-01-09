@@ -56,7 +56,7 @@ Some examples of the various pieces (the table is meant to be read column-wise).
   <tbody>
     <tr>
       <td>GitHub</td>
-      <td>Webbook</td>
+      <td>Webhook</td>
       <td>Poll</td>
       <td>Flux</td>
       <td>SSH</td>
