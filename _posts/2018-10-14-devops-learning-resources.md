@@ -30,8 +30,9 @@ I use [Feedly](https://feedly.com/) to subscribe to blogs. I hope RSS/Atom never
 
 ## Books
 
-The first two books here are absolutely required reading.
+The first three books here are absolutely required reading.
 
+* [Accelerate](https://itrevolution.com/book/accelerate/)
 * [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
 * [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
   * If someone says "DevOps has no definition", reply "Right you are" and then hit them over the head with this book.
