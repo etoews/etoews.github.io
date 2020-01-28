@@ -97,13 +97,15 @@ Even isolating the problem at a coarse level can be beneficial. Providing inform
 
 Others may not be help right away but if you keep writing out the debugging steps you're doing in chat, it can be a big benefit to yourself (you're basically [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) and others when they have time to help. You might even be able to solve the problem and be the one who helps whoever comes along next!
 
+Whatever happens, make sure the resolution gets recorded. Don't leave the debugging thread dangling. There's a good chance your future self will thank you.
+
 Don't be afraid to post to [stackoverflow.com](https://stackoverflow.com/) if you can't find the answer within your four walls.
 
 ## Related Work
 
 * Julia Evans: [How to ask good questions](https://jvns.ca/blog/good-questions/)
 * Jon Skeet: [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
-* Everett Toews: [Write That Request For Help, But Don't Send It...Yet]({% post_url 2012-12-10-write-that-request-for-help-but-dont-send-it-yet %})
+* Myself: [Write That Request For Help, But Don't Send It...Yet]({% post_url 2012-12-10-write-that-request-for-help-but-dont-send-it-yet %})
 * StackOverflow: [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
 * [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging))
 
