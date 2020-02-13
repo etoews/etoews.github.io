@@ -5,7 +5,7 @@ date: 2012-12-28 18:06:42+00:00
 layout: post
 slug: what-is-a-developer-advocate
 title: What is a Developer Advocate?
-image: /img/posts/git1.png
+image: /img/posts/git.png
 categories:
   - jclouds
   - rackspace
@@ -22,7 +22,7 @@ A developer advocate is someone who's primary responsibility is to make it easy 
 
 ## Development
 
-<img class="img-right" src="/img/posts/git1.png"/>I'm a software developer. I know when a platform isn't as easy to use as it could be and how to improve it. You need to know the craft and have the respect of your peers. Without that the rest is moot. This is especially true in the meritocracy of open source. I think that's why you don't hear much demand for "technology evangelists" anymore. If you can't speak to developers because you aren't one of us, your arguments will fall on deaf ears. Naturally this involves all of the usual development activities like architecture, design, implementation, testing, and debugging. The product of this includes tools that make it easier to use your platform like [SDKs](http://docs.rackspace.com/sdks/guide/content/intro.html), examples code, command line interfaces, and IDE plugins.
+<img class="img-right" src="/img/posts/git.png"/>I'm a software developer. I know when a platform isn't as easy to use as it could be and how to improve it. You need to know the craft and have the respect of your peers. Without that the rest is moot. This is especially true in the meritocracy of open source. I think that's why you don't hear much demand for "technology evangelists" anymore. If you can't speak to developers because you aren't one of us, your arguments will fall on deaf ears. Naturally this involves all of the usual development activities like architecture, design, implementation, testing, and debugging. The product of this includes tools that make it easier to use your platform like [SDKs](http://docs.rackspace.com/sdks/guide/content/intro.html), examples code, command line interfaces, and IDE plugins.
 
 I contribute to open source. In an increasingly web service API driven world, the tools built on those APIs are often open source. I think it's a natural fit. The tools are geared towards dev and ops and we need them to be open source so we can figure out just what the heck they're doing when things go sideways. Working with open source communities and commercial organizations can be a bit tricky. Personally I'm walking the line between [jclouds](http://www.jclouds.org/), OpenStack, and Rackspace. Hopefully, most of the time your goals will align but sometimes it's just a matter of balancing the priorities between the differing concerns. Always remember to stay humble, helpful, and honest. The product of this includes helping other developers contribute, code reviews, having an opinion on community matters, and helping out in ways beyond your immediate concerns.
 

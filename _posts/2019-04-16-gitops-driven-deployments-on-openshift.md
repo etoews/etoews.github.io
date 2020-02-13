@@ -5,7 +5,7 @@ date: 2019-04-16 10:00:00+00:00
 layout: post
 slug: gitops-driven-deployments-on-openshift
 title: GitOps Driven Deployments on OpenShift
-image: /img/posts/git1.png
+image: /img/posts/git.png
 categories:
   - git
   - ops
