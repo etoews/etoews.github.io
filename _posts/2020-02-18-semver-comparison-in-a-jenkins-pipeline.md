@@ -17,6 +17,7 @@ categories:
 
 <!-- TOC -->
 
+* [Versions](#versions)
 * [Install Jenkins](#install-jenkins)
 * [Setup Jenkins](#setup-jenkins)
 * [Configure Global Pipeline Libraries](#configure-global-pipeline-libraries)
@@ -34,9 +35,17 @@ Often times, the purpose of Jenkins pipelines is to deploy software. That is to 
 
 I've written the small library method [semver_compare](https://github.com/etoews/jenkins-semver-compare/blob/master/vars/semver_compare.groovy) that allows you to compare semantic versions in a Jenkins pipeline easily. What better way to learn how to use it than by trying it out right away!
 
+## Versions
+
+At the time of writing, the versions of all of the software used in this post are:
+
+* Docker Desktop: 2.2.0.3
+* Docker: 19.03.5
+* Jenkins: 2.220
+
 ## Install Jenkins
 
-To make it convenient to install Jenkins, I'm using [Docker Desktop](https://www.docker.com/products/docker-desktop) (version 2.2.0.3 at the time of writing) to get it up and running.
+To make it convenient to install Jenkins, I'm using [Docker Desktop](https://www.docker.com/products/docker-desktop) to get it up and running.
 
 This command will run a Docker container in interactive mode (you'll be able to see the log output in your terminal) and the container will be removed when you kill the command with a Ctrl+C. However, any changes you make to Jenkins while it's running will be saved in the `jenkins_home` volume so you can always run it again and pick up where you left off.
 
@@ -71,7 +80,8 @@ You'll need to go through a wizard to setup Jenkins.
 
 To make use of the method, you'll need to configure a [global pipeline library](https://jenkins.io/doc/book/pipeline/shared-libraries/).
 
-1. Go to [Configure System](http://localhost:8080/configure)
+1. Click [Manage Jenkins](http://localhost:8080/manage)
+1. Click [Configure System](http://localhost:8080/configure)
 1. Scroll down to the Global Pipeline Libraries section and click Add
     1. Name: semver-compare-lib
     1. Default version: master
@@ -87,7 +97,7 @@ To make use of the method, you'll need to configure a [global pipeline library](
 
 Create a pipeline to run the example pipeline.
 
-1. Go to [New Item](http://localhost:8080/view/all/newJob)
+1. Click [New Item](http://localhost:8080/view/all/newJob)
     1. Enter an item name: semver-compare
     1. Click Pipeline
 1. OK
