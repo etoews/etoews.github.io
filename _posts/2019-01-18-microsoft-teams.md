@@ -12,8 +12,6 @@ image: /img/posts/teams.png
 
 <!--more-->
 
-<p class="note"><strong>Note:</strong> I've been forced to use MS Teams for the past 6 months. I'm not a fan but I'm trying to make the best of it.</p>
-
 ## Overview
 
 Here is a high level overview of those norms.
@@ -49,13 +47,15 @@ Like any tool, it's necessary to learn at least some of the tip 'n tricks to be 
 * General help can be found in [Chat in Microsoft Teams](https://support.office.com/en-us/article/chat-in-microsoft-teams-f3a917cb-1a83-42b2-a097-0678298703bb).
 * There's a web app available at [teams.microsoft.com](https://teams.microsoft.com/)
 * Every chat in Teams starts in a thread. Be conscious of where you're typing (especially if you're in the mobile app) to make sure you're responding to the right thread.
+* If it's going to be a long running thread, you'll want to add a subject to it to make it easier to find when scrolling back through the chat history.
+    <img src="/img/posts/teams-thread-subject.png"/>
 * When writing a message, you can [Use Markdown formatting in Teams](https://support.office.com/en-us/article/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772).
 * To share code, use ``` to start a multi-line code block or ` to start an inline code snippet.
 * Don't just share the output of a command/process, include the command/process that generated the output. Context is crucial to debugging!
 * Sharing code as a screen shot is grounds for mockery.
 * All keyboard shortcuts can be found under Profile > Keyboard shortcuts.
 * Use Shift+Enter to start a new line in a message rather than sending every line as a message (and a notification).
-* You can insert an emoji by typing a `:`
+* You can insert an emoji by typing a `:` and then typing the name of the emoji.
 * When your cursor is in the reply textbox, you can press the Up Arrow to edit your last message.
 * Share direct links to things when possible rather than vaguely describing how to access something.
   * e.g. "read [my answer](https://stackoverflow.com/questions/26405380/how-do-i-correctly-setup-and-teardown-my-pytest-class-with-tests/39401087#39401087) on pytest" rather than "just go to that question on pytest and look around for my answer"
@@ -66,3 +66,7 @@ Like any tool, it's necessary to learn at least some of the tip 'n tricks to be 
 * You can manage your availability status under Profile.
 * Manage your notifications (Profile > Settings > Notifications) carefully to avoid notification fatigue. Here's one example of notification settings that can help you get started.
     <img src="/img/posts/teams-notifications.png"/>
+
+## Help!
+
+Asking for help is a common and natural thing that _everyone_ does. You need help right away so if you can help others help you, everyone wins. Getting help from others is a bit different in chat so I wrote the guide [Help Others Help You]({% post_url 2020-01-28-help-others-help-you %}).
