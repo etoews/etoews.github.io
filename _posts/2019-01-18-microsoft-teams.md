@@ -42,13 +42,11 @@ Here is a high level overview of those norms.
 These norms are shamelessly borrowed from the [GitLab Communication Handbook on Chat](https://about.gitlab.com/handbook/communication/#chat). I recommend reading through that doc, picking and choosing the ones that make the most sense for your org, and fitting them to your purpose.
 
 * If you use chat, please use a public channel and mention the person or group you want to reach. This ensures it is easy for other people to chime in, involve other people if needed, and learn from whatever is discussed. Only use direct messages if the discussion is truly private and of no interest to anyone else.
-* If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without @ mentioning them.
 * If the subject is of value to the wider community, consider commenting on an existing user story or opening a new user story and linking to that story in a relevant channel.
 * Despite the instantaneous nature of chat, it should be considered asynchronous communication. Don't expect an instantaneous response; you have no idea what the other person is doing.
 * If you must send a private message, don't start a conversation with "Hi" or "Hey" as that interrupts their work without communicating anything. If you have a quick question, just ask the question directly and the person will respond asynchronously. If you truly need to have a synchronous communication, then start by asking for that explicitly, while mentioning the subject. e.g. "I'm having trouble understanding issue #x, can we talk about it quickly?".
 * Do not feel obligated to respond to chat messages when you are not working.
 * Feel free to send a colleague a link to these guidelines if the communication in Teams should be done asynchronously.
-* If you are having a hard time keeping up with chat messages, you can update your preferences to have Teams email you all notifications. To change the setting, go to Profile > Settings > Notifications.
 * Please avoid using @General or @channel unless this is about something urgent and important. In chat try to keep the use of keywords that mention the whole channel to a minimum. They should only be used for pings that are both urgent and important, not just important. By overusing channel mentions you make it harder to respond to personal mentions in a timely manner since people get pinged too frequently.
 * If something is important but not urgent - like complimenting or encouraging the entire team - use email or post in the channel without @-mentioning the team.
 * If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Teams message through a direct message.
@@ -72,6 +70,7 @@ Like any tool, it's necessary to learn at least some of the tip 'n tricks to be 
 * General help can be found in [Chat in Microsoft Teams](https://support.office.com/en-us/article/chat-in-microsoft-teams-f3a917cb-1a83-42b2-a097-0678298703bb).
 * There's a web app available at [teams.microsoft.com](https://teams.microsoft.com/).
 * All keyboard shortcuts can be found under Profile > Keyboard shortcuts.
+* Use Ctrl/Command + / to open the list of commands.
 
 ### Threads
 
@@ -92,6 +91,7 @@ Like any tool, it's necessary to learn at least some of the tip 'n tricks to be 
 
 ### Notifications
 
+* If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without @ mentioning them.
 * You can manage your availability status under Profile.
 * Manage your notifications (Profile > Settings > Notifications) carefully to avoid notification fatigue. Here's one example of notification settings that can help you get started.
     <img src="/img/posts/teams-notifications.png"/>
