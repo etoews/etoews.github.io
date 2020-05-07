@@ -5,14 +5,14 @@ date: 2019-04-16 10:00:00+00:00
 layout: post
 slug: gitops-driven-deployments-on-openshift
 title: GitOps Driven Deployments on OpenShift
-image: /img/posts/git.png
+image: /img/posts/openshift.png
 categories:
   - git
   - ops
   - openshift
   - platform
 ---
-<img class="img-right" src="{{ page.image }}"/>Our industry is determined to deliver value ever more rapidly, safely, and securely across software development lifecycle environments. One way to achieve this is through GitOps. In broad terms, GitOps is about applying the Git feature workflow to operations. I took this idea and narrowed it down to exactly one use case, using Git to drive deployments on OpenShift. This is a walk-through of the concepts and components we used to enable GitOps driven deployments all the way from development to production for a real-world enterprise client deploying a payroll solution known as EdPay.
+<img class="img-right" src="{{ page.image }}" alt="OpenShift"/>Our industry is determined to deliver value ever more rapidly, safely, and securely across software development lifecycle environments. One way to achieve this is through GitOps. In broad terms, GitOps is about applying the Git feature workflow to operations. I took this idea and narrowed it down to exactly one use case, using Git to drive deployments on OpenShift. This is a walk-through of the concepts and components we used to enable GitOps driven deployments all the way from development to production for a real-world enterprise client deploying a payroll solution known as EdPay.
 
 <!--more-->
 
@@ -48,7 +48,7 @@ The users of this system are the people either proposing or merging a change to 
 
 ## Git
 
-Naturally, Git provides source control but it also provide excellent access control and audit capabilities. In Git we have two types of repositories (repos).
+<img class="img-right" src="/img/posts/git.png" alt="git"/>Naturally, Git provides source control but it also provide excellent access control and audit capabilities. In Git we have two types of repositories (repos).
 
 Environment repos contain the configuration and versions for the services in a particular env (e.g. prod). The env repos also contain all of the settings for the repo itself to enable GitOps. This is achieved by setting repository and branch permissions, pull request rules and reviewers, and webhooks.
 
@@ -79,7 +79,7 @@ It's worth noting that the environment itself is versioned. Ultimately, the envi
 
 ## OpenShift
 
-<img class="img-right" src="/img/posts/openshift.png"/>There are two OpenShift clusters, one for production and one for non-production. The production cluster only has a staging and a prod environment. The non-production cluster has all other environments, including dev, test, demo, and pre-prod. Again, the only difference between the staging/prod pipelines from the other higher env pipelines is that the images must be copied to the prod cluster first.
+There are two OpenShift clusters, one for production and one for non-production. The production cluster only has a staging and a prod environment. The non-production cluster has all other environments, including dev, test, demo, and pre-prod. Again, the only difference between the staging/prod pipelines from the other higher env pipelines is that the images must be copied to the prod cluster first.
 
 ## Presentations
 
