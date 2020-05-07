@@ -4,14 +4,14 @@ set -euo pipefail
 
 unset ${!DOCKER_*}
 
-docker pull grahamc/jekyll
+docker pull jekyll/jekyll:pages
 
 docker run --rm --detach \
   --name jekyll \
-  --volume=$(pwd):/src \
+  --volume=${PWD}:/srv/jekyll \
   --publish 4000:4000 \
-  grahamc/jekyll \
-  serve --watch --future --drafts --force_polling --host 0.0.0.0
+  jekyll/jekyll:pages \
+  jekyll serve --watch --future --drafts --force_polling --host 0.0.0.0
 
 echo -n "Waiting for jekyll to start"
 
