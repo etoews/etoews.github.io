@@ -16,6 +16,19 @@ categories:
 
 <!--more-->
 
+<!-- TOC -->
+
+* [GitOps](#gitops)
+* [Users](#users)
+* [Git](#git)
+* [Pipelines](#pipelines)
+* [Environments](#environments)
+* [OpenShift](#openshift)
+* [Presentations](#presentations)
+* [Coda](#coda)
+
+<!-- /TOC -->
+
 ## GitOps
 
 Another way to define GitOps is by applying a developer experience (DX) to operations. Developer Experience for APIs, SDKs, CLIs, and documentation tend to take up all of the oxygen in the room, however I propose DX for operations is an idea whose time has come. What speaks more to the experience of being a developer than interacting with Git all day. It's natural to extend that interaction and apply it to operations as well.
@@ -68,7 +81,7 @@ It's worth noting that the environment itself is versioned. Ultimately, the envi
 
 <img class="img-right" src="/img/posts/openshift.png"/>There are two OpenShift clusters, one for production and one for non-production. The production cluster only has a staging and a prod environment. The non-production cluster has all other environments, including dev, test, demo, and pre-prod. Again, the only difference between the staging/prod pipelines from the other higher env pipelines is that the images must be copied to the prod cluster first.
 
-## Presentation
+## Presentations
 
 The deck below is a walk-through of the concepts and components used to enable the GitOps driven deployments described above.
 
@@ -77,6 +90,10 @@ The deck below is a walk-through of the concepts and components used to enable t
 Because there are a fair number of concepts and components at play, I also did a screencast to explain the system.
 
 <iframe width="750" height="420" src="https://www.youtube.com/embed/4mk0Q4UyNjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And finally, my colleague Heather Cumberworth-Lane and I presented on this at the Cloud Native Summit 2019 in Wellington, NZ.
+
+<iframe width="750" height="420" src="https://www.youtube.com/embed/fxAc6PQHuNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Coda
 
