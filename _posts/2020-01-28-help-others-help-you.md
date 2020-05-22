@@ -57,7 +57,7 @@ Said another way, there are no dumb questions but there are incomplete questions
 
 ### Link
 
-Whenever possible, share a link to the exact thing you need help with. Whether it's source code, logs, or something else. Giving someone a link they can click on to take them to the location of the problem saves so much time and effort. That said, share the link but save them a click and include the text in question in chat too.
+Whenever possible, share a link to the exact thing you need help with. Whether it's source code, logs, or something else. Giving someone a link they can click on to take them to the location of the problem saves so much time and effort. That said, share the link but save them a click and include an excerpt of the logs/code/text in question in chat too.
 
 <img src="/img/posts/help-others-help-you-1.png"/>
 
@@ -95,7 +95,7 @@ Even isolating the problem at a coarse level can be beneficial. Providing inform
 
 ## Solve the Problem Loudly
 
-Others may not be help right away but if you keep writing out the debugging steps you're doing in chat, it can be a big benefit to yourself (you're basically [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) and others when they have time to help. You might even be able to solve the problem and be the one who helps whoever comes along next!
+Others may not be help right away but if you keep writing out the debugging steps you're doing in chat, it can be a big benefit to yourself (you're basically [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) and others when they have time to help. You might even be able to solve the problem and be the one who helps whoever comes along next! The more text you provide, the more likely you are to find the issue when searching back through chat history.
 
 Whatever happens, make sure the resolution gets recorded. Don't leave the debugging thread dangling. There's a good chance your future self will thank you.
 
