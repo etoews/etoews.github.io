@@ -1,7 +1,7 @@
 ---
 author: Everett Toews
 comments: true
-date: 2018-10-14 10:00:00+00:00
+date: 2021-08-25 10:00:00+00:00
 layout: post
 slug: devops-learning-resources
 title: DevOps Learning Resources
@@ -15,10 +15,12 @@ categories:
 
 ## Articles
 
-* [What is DevOps](https://www.atlassian.com/devops)
+* [CALMS Framework](https://www.atlassian.com/devops/frameworks/calms-framework)
   * I'm actually quite partial to the CALMS framework for DevOps.
 * [Products Over Projects](https://martinfowler.com/articles/products-over-projects.html)
-  * How things are funded has a fundamental impact on how work proceeds.
+  * Treating software as a product is a fundamental shift required for DevOps.
+* [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
+  * Technology platforms are crucial to the implementation of the technical aspects of DevOps.
 * [DevOps Enterprise Summit Forum Papers](https://itrevolution.com/forum-papers/)
   * A wealth of easily consumable knowledge and advice on all things DevOps.
 
@@ -28,7 +30,9 @@ I use [Feedly](https://feedly.com/) to subscribe to blogs. I hope RSS/Atom never
 
 * [Martin Fowler](https://martinfowler.com/)
 * [Container Solutions](https://container-solutions.com/blog/)
-  * They write more about cloud native but it's all DevOps as far as I'm concerned.
+  * Not just containers, lots of good general posts about DevOps.
+* [zwischenzugs](https://zwischenzugs.com/)
+* [InfoQ on DevOps](https://www.infoq.com/Devops/articles/)
 
 ## Books
 
@@ -39,7 +43,16 @@ The first three books here are absolutely required reading.
 * [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
   * If someone says "DevOps has no definition", hit them over the head with this book.
 * [The Unicorn Project](https://itrevolution.com/the-unicorn-project/)
+  * I like to describe it as "one woman's quest to build a development environment and unblock an entire organisation".
 * [Site Reliability Engineering](https://landing.google.com/sre/books/)
+* [Cloud Native Transformation](https://info.container-solutions.com/cloud-native-transformation-oreillly-book)
+
+Not DevOps but I highly regard these.
+
+* [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
+* [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+  * I think of it as a peek behind the curtain into what makes people think what they think and do what they do.
+* [The Information: A History, a Theory, a Flood](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
 
 ## Events
 
@@ -50,7 +63,7 @@ The first three books here are absolutely required reading.
 ## Courses
 
 * [The DevOps Foundation video courses on LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations)
-  * I know the instructors and they’re long-time practitioners of DevOps
+  * I know the instructors and they’re long-time practitioners of DevOps. I'd vouch for this training.
 * There are also training and accreditation organisations. Opinion on their validity varies. I’ve never done any of these so cannot vouch for them but I do know some trainers.
   * [DevOps Institute](https://devopsinstitute.com/)
   * [ICAgile DevOps](https://www.icagile.com/Learning-Roadmap/DevOps)
@@ -72,7 +85,7 @@ The first three books here are absolutely required reading.
 ### Containers
 
 * [The Docker Book](https://dockerbook.com/)
-  * Kept updated and the updates are always free. Amazing value.
+  * A great starter book for Docker. Still relevant.
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   * Working through this tutorial is a must if you're at all serious about deploying Kubernetes.
 
@@ -80,4 +93,3 @@ The first three books here are absolutely required reading.
 
 * [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
   * I’m a big proponent of the feature branch workflow, potentially with forks.
-  * The Gitflow workflow can be necessary for more complex projects/products
