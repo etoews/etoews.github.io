@@ -39,9 +39,9 @@ I've written the small library method [semver_compare](https://github.com/etoews
 
 At the time of writing, the versions of all of the software used in this post are:
 
-* Docker Desktop: 2.2.0.3
-* Docker: 19.03.5
-* Jenkins: 2.220
+* Docker Desktop: 4.1.1
+* Docker: 20.10.8
+* Jenkins: Long-Term Support (LTS)
 
 ## Install Jenkins
 
@@ -53,7 +53,7 @@ This command will run a Docker container in interactive mode (you'll be able to 
 docker run --interactive --tty --rm \
   --volume jenkins_home:/var/jenkins_home \
   --publish 8080:8080 --publish 50000:50000 \
-  jenkins/jenkins:2.220-alpine
+  jenkins/jenkins:lts
 ```
 
 Open Jenkins at [http://localhost:8080/](http://localhost:8080/).
