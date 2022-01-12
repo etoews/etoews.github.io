@@ -38,6 +38,13 @@ p.note
   text-align: center;
 }
 
+.img-centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .blog-aside {
   padding-top: 36px;
 }
