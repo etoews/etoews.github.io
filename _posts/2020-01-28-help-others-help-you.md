@@ -69,6 +69,8 @@ For example
 1. Helper: Validate the input at the top of the function and return an error message if `time <= 0`. Please write some unit tests too. :)
 1. Helpee: Sounds good to me.
 
+The more relevant information you can give them about the whole problem, the better.
+
 ### Link
 
 Whenever possible, share a link to the exact thing you need help with. Whether it's source code, logs, or something else. Giving someone a link they can click on to take them to the location of the problem saves so much time and effort. That said, share the link but save them a click and include an excerpt of the logs/code/text in question in chat too.
