@@ -21,7 +21,7 @@ categories:
 * [Related Work](#related-work)
 * [Coda](#coda)
 
-## Search for solutions
+## Search for Solutions
 
 Maybe it goes without saying but starting out by searching for a solution yourself is a must.
 
@@ -55,6 +55,20 @@ Providing context is crucial to getting help effectively.
 
 Said another way, there are no dumb questions but there are incomplete questions. 😉 
 
+### What Are You Trying to Achieve?
+
+When someone is trying to help you, understanding what you're trying to achieve can make all the difference. Sometimes you might be asking a hyper-specific question about a _solution_ you're attempting but if someone understands what you're trying to achieve, they can look at the _whole problem_ and potentially suggest a better solution. This is often referred to as the [XY Problem](https://en.wikipedia.org/wiki/XY_problem).
+
+For example
+
+1. Helpee: Why am I getting a `ZeroDivisionError` when I run my `rate` function?
+1. Helper: What are you trying to achieve?
+1. Helpee: I'm try to calculate the rate of water flow in this function in litres/minute.
+1. Helper: Can the time in minutes ever really be zero?
+1. Helpee: Not really ...
+1. Helper: Validate the input at the top of the function and return an error message if `time <= 0`. Please write some unit tests too. :)
+1. Helpee: Sounds good to me.
+
 ### Link
 
 Whenever possible, share a link to the exact thing you need help with. Whether it's source code, logs, or something else. Giving someone a link they can click on to take them to the location of the problem saves so much time and effort. That said, share the link but save them a click and include an excerpt of the logs/code/text in question in chat too.
@@ -72,6 +86,14 @@ PING example.com (93.184.216.34) 56(84) bytes of data.
 --- example.com ping statistics ---
 4 packets transmitted, 0 received, 100% packet loss, time 2999ms
 ```
+
+### Code as Code Blocks
+
+When sharing code, always share the code as a code block in your chat tool.
+
+In most chat tools you can start a code block using 3 backticks like so ```.
+
+Resist the temptation to share code as a screenshot but there are other good reasons to share screenshots too.
 
 ### Screenshots
 
@@ -105,6 +127,7 @@ Don't be afraid to post to [stackoverflow.com](https://stackoverflow.com/) if yo
 
 * Julia Evans: [How to ask good questions](https://jvns.ca/blog/good-questions/)
 * Jon Skeet: [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
+* Eric S. Raymond [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * Myself: [Write That Request For Help, But Don't Send It...Yet]({% post_url 2012-12-10-write-that-request-for-help-but-dont-send-it-yet %})
 * StackOverflow: [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
 * Wikipedia: [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
