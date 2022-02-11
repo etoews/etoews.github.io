@@ -9,7 +9,7 @@ image: /img/posts/rubber-duck.png
 categories:
   - documentation
 ---
-<img class="img-right" src="{{ page.image }}"/>Asking for help is a common and natural thing that _everyone_ does. You need help right away so if you can help others help you, everyone wins. Getting help from others is a skill that can be learned and refined over time.
+<img class="img-right" src="{{ page.image }}"/>Asking for help is a common and natural thing that _everyone_ does. You need help right away so if you can help others help you, everyone wins. Getting help from others is a skill that can be learned and refined over time. This post is geared towards getting help with problems in software development and operations but most of the advice is applicable to many other areas.
 
 <!--more-->
 
@@ -113,7 +113,7 @@ Isolating the problem can severely reduce the time it takes to help you.
 
 Let others know what you've tried already. That gives them more information and can stop them from chasing a red herring.
 
-If you can reproduce the problem reliably and provide the steps to do so, you're already most of the way to solving it. Those steps will help others get up to speed quickly and get you the help you need.
+If you can reproduce the problem reliably and provide the steps to do so, you're already most of the way to solving it. Those steps will help others get up to speed quickly and get you the help you need. It's best if you can provide code or commands that can be executed to reproduce it.
 
 Even isolating the problem at a coarse level can be beneficial. Providing information about whether it's the database, network, API, or some other layer or component can save time.
 
