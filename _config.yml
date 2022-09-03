@@ -7,7 +7,7 @@ paginate: 6
 paginate_path: "page:num"
 twitter:
   username: etoews
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
