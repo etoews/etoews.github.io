@@ -11,7 +11,7 @@ categories:
   - hackathon
 ---
 
-[HackTX](http://hacktx.com/) is the biggest hackathon in Texas. It's a 24 hour annual hackathon hosted by the Hacker Lounge and Technology Entrepreneurship Society student organizations at The University of Texas at Austin. It's made up of 500 hackers with $10,000 in prizes. By far, it's the biggest hackathon that I've personally attended and I was pretty damn excited to represent Rackspace as a sponsor.
+[HackTX](https://hacktx.com/) is the biggest hackathon in Texas. It's a 24 hour annual hackathon hosted by the Hacker Lounge and Technology Entrepreneurship Society student organizations at The University of Texas at Austin. It's made up of 500 hackers with $10,000 in prizes. By far, it's the biggest hackathon that I've personally attended and I was pretty damn excited to represent Rackspace as a sponsor.
 
 <div class="img-center"><img src="/img/posts/hacktx.jpg"/></div>
 
@@ -19,7 +19,7 @@ categories:
 
 ## Kick Off
 
-To kick things off, some of the sponsors gave a demo of their APIs (plus associated software development kits) and the kinds of things you can do with their services. I had a chance to demonstrate what the Rackspace Cloud could do for these hackers. I showed them how to use the [Developer Discount](http://developer.rackspace.com/devtrial/) to sign up for a Rackspace account that they could use during the hackathon and beyond without having to pay for anything. They could use that account to spin up a Performance 1 Cloud Server quickly that would be able to host whatever project they were hacking on. Finally I showed them how to use the [Rackspace SDKs](http://developer.rackspace.com/#home-sdks) to make it easy for them to access other cloud APIs in the programming language of their choice. Knowing that Java was part of the curriculum at UT Austin, I focused on how to use the [Rackspace Java SDK](http://jclouds.apache.org/documentation/quickstart/rackspace/), powered by Apache jclouds.
+To kick things off, some of the sponsors gave a demo of their APIs (plus associated software development kits) and the kinds of things you can do with their services. I had a chance to demonstrate what the Rackspace Cloud could do for these hackers. I showed them how to use the [Developer Discount](http://developer.rackspace.com/devtrial/) to sign up for a Rackspace account that they could use during the hackathon and beyond without having to pay for anything. They could use that account to spin up a Performance 1 Cloud Server quickly that would be able to host whatever project they were hacking on. Finally I showed them how to use the [Rackspace SDKs](http://developer.rackspace.com/#home-sdks) to make it easy for them to access other cloud APIs in the programming language of their choice. Knowing that Java was part of the curriculum at UT Austin, I focused on how to use the [Rackspace Java SDK](https://jclouds.apache.org/), powered by Apache jclouds.
 
 Here's a short video of the demo I did.
 

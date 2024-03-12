@@ -38,7 +38,7 @@ You can also attempt to know your audience at the outset and during the workshop
 
 Put everyone on the same page by starting out with some slides on the basics of your pre-requisites. At the very least it will set a common terminology for the rest of the workshop. Do "hands up" surveys of the audience by asking them what they know about the technologies already and adjust emphasis accordingly.
 
-One of the best ways to know your audience as the workshop progresses is the Sticky Notes technique. It's a great way for you to see how your audience is doing visually and for them to provide feedback. You can read more about it from Software Carpentry's ["What Are the Sticky Notes For?"](http://software-carpentry.org/workshops/operations.html#sign-in).
+One of the best ways to know your audience as the workshop progresses is the Sticky Notes technique. It's a great way for you to see how your audience is doing visually and for them to provide feedback. You can read more about it from Software Carpentry's ["Sticky Notes"](https://swcarpentry.github.io/swc-releases/2017.02/instructor-training/15-practices/#other-practices).
 
 ### <a name="share-your-content-first"></a>Share Your Content First
 
@@ -85,7 +85,7 @@ Be explicit in all things. If you catch yourself saying "As you probably already
 * Don't use short parameters on the command line interface. e.g. Prefer 1 over 2.
  1. `docker run --volume=$(pwd):/srv/jekyll --tty=true --publish 4000:4000 jekyll/pages jekyll serve`
  2. `docker run -v=$(pwd):/srv/jekyll -t -p 4000:4000 jekyll/pages jekyll s`
-* Use diagrams. Diagrams are very explicit to visual thinkers. I find [Google Drawings](https://support.google.com/docs/topic/1360903?hl=en&ref_topic=1397170) pretty usable and it's easy to collaborate with others.
+* Use diagrams. Diagrams are very explicit to visual thinkers. I find [app.diagrams.net](https://app.diagrams.net/) pretty usable and it's easy to collaborate with others (see [Diagramming is a Solved Problem]({% post_url 2022-01-12-diagramming-is-a-solved-problem %})).
 * Be a bit verbose when it comes to naming things like files, variables, classes, etc.
 
 Always be asking yourself how you can be more explicit. You already know all of the shortcuts but your audience doesn't even know the fundamentals yet.
@@ -129,5 +129,3 @@ If there's more material you want people to get into, give them a "What's Next" 
 It all boils down to empathy. Can you understand and feel what your audience is going through as they take your workshop? Can you feel their frustration when they don't understand something that has been poorly presented? Can you share their aha moment when the material finally clicks?
 
 Put yourself in your audience's shoes. Literally envision yourself taking your own workshop. You already know the material so well that it's particularly hard to do this, which is why it is all the more necessary. Ask yourself if you really understand what these people are going through.
-
-Note: I originally posted this at [Principles for a Successful Developer Workshop](https://developer.rackspace.com/blog/principles-for-a-successful-developer-workshop/) but brought it to my personal blog for an update.

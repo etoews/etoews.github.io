@@ -9,7 +9,7 @@ image: /img/posts/drawio-logo.png
 categories:
   - documentation
 ---
-<img class="img-right" src="{{ page.image }}"/>There are numerous diagramming tools in the market and they all do a very good job of diagramming. However, almost all of them suffer from a _fundamental_ problem that makes the diagrams they produce much less valuable. They make it impossible to share a rendered version of the diagram (e.g. png or jpg) that is conveniently editable. [diagrams.net](https://www.diagrams.net/) has solved that problem brilliantly.
+<img class="img-right" src="{{ page.image }}"/>There are numerous diagramming tools in the market and they all do a very good job of diagramming. However, almost all of them suffer from a _fundamental_ problem that makes the diagrams they produce much less valuable. They make it impossible to share a rendered version of the diagram (e.g. png or jpg) that is conveniently editable. [drawio.com](https://www.drawio.com/) has solved that problem brilliantly.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ In software development and architecture, diagrams are enormously valuable as th
 
 Most of the time, diagrams are embedded in other documentation, whether it's a wiki, website, markdown, or something else. The version that is embedded is a rendered version of the diagram (e.g. png or jpg) so it can be displayed in any browser. Rarely is the editable version included alongside the rendered version. The editable version has to be hunted down as it is typically stored elsewhere. You're lucky if you can find it, find a version of the diagramming tool to edit it, and acquire a license to even open the diagramming tool at all. With so many barriers, it's often impossible to update a diagram and most of its value is lost.
 
-[diagrams.net](https://www.diagrams.net/) has solved that problem by embedding the editable version of a diagram _within_ the rendered version and making it convenient and free to edit it in [app.diagrams.net](https://app.diagrams.net/) (you can find the docs at [diagrams.net/doc/](https://www.diagrams.net/doc/)).
+[drawio.com](https://www.drawio.com/) has solved that problem by embedding the editable version of a diagram _within_ the rendered version and making it convenient and free to edit it in [app.diagrams.net](https://app.diagrams.net/) (you can find the docs at [drawio.com/doc/](https://www.drawio.com/doc/)).
 
 ## Edit a Diagram
 
