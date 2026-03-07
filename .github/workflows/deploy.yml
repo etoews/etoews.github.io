@@ -26,12 +26,15 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Set image
+        run: echo "IMAGE=$(cat image.env)" >> $GITHUB_ENV
+
       - name: Build with Jekyll
         run: |
           docker run --rm \
             --volume=${{ github.workspace }}:/srv/jekyll \
             --env JEKYLL_ENV=production \
-            etoews/jekyll:4.4.1 \
+            ${{ env.IMAGE }} \
             bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
 
       - name: Upload artifact

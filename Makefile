@@ -1,4 +1,4 @@
-export IMAGE := etoews/jekyll:4.4.1
+export IMAGE := $(shell cat image.env)
 
 .PHONY: preview build-and-push help
 
