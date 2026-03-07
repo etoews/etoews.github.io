@@ -29,11 +29,10 @@ jobs:
       - name: Set image
         run: |
           IMAGE=$(cat image.env)
-          echo "IMAGE=${IMAGE}"
           echo "IMAGE=${IMAGE}" >> $GITHUB_ENV
 
       - name: Print all environment variables
-        run: env 
+        run: env | sort
 
       - name: Build with Jekyll
         run: |
