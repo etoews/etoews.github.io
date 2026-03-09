@@ -2,7 +2,6 @@
 author: Everett Toews
 comments: true
 date: 2022-09-03 10:00:00+00:00
-future: true
 layout: post
 slug: aws-account-cleaner
 title: AWS Account Cleaner
@@ -17,15 +16,15 @@ categories:
 
 <!-- TOC -->
 
-* [Choosing an AWS Account Cleaner](#choosing-an-aws-account-cleaner)
-* [Using AWSweeper](#using-awsweeper)
-* [Installation](#installation)
-* [Configuration](#configuration)
-* [Dry Run](#dry-run)
-* [Tag Filters](#tag-filters)
-* [Tag Filters Example](#tag-filters-example)
-* [Including More Resources](#including-more-resources)
-* [Coda](#coda)
+- [Choosing an AWS Account Cleaner](#choosing-an-aws-account-cleaner)
+- [Using AWSweeper](#using-awsweeper)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Dry Run](#dry-run)
+- [Tag Filters](#tag-filters)
+- [Tag Filters Example](#tag-filters-example)
+- [Including More Resources](#including-more-resources)
+- [Coda](#coda)
 
 <!-- /TOC -->
 

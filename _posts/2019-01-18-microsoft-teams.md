@@ -14,16 +14,16 @@ image: /img/posts/teams.png
 
 <!-- TOC -->
 
-* [Overview](#overview)
-* [Norms](#norms)
-* [Teams and Channels](#teams-and-channels)
-* [Tips 'n Tricks](#tips-n-tricks)
-    * [General](#general)
-    * [Threads](#threads)
-    * [Message Formatting](#message-formatting)
-    * [Notifications](#notifications)
-* [Getting Help](#getting-help)
-* [Coda](#coda)
+- [Overview](#overview)
+- [Norms](#norms)
+- [Teams and Channels](#teams-and-channels)
+- [Tips 'n Tricks](#tips-n-tricks)
+    - [General](#general)
+    - [Threads](#threads)
+    - [Message Formatting](#message-formatting)
+    - [Notifications](#notifications)
+- [Getting Help](#getting-help)
+- [Coda](#coda)
 
 <!-- /TOC -->
 
@@ -103,7 +103,7 @@ Like any tool, it's necessary to learn at least some of the tip 'n tricks to be 
   * e.g. "read [my answer](https://stackoverflow.com/questions/26405380/how-do-i-correctly-setup-and-teardown-my-pytest-class-with-tests/39401087#39401087) on pytest" rather than "just go to that question on pytest and look around for my answer"
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just link people to stuff please. It&#39;s the HT in HTTP and HTML.</p>&mdash; Everett Toews (@etoews) <a href="https://twitter.com/etoews/status/723173231016833025?ref_src=twsrc%5Etfw">April 21, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-* Asking for help is a common and natural thing that _everyone_ does. You need help right away so if you can help others help you, everyone wins. Getting help from others is a bit different in chat so I wrote the guide [Help Others Help You]({% post_url 2020-01-28-help-others-help-you %}).
+* Asking for help is a common and natural thing that _everyone_ does. You need help right away so if you can help others help you, everyone wins. Getting help from others is a bit different in chat so I wrote the guide [Help Others Help You]({% post_url 2026-03-07-best-practices-when-asking-for-help %}).
 
 ## Coda
 

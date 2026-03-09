@@ -3,5 +3,5 @@
 Preview
 
 ```bash
-./preview.sh
+make preview
 ```
