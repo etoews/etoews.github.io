@@ -144,7 +144,13 @@ Resist the temptation to share code as a screenshot but there are other good rea
 
 ### Screenshots
 
-If you're sharing screenshots, annotate the screenshot to be explicit about what you need help with.
+When sharing screenshots, follow these guidelines.
+
+* Share the maximum amount of screen that you reasonably can.
+* If appropriate, screenshot the entire screen because that will conveniently show the date and time as well, which is valuable info.
+* If you can only screenshot the browser, include the location bar at the top, which is valuable info.
+* Redact any sensitive information.
+* Annotate the screenshot to be explicit about what you need help with.
 
 <img src="/img/posts/help-others-help-you-2.png"/>
 
