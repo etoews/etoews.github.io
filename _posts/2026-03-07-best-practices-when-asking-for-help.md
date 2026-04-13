@@ -3,7 +3,7 @@ author: Everett Toews
 comments: true
 date: 2026-03-07 10:00:00+00:00
 layout: post
-slug: best-practices-when-asking-for-help
+slug: help
 title: Best Practices when Asking for Help
 image: /img/posts/rubber-duck.png
 categories:
