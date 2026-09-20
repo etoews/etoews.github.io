@@ -68,6 +68,7 @@ Instructions
         1. Fill in the properties however you like
         1. Check "Include a copy of my diagram"
         1. Click Export
+1. Either way, name the file as `{filename}.drawio.png` so people know it's editable with draw.io.
 
 You now have a diagram that can be displayed anywhere and easily edited.
 
