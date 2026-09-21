@@ -25,6 +25,10 @@ Local copies also remove a third-party script that has no Subresource Integrity 
   a page view to the property `UA-21475122-2` each time a reader opened a page.
 - `cards/default.html`: added `sitemap: false` front matter. This keeps the card out of
   `sitemap.xml`, because `jekyll-sitemap` adds all static `.html` files.
+- `cards/default.html`: added a `permalink` to the same front matter. The front matter
+  makes Jekyll process the card as a page. Pages obey the `permalink` setting in
+  `_config.yml`, which ends with `/`. Without the explicit permalink, Jekyll writes the
+  card to `cards/default/index.html`, but `widget.js` asks for `cards/default.html`.
 
 ## Limit
 
